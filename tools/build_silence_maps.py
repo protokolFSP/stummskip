@@ -23,7 +23,7 @@ import numpy as np
 
 
 DEFAULT_AUDIO_EXTENSIONS = {".m4a", ".mp3", ".wav", ".aac", ".ogg", ".flac"}
-DEFAULT_BATCH_SIZE = 5
+DEFAULT_BATCH_SIZE = 1
 DEFAULT_FRAME_MS = 20
 DEFAULT_THRESHOLD = 0.015
 DEFAULT_MIN_SILENCE_MS = 900
@@ -36,7 +36,8 @@ DEFAULT_ALGO_VERSION = "sm-v1"
 DEFAULT_SAMPLE_RATE = 16000
 DEFAULT_CHANNELS = 1
 DEFAULT_WIDTH_BYTES = 2
-DEFAULT_PER_FILE_SLEEP_SEC = 0.8
+DEFAULT_PER_FILE_SLEEP_SEC = 1.2
+DEFAULT_PER_BATCH_SLEEP_SEC = 4.0
 
 SOURCE_CONFIG = {
     "current": {
@@ -93,7 +94,7 @@ def _http_open(url: str, timeout: int = 60):
     req = Request(
         url,
         headers={
-            "User-Agent": "silence-map-builder/1.1",
+            "User-Agent": "silence-map-builder/1.2",
             "Accept": "*/*",
             "Connection": "close",
         },
@@ -105,7 +106,7 @@ def _is_retryable_http_error(exc: HTTPError) -> bool:
     return exc.code in {429, 500, 502, 503, 504}
 
 
-def _with_retry(fn, *, attempts: int = 5, base_sleep: float = 2.0):
+def _with_retry(fn, *, attempts: int = 6, base_sleep: float = 2.0):
     last_exc = None
     for i in range(attempts):
         try:
@@ -113,13 +114,14 @@ def _with_retry(fn, *, attempts: int = 5, base_sleep: float = 2.0):
         except (HTTPError, URLError, TimeoutError, OSError, socket.timeout) as exc:
             last_exc = exc
             retryable = True
+
             if isinstance(exc, HTTPError) and not _is_retryable_http_error(exc):
                 retryable = False
 
             if i == attempts - 1 or not retryable:
                 raise
 
-            sleep_s = base_sleep * (2**i) + random.uniform(0, 0.8)
+            sleep_s = base_sleep * (2**i) + random.uniform(0, 0.9)
             print(f"retry {i + 1}/{attempts - 1} after error: {exc} | sleep={sleep_s:.1f}s")
             time.sleep(sleep_s)
 
@@ -139,7 +141,7 @@ def http_download(url: str, dst: Path, timeout: int = 180) -> None:
         with _http_open(url, timeout=timeout) as resp, dst.open("wb") as f:
             shutil.copyfileobj(resp, f)
 
-    _with_retry(_run, attempts=5, base_sleep=2.5)
+    _with_retry(_run, attempts=6, base_sleep=2.5)
 
 
 def build_archive_download_url(identifier: str, name: str) -> str:
@@ -150,7 +152,6 @@ def build_archive_download_url(identifier: str, name: str) -> str:
 def decode_uri_component_safe(value: str) -> str:
     try:
         from urllib.parse import unquote
-
         return unquote(value)
     except Exception:
         return value
@@ -207,6 +208,7 @@ def read_wav_mono_pcm16(wav_path: Path) -> Tuple[np.ndarray, int, float]:
         if sampwidth != DEFAULT_WIDTH_BYTES:
             raise ValueError(f"expected 16-bit pcm wav, got {sampwidth * 8}-bit")
         raw = wf.readframes(nframes)
+
     audio = np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768.0
     duration = len(audio) / float(sample_rate) if sample_rate > 0 else 0.0
     return audio, sample_rate, duration
@@ -313,9 +315,11 @@ def fetch_archive_audio_items(identifier: str, src: str) -> List[dict]:
         name = str(f.get("name", ""))
         if not name:
             continue
+
         suffix = Path(name).suffix.lower()
         if suffix not in DEFAULT_AUDIO_EXTENSIONS:
             continue
+
         if "source" in f and str(f.get("source", "")).lower() != "original":
             continue
 
@@ -473,6 +477,7 @@ def run_once(args: argparse.Namespace) -> int:
 
     print(f"Toplam audio: {len(all_items)}")
     print(f"İşlenecek aday: {len(candidates)}")
+
     if not candidates:
         save_index(index_path, index_data)
         print("Yeni aday yok.")
@@ -506,18 +511,24 @@ def run_once(args: argparse.Namespace) -> int:
                 update_index_success(index_data, item, out_path.relative_to(output_root), args.algo_version, silence_map)
                 ok_count += 1
                 print(f"     ok | segment={len(silence_map.segments)} | duration={silence_map.duration:.1f}s")
+                print(f"     out | {out_path.relative_to(output_root)}")
             except Exception as exc:
                 update_index_error(index_data, item, args.algo_version, str(exc))
                 err_count += 1
                 print(f"     err | {exc}", file=sys.stderr)
 
+            save_index(index_path, index_data)
             time.sleep(args.per_file_sleep_sec)
 
-        save_index(index_path, index_data)
         time.sleep(args.per_batch_sleep_sec)
 
     print(f"\nBitti. başarılı={ok_count} hata={err_count}")
-    return 0 if err_count == 0 else 1
+
+    if ok_count > 0:
+        return 0
+    if err_count > 0:
+        return 1
+    return 0
 
 
 def run_loop(args: argparse.Namespace) -> int:
@@ -549,7 +560,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--watch", action="store_true")
     parser.add_argument("--interval-sec", type=int, default=6 * 60 * 60)
     parser.add_argument("--per-file-sleep-sec", type=float, default=DEFAULT_PER_FILE_SLEEP_SEC)
-    parser.add_argument("--per-batch-sleep-sec", type=float, default=3.0)
+    parser.add_argument("--per-batch-sleep-sec", type=float, default=DEFAULT_PER_BATCH_SLEEP_SEC)
     return parser.parse_args()
 
 
