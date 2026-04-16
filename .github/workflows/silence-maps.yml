@@ -1,3 +1,4 @@
+# .github/workflows/silence-maps.yml
 name: Build silence maps
 
 on:
@@ -19,7 +20,7 @@ on:
       batch_size:
         description: "Batch boyutu"
         required: true
-        default: "10"
+        default: "5"
         type: string
   schedule:
     - cron: "17 */6 * * *"
@@ -34,6 +35,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
 
     steps:
       - name: Repo checkout
@@ -68,7 +70,7 @@ jobs:
             fi
           else
             echo "source=fspneu" >> "$GITHUB_OUTPUT"
-            echo "batch_size=10" >> "$GITHUB_OUTPUT"
+            echo "batch_size=5" >> "$GITHUB_OUTPUT"
             echo "only_new=--only-new" >> "$GITHUB_OUTPUT"
           fi
 
@@ -78,7 +80,9 @@ jobs:
             --source "${{ steps.params.outputs.source }}" \
             --output silence-maps \
             ${{ steps.params.outputs.only_new }} \
-            --batch-size "${{ steps.params.outputs.batch_size }}"
+            --batch-size "${{ steps.params.outputs.batch_size }}" \
+            --per-file-sleep-sec 0.8 \
+            --per-batch-sleep-sec 3.0
 
       - name: Değişiklik varsa commit et
         shell: bash
