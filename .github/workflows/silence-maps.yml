@@ -20,7 +20,7 @@ on:
       batch_size:
         description: "Batch boyutu"
         required: true
-        default: "5"
+        default: "1"
         type: string
   schedule:
     - cron: "17 */6 * * *"
@@ -70,21 +70,43 @@ jobs:
             fi
           else
             echo "source=fspneu" >> "$GITHUB_OUTPUT"
-            echo "batch_size=5" >> "$GITHUB_OUTPUT"
+            echo "batch_size=1" >> "$GITHUB_OUTPUT"
             echo "only_new=--only-new" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Silence map üret
+        id: build_maps
+        continue-on-error: true
         run: |
           python tools/build_silence_maps.py \
             --source "${{ steps.params.outputs.source }}" \
             --output silence-maps \
             ${{ steps.params.outputs.only_new }} \
             --batch-size "${{ steps.params.outputs.batch_size }}" \
-            --per-file-sleep-sec 0.8 \
-            --per-batch-sleep-sec 3.0
+            --per-file-sleep-sec 1.2 \
+            --per-batch-sleep-sec 4.0
+
+      - name: Çıktıları göster
+        if: always()
+        shell: bash
+        run: |
+          echo "ROOT:"
+          ls -la || true
+          echo
+          echo "SILENCE MAPS:"
+          ls -la silence-maps || true
+          echo
+          echo "S1:"
+          ls -la silence-maps/S1 || true
+          echo
+          echo "S2:"
+          ls -la silence-maps/S2 || true
+          echo
+          echo "INDEX:"
+          cat silence-maps/index.json || true
 
       - name: Değişiklik varsa commit et
+        if: always()
         shell: bash
         run: |
           if git diff --quiet -- silence-maps; then
@@ -97,3 +119,9 @@ jobs:
           git add silence-maps
           git commit -m "chore: update silence maps"
           git push
+
+      - name: Build sonucu
+        if: always()
+        shell: bash
+        run: |
+          echo "build_maps outcome = ${{ steps.build_maps.outcome }}"
