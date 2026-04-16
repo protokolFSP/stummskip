@@ -4,7 +4,9 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import random
 import shutil
+import socket
 import subprocess
 import sys
 import tempfile
@@ -21,7 +23,7 @@ import numpy as np
 
 
 DEFAULT_AUDIO_EXTENSIONS = {".m4a", ".mp3", ".wav", ".aac", ".ogg", ".flac"}
-DEFAULT_BATCH_SIZE = 10
+DEFAULT_BATCH_SIZE = 5
 DEFAULT_FRAME_MS = 20
 DEFAULT_THRESHOLD = 0.015
 DEFAULT_MIN_SILENCE_MS = 900
@@ -34,6 +36,7 @@ DEFAULT_ALGO_VERSION = "sm-v1"
 DEFAULT_SAMPLE_RATE = 16000
 DEFAULT_CHANNELS = 1
 DEFAULT_WIDTH_BYTES = 2
+DEFAULT_PER_FILE_SLEEP_SEC = 0.8
 
 SOURCE_CONFIG = {
     "current": {
@@ -83,19 +86,60 @@ def utc_now_iso() -> str:
 
 def chunked(seq: List[dict], size: int) -> Iterable[List[dict]]:
     for i in range(0, len(seq), size):
-        yield seq[i:i + size]
+        yield seq[i : i + size]
+
+
+def _http_open(url: str, timeout: int = 60):
+    req = Request(
+        url,
+        headers={
+            "User-Agent": "silence-map-builder/1.1",
+            "Accept": "*/*",
+            "Connection": "close",
+        },
+    )
+    return urlopen(req, timeout=timeout)
+
+
+def _is_retryable_http_error(exc: HTTPError) -> bool:
+    return exc.code in {429, 500, 502, 503, 504}
+
+
+def _with_retry(fn, *, attempts: int = 5, base_sleep: float = 2.0):
+    last_exc = None
+    for i in range(attempts):
+        try:
+            return fn()
+        except (HTTPError, URLError, TimeoutError, OSError, socket.timeout) as exc:
+            last_exc = exc
+            retryable = True
+            if isinstance(exc, HTTPError) and not _is_retryable_http_error(exc):
+                retryable = False
+
+            if i == attempts - 1 or not retryable:
+                raise
+
+            sleep_s = base_sleep * (2**i) + random.uniform(0, 0.8)
+            print(f"retry {i + 1}/{attempts - 1} after error: {exc} | sleep={sleep_s:.1f}s")
+            time.sleep(sleep_s)
+
+    raise last_exc
 
 
 def http_get_json(url: str, timeout: int = 60) -> dict:
-    req = Request(url, headers={"User-Agent": "silence-map-builder/1.0"})
-    with urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    def _run():
+        with _http_open(url, timeout=timeout) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+
+    return _with_retry(_run, attempts=5, base_sleep=2.0)
 
 
 def http_download(url: str, dst: Path, timeout: int = 180) -> None:
-    req = Request(url, headers={"User-Agent": "silence-map-builder/1.0"})
-    with urlopen(req, timeout=timeout) as resp, dst.open("wb") as f:
-        shutil.copyfileobj(resp, f)
+    def _run():
+        with _http_open(url, timeout=timeout) as resp, dst.open("wb") as f:
+            shutil.copyfileobj(resp, f)
+
+    _with_retry(_run, attempts=5, base_sleep=2.5)
 
 
 def build_archive_download_url(identifier: str, name: str) -> str:
@@ -135,6 +179,7 @@ def ffmpeg_exists() -> bool:
 def convert_to_wav(src: Path, dst_wav: Path, sample_rate: int) -> None:
     cmd = [
         "ffmpeg",
+        "-nostdin",
         "-y",
         "-i",
         str(src),
@@ -368,7 +413,12 @@ def process_one_item(
         return silence_map, out_path
 
 
-def build_candidate_list(all_items: List[dict], index_data: dict, algo_version: str, only_new: bool) -> List[dict]:
+def build_candidate_list(
+    all_items: List[dict],
+    index_data: dict,
+    algo_version: str,
+    only_new: bool,
+) -> List[dict]:
     if not only_new:
         return all_items
     return [item for item in all_items if not is_item_already_done(index_data, item["id"], algo_version)]
@@ -415,7 +465,7 @@ def run_once(args: argparse.Namespace) -> int:
 
     try:
         all_items = fetch_archive_audio_items(source_cfg["identifier"], source_cfg["src"])
-    except (HTTPError, URLError, TimeoutError, OSError, json.JSONDecodeError) as exc:
+    except (HTTPError, URLError, TimeoutError, OSError, socket.timeout, json.JSONDecodeError) as exc:
         print(f"Metadata okunamadı: {exc}", file=sys.stderr)
         return 1
 
@@ -433,6 +483,7 @@ def run_once(args: argparse.Namespace) -> int:
 
     for batch_no, batch in enumerate(chunked(candidates, args.batch_size), start=1):
         print(f"\nBatch {batch_no}: {len(batch)} dosya")
+
         for item in batch:
             print(f"  -> {item['name']}")
             try:
@@ -460,7 +511,10 @@ def run_once(args: argparse.Namespace) -> int:
                 err_count += 1
                 print(f"     err | {exc}", file=sys.stderr)
 
+            time.sleep(args.per_file_sleep_sec)
+
         save_index(index_path, index_data)
+        time.sleep(args.per_batch_sleep_sec)
 
     print(f"\nBitti. başarılı={ok_count} hata={err_count}")
     return 0 if err_count == 0 else 1
@@ -494,6 +548,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--algo-version", default=DEFAULT_ALGO_VERSION)
     parser.add_argument("--watch", action="store_true")
     parser.add_argument("--interval-sec", type=int, default=6 * 60 * 60)
+    parser.add_argument("--per-file-sleep-sec", type=float, default=DEFAULT_PER_FILE_SLEEP_SEC)
+    parser.add_argument("--per-batch-sleep-sec", type=float, default=3.0)
     return parser.parse_args()
 
 
@@ -506,5 +562,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
-
