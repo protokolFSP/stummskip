@@ -12,7 +12,7 @@ import time
 import wave
 from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Iterable, List, Optional, Tuple
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote
 from urllib.request import Request, urlopen
@@ -106,6 +106,7 @@ def build_archive_download_url(identifier: str, name: str) -> str:
 def decode_uri_component_safe(value: str) -> str:
     try:
         from urllib.parse import unquote
+
         return unquote(value)
     except Exception:
         return value
@@ -135,10 +136,14 @@ def convert_to_wav(src: Path, dst_wav: Path, sample_rate: int) -> None:
     cmd = [
         "ffmpeg",
         "-y",
-        "-i", str(src),
-        "-ac", str(DEFAULT_CHANNELS),
-        "-ar", str(sample_rate),
-        "-sample_fmt", "s16",
+        "-i",
+        str(src),
+        "-ac",
+        str(DEFAULT_CHANNELS),
+        "-ar",
+        str(sample_rate),
+        "-sample_fmt",
+        "s16",
         str(dst_wav),
     ]
     result = subprocess.run(cmd, capture_output=True, text=True)
@@ -181,8 +186,6 @@ def detect_silence_segments(
     max_skip_ms: int,
 ) -> List[SilenceSegment]:
     frame_size = max(1, int(sample_rate * frame_ms / 1000))
-    frame_duration = frame_size / float(sample_rate)
-
     silent_ranges: List[Tuple[float, float]] = []
     current_start: Optional[float] = None
 
@@ -249,7 +252,7 @@ def sanitize_file_name(name: str) -> str:
     return name.replace("/", "__")
 
 
-def map_file_path(output_root: Path, base_dir: str, item_id: str, name: str) -> Path:
+def map_file_path(output_root: Path, base_dir: str, name: str) -> Path:
     safe = sanitize_file_name(name)
     stem = Path(safe).stem
     return output_root / base_dir / f"{stem}.json"
@@ -261,7 +264,7 @@ def fetch_archive_audio_items(identifier: str, src: str) -> List[dict]:
     files = payload.get("files", [])
     items: List[dict] = []
 
-    for idx, f in enumerate(files):
+    for f in files:
         name = str(f.get("name", ""))
         if not name:
             continue
@@ -275,13 +278,15 @@ def fetch_archive_audio_items(identifier: str, src: str) -> List[dict]:
         url = build_archive_download_url(identifier, name)
         item_id = f"{src}|{name}"
 
-        items.append({
-            "id": item_id,
-            "name": name,
-            "title": title,
-            "url": url,
-            "src": src,
-        })
+        items.append(
+            {
+                "id": item_id,
+                "name": name,
+                "title": title,
+                "url": url,
+                "src": src,
+            }
+        )
 
     items.sort(key=lambda x: x["name"].lower())
     return items
@@ -294,10 +299,7 @@ def is_item_already_done(index_data: dict, item_id: str, algo_version: str) -> b
     return info.get("algo_version") == algo_version and info.get("status") == "done"
 
 
-def write_silence_map_json(
-    output_path: Path,
-    silence_map: SilenceMap,
-) -> None:
+def write_silence_map_json(output_path: Path, silence_map: SilenceMap) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     payload = asdict(silence_map)
     payload["segments"] = [asdict(seg) for seg in silence_map.segments]
@@ -362,28 +364,17 @@ def process_one_item(
             segments=segments,
         )
 
-        out_path = map_file_path(output_root, base_dir, item["id"], item["name"])
+        out_path = map_file_path(output_root, base_dir, item["name"])
         return silence_map, out_path
 
 
-def build_candidate_list(
-    all_items: List[dict],
-    index_data: dict,
-    algo_version: str,
-    only_new: bool,
-) -> List[dict]:
+def build_candidate_list(all_items: List[dict], index_data: dict, algo_version: str, only_new: bool) -> List[dict]:
     if not only_new:
         return all_items
     return [item for item in all_items if not is_item_already_done(index_data, item["id"], algo_version)]
 
 
-def update_index_success(
-    index_data: dict,
-    item: dict,
-    out_path: Path,
-    algo_version: str,
-    silence_map: SilenceMap,
-) -> None:
+def update_index_success(index_data: dict, item: dict, out_path: Path, algo_version: str, silence_map: SilenceMap) -> None:
     index_data.setdefault("items", {})
     index_data["items"][item["id"]] = {
         "name": item["name"],
@@ -398,12 +389,7 @@ def update_index_success(
     }
 
 
-def update_index_error(
-    index_data: dict,
-    item: dict,
-    algo_version: str,
-    error_message: str,
-) -> None:
+def update_index_error(index_data: dict, item: dict, algo_version: str, error_message: str) -> None:
     index_data.setdefault("items", {})
     index_data["items"][item["id"]] = {
         "name": item["name"],
@@ -422,10 +408,6 @@ def run_once(args: argparse.Namespace) -> int:
         print("ffmpeg bulunamadı. Lütfen ffmpeg kur ve PATH'e ekle.", file=sys.stderr)
         return 2
 
-    if args.source not in SOURCE_CONFIG:
-        print(f"Geçersiz source: {args.source}", file=sys.stderr)
-        return 2
-
     source_cfg = SOURCE_CONFIG[args.source]
     output_root = Path(args.output).resolve()
     index_path = output_root / "index.json"
@@ -437,12 +419,7 @@ def run_once(args: argparse.Namespace) -> int:
         print(f"Metadata okunamadı: {exc}", file=sys.stderr)
         return 1
 
-    candidates = build_candidate_list(
-        all_items=all_items,
-        index_data=index_data,
-        algo_version=args.algo_version,
-        only_new=args.only_new,
-    )
+    candidates = build_candidate_list(all_items, index_data, args.algo_version, args.only_new)
 
     print(f"Toplam audio: {len(all_items)}")
     print(f"İşlenecek aday: {len(candidates)}")
@@ -523,9 +500,11 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     if args.watch:
-      return run_loop(args)
+        return run_loop(args)
     return run_once(args)
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+
