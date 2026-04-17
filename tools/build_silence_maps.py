@@ -1,4 +1,3 @@
-# tools/build_silence_maps.py
 from __future__ import annotations
 
 import argparse
@@ -94,7 +93,7 @@ def _http_open(url: str, timeout: int = 60):
     req = Request(
         url,
         headers={
-            "User-Agent": "silence-map-builder/1.2",
+            "User-Agent": "silence-map-builder/1.3",
             "Accept": "*/*",
             "Connection": "close",
         },
