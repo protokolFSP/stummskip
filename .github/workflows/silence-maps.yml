@@ -1,4 +1,3 @@
-# .github/workflows/silence-maps.yml
 name: Build silence maps
 
 on:
@@ -40,6 +39,8 @@ jobs:
     steps:
       - name: Repo checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python kur
         uses: actions/setup-python@v5
@@ -77,7 +78,9 @@ jobs:
       - name: Silence map üret
         id: build_maps
         continue-on-error: true
+        shell: bash
         run: |
+          set -x
           python tools/build_silence_maps.py \
             --source "${{ steps.params.outputs.source }}" \
             --output silence-maps \
@@ -90,10 +93,16 @@ jobs:
         if: always()
         shell: bash
         run: |
+          echo "PWD:"
+          pwd
+          echo
           echo "ROOT:"
           ls -la || true
           echo
-          echo "SILENCE MAPS:"
+          echo "SILENCE MAPS TREE:"
+          find silence-maps -maxdepth 3 -type f | sort || true
+          echo
+          echo "SILENCE MAPS LS:"
           ls -la silence-maps || true
           echo
           echo "S1:"
@@ -109,14 +118,20 @@ jobs:
         if: always()
         shell: bash
         run: |
-          if git diff --quiet -- silence-maps; then
-            echo "Değişiklik yok."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p silence-maps
+          git add silence-maps
+
+          echo "GIT STATUS:"
+          git status --short
+
+          if git diff --cached --quiet; then
+            echo "Commitlenecek değişiklik yok."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add silence-maps
           git commit -m "chore: update silence maps"
           git push
 
