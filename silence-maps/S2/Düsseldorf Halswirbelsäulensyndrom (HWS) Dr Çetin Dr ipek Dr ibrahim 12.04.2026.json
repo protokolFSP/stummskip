@@ -1,0 +1,25 @@
+{
+  "id": "S2|Düsseldorf Halswirbelsäulensyndrom (HWS) Dr Çetin Dr ipek Dr ibrahim 12.04.2026.m4a",
+  "name": "Düsseldorf Halswirbelsäulensyndrom (HWS) Dr Çetin Dr ipek Dr ibrahim 12.04.2026.m4a",
+  "title": "Düsseldorf Halswirbelsäulensyndrom (HWS) Dr Çetin Dr ipek Dr ibrahim 12.04.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/Du%CC%88sseldorf%20Halswirbelsa%CC%88ulensyndrom%20%28HWS%29%20Dr%20C%CC%A7etin%20Dr%20ipek%20Dr%20ibrahim%2012.04.2026.m4a",
+  "duration": 4086.784,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T06:12:02Z",
+  "segments": [
+    {
+      "start": 209.1,
+      "end": 210.02
+    }
+  ]
+}
