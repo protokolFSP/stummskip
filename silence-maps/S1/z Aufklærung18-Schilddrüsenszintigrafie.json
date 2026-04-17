@@ -1,0 +1,57 @@
+{
+  "id": "S1|z Aufklærung18-Schilddrüsenszintigrafie.m4a",
+  "name": "z Aufklærung18-Schilddrüsenszintigrafie.m4a",
+  "title": "z Aufklærung18-Schilddrüsenszintigrafie.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung18-Schilddru%CC%88senszintigrafie.m4a",
+  "duration": 139.797,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T20:02:37Z",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 0.88
+    },
+    {
+      "start": 36.46,
+      "end": 37.32
+    },
+    {
+      "start": 37.8,
+      "end": 39.0
+    },
+    {
+      "start": 42.6,
+      "end": 43.56
+    },
+    {
+      "start": 70.3,
+      "end": 71.58
+    },
+    {
+      "start": 97.78,
+      "end": 98.7
+    },
+    {
+      "start": 107.02,
+      "end": 108.44
+    },
+    {
+      "start": 130.68,
+      "end": 131.48
+    },
+    {
+      "start": 137.26,
+      "end": 139.717
+    }
+  ]
+}

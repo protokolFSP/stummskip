@@ -1,0 +1,77 @@
+{
+  "id": "S1|z Aufklærung16-Feinnadelbiopsie.m4a",
+  "name": "z Aufklærung16-Feinnadelbiopsie.m4a",
+  "title": "z Aufklærung16-Feinnadelbiopsie.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung16-Feinnadelbiopsie.m4a",
+  "duration": 118.549,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T20:02:24Z",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 2.88
+    },
+    {
+      "start": 13.12,
+      "end": 13.96
+    },
+    {
+      "start": 14.44,
+      "end": 15.28
+    },
+    {
+      "start": 19.26,
+      "end": 20.1
+    },
+    {
+      "start": 23.1,
+      "end": 25.2
+    },
+    {
+      "start": 32.36,
+      "end": 34.36
+    },
+    {
+      "start": 43.64,
+      "end": 44.78
+    },
+    {
+      "start": 50.96,
+      "end": 52.04
+    },
+    {
+      "start": 65.72,
+      "end": 68.52
+    },
+    {
+      "start": 82.46,
+      "end": 83.88
+    },
+    {
+      "start": 84.22,
+      "end": 86.66
+    },
+    {
+      "start": 93.64,
+      "end": 94.6
+    },
+    {
+      "start": 101.18,
+      "end": 102.64
+    },
+    {
+      "start": 115.3,
+      "end": 118.469
+    }
+  ]
+}

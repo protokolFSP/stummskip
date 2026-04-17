@@ -1,0 +1,45 @@
+{
+  "id": "S1|z Aufklærung09-Biopsie.m4a",
+  "name": "z Aufklærung09-Biopsie.m4a",
+  "title": "z Aufklærung09-Biopsie.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung09-Biopsie.m4a",
+  "duration": 45.44,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T20:01:53Z",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 1.14
+    },
+    {
+      "start": 4.94,
+      "end": 5.8
+    },
+    {
+      "start": 12.1,
+      "end": 14.02
+    },
+    {
+      "start": 25.22,
+      "end": 27.42
+    },
+    {
+      "start": 34.78,
+      "end": 35.64
+    },
+    {
+      "start": 43.86,
+      "end": 45.36
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "S1|z Aufklærung17-EEG.m4a",
+  "name": "z Aufklærung17-EEG.m4a",
+  "title": "z Aufklærung17-EEG.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung17-EEG.m4a",
+  "duration": 95.019,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T20:02:31Z",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 1.18
+    },
+    {
+      "start": 2.6,
+      "end": 3.42
+    },
+    {
+      "start": 25.74,
+      "end": 26.88
+    },
+    {
+      "start": 37.48,
+      "end": 38.82
+    },
+    {
+      "start": 49.76,
+      "end": 51.28
+    },
+    {
+      "start": 62.0,
+      "end": 62.96
+    },
+    {
+      "start": 68.66,
+      "end": 69.6
+    },
+    {
+      "start": 85.16,
+      "end": 86.34
+    },
+    {
+      "start": 93.0,
+      "end": 94.939
+    }
+  ]
+}

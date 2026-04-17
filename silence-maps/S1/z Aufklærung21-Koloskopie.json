@@ -1,0 +1,45 @@
+{
+  "id": "S1|z Aufklærung21-Koloskopie.m4a",
+  "name": "z Aufklærung21-Koloskopie.m4a",
+  "title": "z Aufklærung21-Koloskopie.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung21-Koloskopie.m4a",
+  "duration": 113.557,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T20:02:56Z",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 1.26
+    },
+    {
+      "start": 3.2,
+      "end": 4.1
+    },
+    {
+      "start": 48.62,
+      "end": 49.62
+    },
+    {
+      "start": 80.16,
+      "end": 81.2
+    },
+    {
+      "start": 93.3,
+      "end": 99.0
+    },
+    {
+      "start": 108.7,
+      "end": 113.477
+    }
+  ]
+}

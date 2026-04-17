@@ -1,0 +1,33 @@
+{
+  "id": "S1|z Aufklærung08-Langzeit EKG.m4a",
+  "name": "z Aufklærung08-Langzeit EKG.m4a",
+  "title": "z Aufklærung08-Langzeit EKG.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung08-Langzeit%20EKG.m4a",
+  "duration": 52.757,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T20:01:47Z",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 1.74
+    },
+    {
+      "start": 42.68,
+      "end": 43.64
+    },
+    {
+      "start": 49.04,
+      "end": 52.677
+    }
+  ]
+}

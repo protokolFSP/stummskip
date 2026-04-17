@@ -1,0 +1,41 @@
+{
+  "id": "S1|z Aufklærung06-EKG.m4a",
+  "name": "z Aufklærung06-EKG.m4a",
+  "title": "z Aufklærung06-EKG.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung06-EKG.m4a",
+  "duration": 32.064,
+  "sample_rate": 16000,
+  "threshold": 0.015,
+  "frame_ms": 20,
+  "min_silence_ms": 900,
+  "merge_gap_ms": 180,
+  "keep_lead_ms": 60,
+  "keep_tail_ms": 80,
+  "min_skip_ms": 350,
+  "max_skip_ms": 15000,
+  "algo_version": "sm-v1",
+  "analyzed_at": "2026-04-17T20:01:34Z",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 1.86
+    },
+    {
+      "start": 9.58,
+      "end": 10.56
+    },
+    {
+      "start": 13.28,
+      "end": 14.26
+    },
+    {
+      "start": 26.96,
+      "end": 28.16
+    },
+    {
+      "start": 30.64,
+      "end": 31.984
+    }
+  ]
+}
