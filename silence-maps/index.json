@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-04-21T14:10:57Z",
+  "updated_at": "2026-04-21T19:39:12Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -3938,6 +3938,17 @@
       "duration": 3071.232,
       "segment_count": 296,
       "analyzed_at": "2026-04-19T19:11:51Z"
+    },
+    "S2|Herzinsuffiens Dr Rüveyda mit Dr Lokman 21.04.2026.m4a": {
+      "name": "Herzinsuffiens Dr Rüveyda mit Dr Lokman 21.04.2026.m4a",
+      "title": "Herzinsuffiens Dr Rüveyda mit Dr Lokman 21.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/Herzinsuffiens Dr Rüveyda mit Dr Lokman 21.04.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 3494.251,
+      "segment_count": 314,
+      "analyzed_at": "2026-04-21T19:39:12Z"
     }
   }
 }
