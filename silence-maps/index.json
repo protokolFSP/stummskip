@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-04-25T03:33:38Z",
+  "updated_at": "2026-04-25T07:47:39Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -3971,6 +3971,39 @@
       "duration": 2779.213,
       "segment_count": 203,
       "analyzed_at": "2026-04-24T03:53:03Z"
+    },
+    "S2|ACS Dr Mustafa mit Fr Gerhild 23.04.2026.m4a": {
+      "name": "ACS Dr Mustafa mit Fr Gerhild 23.04.2026.m4a",
+      "title": "ACS Dr Mustafa mit Fr Gerhild 23.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/ACS Dr Mustafa mit Fr Gerhild 23.04.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 3924.971,
+      "segment_count": 457,
+      "analyzed_at": "2026-04-25T07:47:05Z"
+    },
+    "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
+      "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
+      "title": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/ACS Fr Gerhild mit Dr MustafaT 23.04.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 3924.971,
+      "segment_count": 457,
+      "analyzed_at": "2026-04-25T07:47:24Z"
+    },
+    "S2|TVT mit Lungenembolie Dr Ömer mit Dr Hülya 24.04.2026.m4a": {
+      "name": "TVT mit Lungenembolie Dr Ömer mit Dr Hülya 24.04.2026.m4a",
+      "title": "TVT mit Lungenembolie Dr Ömer mit Dr Hülya 24.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/TVT mit Lungenembolie Dr Ömer mit Dr Hülya 24.04.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2780.629,
+      "segment_count": 330,
+      "analyzed_at": "2026-04-25T07:47:39Z"
     }
   }
 }
