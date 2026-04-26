@@ -1,0 +1,169 @@
+{
+  "id": "S1|MS neuroborreliose dr Heiko dr iskender 10.10.24.m4a",
+  "name": "MS neuroborreliose dr Heiko dr iskender 10.10.24.m4a",
+  "title": "MS neuroborreliose dr Heiko dr iskender 10.10.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/MS%20neuroborreliose%20dr%20Heiko%20dr%20iskender%2010.10.24.m4a",
+  "duration": 2171.115,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:36:42Z",
+  "segments": [
+    {
+      "start": 77.33,
+      "end": 79.08
+    },
+    {
+      "start": 84.14,
+      "end": 87.93
+    },
+    {
+      "start": 89.15,
+      "end": 94.38
+    },
+    {
+      "start": 125.87,
+      "end": 126.96
+    },
+    {
+      "start": 143.3,
+      "end": 144.51
+    },
+    {
+      "start": 221.18,
+      "end": 224.1
+    },
+    {
+      "start": 244.13,
+      "end": 245.22
+    },
+    {
+      "start": 246.26,
+      "end": 247.47
+    },
+    {
+      "start": 249.26,
+      "end": 250.47
+    },
+    {
+      "start": 261.35,
+      "end": 262.71
+    },
+    {
+      "start": 265.49,
+      "end": 267.15
+    },
+    {
+      "start": 293.06,
+      "end": 295.41
+    },
+    {
+      "start": 309.35,
+      "end": 311.79
+    },
+    {
+      "start": 314.69,
+      "end": 315.87
+    },
+    {
+      "start": 322.1,
+      "end": 323.19
+    },
+    {
+      "start": 455.6,
+      "end": 456.78
+    },
+    {
+      "start": 590.06,
+      "end": 591.54
+    },
+    {
+      "start": 606.65,
+      "end": 607.77
+    },
+    {
+      "start": 653.48,
+      "end": 654.84
+    },
+    {
+      "start": 662.87,
+      "end": 664.53
+    },
+    {
+      "start": 748.46,
+      "end": 750.81
+    },
+    {
+      "start": 950.18,
+      "end": 951.36
+    },
+    {
+      "start": 968.39,
+      "end": 969.99
+    },
+    {
+      "start": 1016.27,
+      "end": 1017.72
+    },
+    {
+      "start": 1038.29,
+      "end": 1039.38
+    },
+    {
+      "start": 1040.21,
+      "end": 1041.33
+    },
+    {
+      "start": 1109.06,
+      "end": 1110.3
+    },
+    {
+      "start": 1114.34,
+      "end": 1116.72
+    },
+    {
+      "start": 1118.75,
+      "end": 1123.83
+    },
+    {
+      "start": 1136.57,
+      "end": 1140.57
+    },
+    {
+      "start": 1178.81,
+      "end": 1180.35
+    },
+    {
+      "start": 1227.77,
+      "end": 1229.07
+    },
+    {
+      "start": 1262.78,
+      "end": 1265.37
+    },
+    {
+      "start": 1353.86,
+      "end": 1355.16
+    },
+    {
+      "start": 1647.02,
+      "end": 1648.32
+    },
+    {
+      "start": 1812.44,
+      "end": 1814.52
+    },
+    {
+      "start": 1878.71,
+      "end": 1882.47
+    }
+  ]
+}

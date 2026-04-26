@@ -1,0 +1,401 @@
+{
+  "id": "S1|Bandscheibenvorfall Bandscheibenvorwölbung dr hüseyin dr ismail 19.11.24.m4a",
+  "name": "Bandscheibenvorfall Bandscheibenvorwölbung dr hüseyin dr ismail 19.11.24.m4a",
+  "title": "Bandscheibenvorfall Bandscheibenvorwölbung dr hüseyin dr ismail 19.11.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Bandscheibenvorfall%20Bandscheibenvorwo%CC%88lbung%20dr%20hu%CC%88seyin%20dr%20ismail%2019.11.24.m4a",
+  "duration": 2020.523,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:04:12Z",
+  "segments": [
+    {
+      "start": 0.47,
+      "end": 3.39
+    },
+    {
+      "start": 46.88,
+      "end": 48.81
+    },
+    {
+      "start": 53.57,
+      "end": 54.96
+    },
+    {
+      "start": 59.78,
+      "end": 64.29
+    },
+    {
+      "start": 68.39,
+      "end": 69.6
+    },
+    {
+      "start": 79.19,
+      "end": 80.97
+    },
+    {
+      "start": 89.72,
+      "end": 91.53
+    },
+    {
+      "start": 113.69,
+      "end": 118.83
+    },
+    {
+      "start": 131.72,
+      "end": 134.64
+    },
+    {
+      "start": 155.27,
+      "end": 159.18
+    },
+    {
+      "start": 172.04,
+      "end": 174.57
+    },
+    {
+      "start": 188.09,
+      "end": 189.57
+    },
+    {
+      "start": 207.14,
+      "end": 211.29
+    },
+    {
+      "start": 221.69,
+      "end": 223.05
+    },
+    {
+      "start": 226.43,
+      "end": 234.87
+    },
+    {
+      "start": 244.1,
+      "end": 245.4
+    },
+    {
+      "start": 259.22,
+      "end": 262.2
+    },
+    {
+      "start": 266.33,
+      "end": 267.48
+    },
+    {
+      "start": 269.69,
+      "end": 272.43
+    },
+    {
+      "start": 279.53,
+      "end": 280.95
+    },
+    {
+      "start": 293.96,
+      "end": 295.44
+    },
+    {
+      "start": 298.82,
+      "end": 300.15
+    },
+    {
+      "start": 337.79,
+      "end": 345.12
+    },
+    {
+      "start": 354.32,
+      "end": 355.92
+    },
+    {
+      "start": 382.25,
+      "end": 383.79
+    },
+    {
+      "start": 400.43,
+      "end": 401.52
+    },
+    {
+      "start": 417.23,
+      "end": 418.44
+    },
+    {
+      "start": 447.26,
+      "end": 452.67
+    },
+    {
+      "start": 475.04,
+      "end": 478.2
+    },
+    {
+      "start": 485.66,
+      "end": 487.53
+    },
+    {
+      "start": 497.15,
+      "end": 498.75
+    },
+    {
+      "start": 526.85,
+      "end": 529.02
+    },
+    {
+      "start": 546.8,
+      "end": 548.67
+    },
+    {
+      "start": 550.49,
+      "end": 551.88
+    },
+    {
+      "start": 556.73,
+      "end": 560.34
+    },
+    {
+      "start": 562.22,
+      "end": 563.4
+    },
+    {
+      "start": 565.46,
+      "end": 568.35
+    },
+    {
+      "start": 574.61,
+      "end": 577.44
+    },
+    {
+      "start": 582.35,
+      "end": 583.92
+    },
+    {
+      "start": 587.84,
+      "end": 589.98
+    },
+    {
+      "start": 605.69,
+      "end": 609.87
+    },
+    {
+      "start": 614.66,
+      "end": 615.84
+    },
+    {
+      "start": 617.96,
+      "end": 619.65
+    },
+    {
+      "start": 620.54,
+      "end": 622.11
+    },
+    {
+      "start": 630.92,
+      "end": 632.73
+    },
+    {
+      "start": 664.16,
+      "end": 666.0
+    },
+    {
+      "start": 672.5,
+      "end": 677.16
+    },
+    {
+      "start": 697.01,
+      "end": 698.58
+    },
+    {
+      "start": 720.8,
+      "end": 722.1
+    },
+    {
+      "start": 728.06,
+      "end": 732.12
+    },
+    {
+      "start": 741.89,
+      "end": 746.94
+    },
+    {
+      "start": 751.34,
+      "end": 754.5
+    },
+    {
+      "start": 759.44,
+      "end": 760.62
+    },
+    {
+      "start": 785.06,
+      "end": 788.16
+    },
+    {
+      "start": 791.42,
+      "end": 794.61
+    },
+    {
+      "start": 795.53,
+      "end": 799.14
+    },
+    {
+      "start": 822.98,
+      "end": 824.19
+    },
+    {
+      "start": 837.47,
+      "end": 839.49
+    },
+    {
+      "start": 888.68,
+      "end": 893.04
+    },
+    {
+      "start": 893.84,
+      "end": 898.47
+    },
+    {
+      "start": 902.81,
+      "end": 904.08
+    },
+    {
+      "start": 907.67,
+      "end": 912.72
+    },
+    {
+      "start": 962.78,
+      "end": 968.85
+    },
+    {
+      "start": 973.4,
+      "end": 979.23
+    },
+    {
+      "start": 1009.79,
+      "end": 1021.79
+    },
+    {
+      "start": 1026.29,
+      "end": 1028.04
+    },
+    {
+      "start": 1031.36,
+      "end": 1035.57
+    },
+    {
+      "start": 1040.57,
+      "end": 1041.96
+    },
+    {
+      "start": 1049.99,
+      "end": 1054.77
+    },
+    {
+      "start": 1075.43,
+      "end": 1087.43
+    },
+    {
+      "start": 1102.4,
+      "end": 1105.53
+    },
+    {
+      "start": 1113.77,
+      "end": 1115.52
+    },
+    {
+      "start": 1244.57,
+      "end": 1246.14
+    },
+    {
+      "start": 1336.82,
+      "end": 1337.91
+    },
+    {
+      "start": 1395.41,
+      "end": 1396.68
+    },
+    {
+      "start": 1427.42,
+      "end": 1428.6
+    },
+    {
+      "start": 1450.34,
+      "end": 1451.64
+    },
+    {
+      "start": 1537.07,
+      "end": 1538.94
+    },
+    {
+      "start": 1608.98,
+      "end": 1610.13
+    },
+    {
+      "start": 1618.07,
+      "end": 1619.55
+    },
+    {
+      "start": 1625.51,
+      "end": 1626.9
+    },
+    {
+      "start": 1687.25,
+      "end": 1689.06
+    },
+    {
+      "start": 1775.0,
+      "end": 1776.12
+    },
+    {
+      "start": 1776.92,
+      "end": 1778.37
+    },
+    {
+      "start": 1782.26,
+      "end": 1783.41
+    },
+    {
+      "start": 1787.99,
+      "end": 1793.22
+    },
+    {
+      "start": 1794.86,
+      "end": 1796.88
+    },
+    {
+      "start": 1856.36,
+      "end": 1857.69
+    },
+    {
+      "start": 1858.91,
+      "end": 1860.24
+    },
+    {
+      "start": 1943.0,
+      "end": 1944.18
+    },
+    {
+      "start": 1969.07,
+      "end": 1970.4
+    },
+    {
+      "start": 1971.83,
+      "end": 1975.11
+    },
+    {
+      "start": 1984.79,
+      "end": 1985.97
+    },
+    {
+      "start": 2003.99,
+      "end": 2005.2
+    },
+    {
+      "start": 2016.59,
+      "end": 2020.343
+    }
+  ]
+}

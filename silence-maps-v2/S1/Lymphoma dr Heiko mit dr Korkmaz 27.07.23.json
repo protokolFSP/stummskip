@@ -1,0 +1,229 @@
+{
+  "id": "S1|Lymphoma dr Heiko mit dr Korkmaz 27.07.23.m4a",
+  "name": "Lymphoma dr Heiko mit dr Korkmaz 27.07.23.m4a",
+  "title": "Lymphoma dr Heiko mit dr Korkmaz 27.07.23.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Lymphoma%20dr%20Heiko%20mit%20dr%20Korkmaz%2027.07.23.m4a",
+  "duration": 2037.184,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:33:00Z",
+  "segments": [
+    {
+      "start": 1.37,
+      "end": 2.49
+    },
+    {
+      "start": 31.19,
+      "end": 33.03
+    },
+    {
+      "start": 49.1,
+      "end": 51.84
+    },
+    {
+      "start": 59.15,
+      "end": 62.58
+    },
+    {
+      "start": 81.56,
+      "end": 85.11
+    },
+    {
+      "start": 88.97,
+      "end": 90.63
+    },
+    {
+      "start": 150.92,
+      "end": 152.58
+    },
+    {
+      "start": 154.64,
+      "end": 156.0
+    },
+    {
+      "start": 201.08,
+      "end": 202.56
+    },
+    {
+      "start": 212.99,
+      "end": 216.12
+    },
+    {
+      "start": 225.11,
+      "end": 230.16
+    },
+    {
+      "start": 307.4,
+      "end": 308.58
+    },
+    {
+      "start": 328.88,
+      "end": 333.54
+    },
+    {
+      "start": 402.74,
+      "end": 404.85
+    },
+    {
+      "start": 464.96,
+      "end": 466.59
+    },
+    {
+      "start": 482.84,
+      "end": 484.14
+    },
+    {
+      "start": 512.15,
+      "end": 513.48
+    },
+    {
+      "start": 548.06,
+      "end": 549.96
+    },
+    {
+      "start": 556.37,
+      "end": 557.52
+    },
+    {
+      "start": 608.42,
+      "end": 611.1
+    },
+    {
+      "start": 632.96,
+      "end": 636.39
+    },
+    {
+      "start": 655.76,
+      "end": 657.09
+    },
+    {
+      "start": 683.06,
+      "end": 688.92
+    },
+    {
+      "start": 690.92,
+      "end": 692.04
+    },
+    {
+      "start": 754.55,
+      "end": 757.29
+    },
+    {
+      "start": 830.78,
+      "end": 833.52
+    },
+    {
+      "start": 863.96,
+      "end": 865.11
+    },
+    {
+      "start": 866.0,
+      "end": 867.39
+    },
+    {
+      "start": 869.93,
+      "end": 871.95
+    },
+    {
+      "start": 874.13,
+      "end": 877.89
+    },
+    {
+      "start": 879.5,
+      "end": 882.12
+    },
+    {
+      "start": 889.28,
+      "end": 893.37
+    },
+    {
+      "start": 898.97,
+      "end": 900.21
+    },
+    {
+      "start": 906.14,
+      "end": 907.92
+    },
+    {
+      "start": 954.8,
+      "end": 956.43
+    },
+    {
+      "start": 1076.36,
+      "end": 1078.65
+    },
+    {
+      "start": 1081.85,
+      "end": 1083.03
+    },
+    {
+      "start": 1097.9,
+      "end": 1101.45
+    },
+    {
+      "start": 1108.79,
+      "end": 1111.05
+    },
+    {
+      "start": 1121.57,
+      "end": 1126.65
+    },
+    {
+      "start": 1152.68,
+      "end": 1154.01
+    },
+    {
+      "start": 1185.41,
+      "end": 1186.8
+    },
+    {
+      "start": 1216.82,
+      "end": 1218.72
+    },
+    {
+      "start": 1282.28,
+      "end": 1283.52
+    },
+    {
+      "start": 1618.58,
+      "end": 1619.7
+    },
+    {
+      "start": 1649.99,
+      "end": 1651.41
+    },
+    {
+      "start": 1653.35,
+      "end": 1655.07
+    },
+    {
+      "start": 1662.11,
+      "end": 1663.44
+    },
+    {
+      "start": 1981.85,
+      "end": 1986.72
+    },
+    {
+      "start": 2000.75,
+      "end": 2001.87
+    },
+    {
+      "start": 2017.58,
+      "end": 2018.73
+    },
+    {
+      "start": 2033.9,
+      "end": 2037.004
+    }
+  ]
+}

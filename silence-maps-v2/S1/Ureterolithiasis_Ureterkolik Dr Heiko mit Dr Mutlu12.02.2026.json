@@ -1,0 +1,209 @@
+{
+  "id": "S1|Ureterolithiasis_Ureterkolik Dr Heiko mit Dr Mutlu12.02.2026.m4a",
+  "name": "Ureterolithiasis_Ureterkolik Dr Heiko mit Dr Mutlu12.02.2026.m4a",
+  "title": "Ureterolithiasis_Ureterkolik Dr Heiko mit Dr Mutlu12.02.2026.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Ureterolithiasis_Ureterkolik%20Dr%20Heiko%20mit%20Dr%20Mutlu12.02.2026.m4a",
+  "duration": 2196.48,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:52:16Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 2.07
+    },
+    {
+      "start": 72.17,
+      "end": 73.47
+    },
+    {
+      "start": 112.49,
+      "end": 113.67
+    },
+    {
+      "start": 134.21,
+      "end": 135.75
+    },
+    {
+      "start": 199.49,
+      "end": 201.12
+    },
+    {
+      "start": 228.59,
+      "end": 231.03
+    },
+    {
+      "start": 249.59,
+      "end": 252.3
+    },
+    {
+      "start": 269.48,
+      "end": 271.05
+    },
+    {
+      "start": 281.0,
+      "end": 282.18
+    },
+    {
+      "start": 285.35,
+      "end": 286.44
+    },
+    {
+      "start": 360.65,
+      "end": 362.7
+    },
+    {
+      "start": 378.71,
+      "end": 380.61
+    },
+    {
+      "start": 400.19,
+      "end": 401.43
+    },
+    {
+      "start": 424.31,
+      "end": 425.43
+    },
+    {
+      "start": 434.24,
+      "end": 435.81
+    },
+    {
+      "start": 449.9,
+      "end": 451.26
+    },
+    {
+      "start": 486.02,
+      "end": 487.29
+    },
+    {
+      "start": 544.67,
+      "end": 546.45
+    },
+    {
+      "start": 660.86,
+      "end": 661.98
+    },
+    {
+      "start": 679.31,
+      "end": 680.43
+    },
+    {
+      "start": 681.68,
+      "end": 682.86
+    },
+    {
+      "start": 743.93,
+      "end": 745.02
+    },
+    {
+      "start": 834.26,
+      "end": 835.35
+    },
+    {
+      "start": 847.94,
+      "end": 849.6
+    },
+    {
+      "start": 895.55,
+      "end": 897.6
+    },
+    {
+      "start": 902.51,
+      "end": 904.5
+    },
+    {
+      "start": 1054.07,
+      "end": 1057.2
+    },
+    {
+      "start": 1063.64,
+      "end": 1064.82
+    },
+    {
+      "start": 1078.19,
+      "end": 1080.09
+    },
+    {
+      "start": 1087.28,
+      "end": 1088.64
+    },
+    {
+      "start": 1163.69,
+      "end": 1164.99
+    },
+    {
+      "start": 1182.65,
+      "end": 1194.65
+    },
+    {
+      "start": 1227.68,
+      "end": 1228.89
+    },
+    {
+      "start": 1229.84,
+      "end": 1231.32
+    },
+    {
+      "start": 1253.48,
+      "end": 1254.93
+    },
+    {
+      "start": 1286.45,
+      "end": 1288.38
+    },
+    {
+      "start": 1295.27,
+      "end": 1296.87
+    },
+    {
+      "start": 1300.94,
+      "end": 1303.98
+    },
+    {
+      "start": 1306.82,
+      "end": 1309.32
+    },
+    {
+      "start": 1310.18,
+      "end": 1312.17
+    },
+    {
+      "start": 1325.03,
+      "end": 1326.36
+    },
+    {
+      "start": 1330.22,
+      "end": 1332.27
+    },
+    {
+      "start": 1352.87,
+      "end": 1354.29
+    },
+    {
+      "start": 1478.57,
+      "end": 1479.75
+    },
+    {
+      "start": 1832.6,
+      "end": 1833.78
+    },
+    {
+      "start": 1940.12,
+      "end": 1945.29
+    },
+    {
+      "start": 1954.22,
+      "end": 1955.46
+    }
+  ]
+}

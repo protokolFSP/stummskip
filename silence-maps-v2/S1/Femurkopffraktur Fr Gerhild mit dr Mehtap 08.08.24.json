@@ -1,0 +1,261 @@
+{
+  "id": "S1|Femurkopffraktur Fr Gerhild mit dr Mehtap 08.08.24.m4a",
+  "name": "Femurkopffraktur Fr Gerhild mit dr Mehtap 08.08.24.m4a",
+  "title": "Femurkopffraktur Fr Gerhild mit dr Mehtap 08.08.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Femurkopffraktur%20Fr%20Gerhild%20mit%20dr%20Mehtap%2008.08.24.m4a",
+  "duration": 2715.52,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:19:46Z",
+  "segments": [
+    {
+      "start": 1.73,
+      "end": 3.09
+    },
+    {
+      "start": 26.09,
+      "end": 27.21
+    },
+    {
+      "start": 51.35,
+      "end": 53.46
+    },
+    {
+      "start": 66.05,
+      "end": 68.88
+    },
+    {
+      "start": 133.97,
+      "end": 135.54
+    },
+    {
+      "start": 148.79,
+      "end": 149.97
+    },
+    {
+      "start": 204.74,
+      "end": 208.14
+    },
+    {
+      "start": 326.42,
+      "end": 327.6
+    },
+    {
+      "start": 351.2,
+      "end": 362.16
+    },
+    {
+      "start": 382.1,
+      "end": 384.57
+    },
+    {
+      "start": 386.69,
+      "end": 395.13
+    },
+    {
+      "start": 404.69,
+      "end": 406.23
+    },
+    {
+      "start": 499.46,
+      "end": 500.73
+    },
+    {
+      "start": 504.41,
+      "end": 505.86
+    },
+    {
+      "start": 534.41,
+      "end": 535.8
+    },
+    {
+      "start": 536.96,
+      "end": 544.29
+    },
+    {
+      "start": 607.88,
+      "end": 609.0
+    },
+    {
+      "start": 633.35,
+      "end": 634.71
+    },
+    {
+      "start": 635.66,
+      "end": 638.34
+    },
+    {
+      "start": 652.73,
+      "end": 655.77
+    },
+    {
+      "start": 741.77,
+      "end": 746.25
+    },
+    {
+      "start": 752.24,
+      "end": 754.11
+    },
+    {
+      "start": 808.88,
+      "end": 810.24
+    },
+    {
+      "start": 845.03,
+      "end": 847.32
+    },
+    {
+      "start": 881.15,
+      "end": 887.25
+    },
+    {
+      "start": 891.74,
+      "end": 892.92
+    },
+    {
+      "start": 896.66,
+      "end": 900.93
+    },
+    {
+      "start": 903.23,
+      "end": 904.41
+    },
+    {
+      "start": 919.73,
+      "end": 921.36
+    },
+    {
+      "start": 942.38,
+      "end": 944.55
+    },
+    {
+      "start": 990.23,
+      "end": 993.54
+    },
+    {
+      "start": 1006.7,
+      "end": 1008.15
+    },
+    {
+      "start": 1026.86,
+      "end": 1028.22
+    },
+    {
+      "start": 1066.52,
+      "end": 1072.26
+    },
+    {
+      "start": 1087.43,
+      "end": 1088.88
+    },
+    {
+      "start": 1090.61,
+      "end": 1093.95
+    },
+    {
+      "start": 1112.96,
+      "end": 1114.11
+    },
+    {
+      "start": 1124.9,
+      "end": 1126.8
+    },
+    {
+      "start": 1147.43,
+      "end": 1149.03
+    },
+    {
+      "start": 1150.31,
+      "end": 1151.97
+    },
+    {
+      "start": 1153.19,
+      "end": 1154.91
+    },
+    {
+      "start": 1156.19,
+      "end": 1157.31
+    },
+    {
+      "start": 1168.82,
+      "end": 1170.0
+    },
+    {
+      "start": 1172.84,
+      "end": 1174.17
+    },
+    {
+      "start": 1188.32,
+      "end": 1189.59
+    },
+    {
+      "start": 1215.74,
+      "end": 1223.94
+    },
+    {
+      "start": 1248.8,
+      "end": 1250.25
+    },
+    {
+      "start": 1262.06,
+      "end": 1263.6
+    },
+    {
+      "start": 1304.12,
+      "end": 1305.36
+    },
+    {
+      "start": 1308.08,
+      "end": 1309.47
+    },
+    {
+      "start": 1313.87,
+      "end": 1318.68
+    },
+    {
+      "start": 2052.5,
+      "end": 2053.65
+    },
+    {
+      "start": 2174.84,
+      "end": 2176.68
+    },
+    {
+      "start": 2196.14,
+      "end": 2198.64
+    },
+    {
+      "start": 2269.76,
+      "end": 2271.09
+    },
+    {
+      "start": 2272.31,
+      "end": 2273.64
+    },
+    {
+      "start": 2400.38,
+      "end": 2401.62
+    },
+    {
+      "start": 2412.56,
+      "end": 2413.86
+    },
+    {
+      "start": 2630.15,
+      "end": 2631.81
+    },
+    {
+      "start": 2711.06,
+      "end": 2713.26
+    }
+  ]
+}

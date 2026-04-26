@@ -1,0 +1,205 @@
+{
+  "id": "S1|Cholelithiasis Fr Gerhild dr iskender 24.10.24.m4a",
+  "name": "Cholelithiasis Fr Gerhild dr iskender 24.10.24.m4a",
+  "title": "Cholelithiasis Fr Gerhild dr iskender 24.10.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Cholelithiasis%20Fr%20Gerhild%20dr%20iskender%2024.10.24.m4a",
+  "duration": 2188.203,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:08:36Z",
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 2.28
+    },
+    {
+      "start": 43.22,
+      "end": 44.91
+    },
+    {
+      "start": 263.3,
+      "end": 264.84
+    },
+    {
+      "start": 284.3,
+      "end": 285.48
+    },
+    {
+      "start": 368.72,
+      "end": 369.81
+    },
+    {
+      "start": 373.91,
+      "end": 375.27
+    },
+    {
+      "start": 472.07,
+      "end": 474.0
+    },
+    {
+      "start": 502.49,
+      "end": 504.72
+    },
+    {
+      "start": 539.12,
+      "end": 540.42
+    },
+    {
+      "start": 616.73,
+      "end": 617.85
+    },
+    {
+      "start": 664.34,
+      "end": 666.03
+    },
+    {
+      "start": 679.82,
+      "end": 682.17
+    },
+    {
+      "start": 695.39,
+      "end": 697.05
+    },
+    {
+      "start": 708.05,
+      "end": 710.7
+    },
+    {
+      "start": 729.53,
+      "end": 732.93
+    },
+    {
+      "start": 806.3,
+      "end": 807.75
+    },
+    {
+      "start": 866.39,
+      "end": 867.87
+    },
+    {
+      "start": 882.86,
+      "end": 884.31
+    },
+    {
+      "start": 933.95,
+      "end": 935.1
+    },
+    {
+      "start": 975.32,
+      "end": 976.95
+    },
+    {
+      "start": 1036.34,
+      "end": 1037.97
+    },
+    {
+      "start": 1039.88,
+      "end": 1042.08
+    },
+    {
+      "start": 1044.08,
+      "end": 1046.07
+    },
+    {
+      "start": 1254.56,
+      "end": 1256.52
+    },
+    {
+      "start": 1258.55,
+      "end": 1259.7
+    },
+    {
+      "start": 1287.62,
+      "end": 1290.75
+    },
+    {
+      "start": 1299.53,
+      "end": 1302.69
+    },
+    {
+      "start": 1470.77,
+      "end": 1473.03
+    },
+    {
+      "start": 1503.38,
+      "end": 1504.53
+    },
+    {
+      "start": 1507.25,
+      "end": 1508.55
+    },
+    {
+      "start": 1519.73,
+      "end": 1520.94
+    },
+    {
+      "start": 1536.11,
+      "end": 1537.59
+    },
+    {
+      "start": 1603.01,
+      "end": 1604.16
+    },
+    {
+      "start": 1648.55,
+      "end": 1650.39
+    },
+    {
+      "start": 1842.47,
+      "end": 1843.56
+    },
+    {
+      "start": 1854.17,
+      "end": 1855.62
+    },
+    {
+      "start": 1888.85,
+      "end": 1890.15
+    },
+    {
+      "start": 1900.4,
+      "end": 1901.7
+    },
+    {
+      "start": 1924.13,
+      "end": 1925.31
+    },
+    {
+      "start": 1963.94,
+      "end": 1965.21
+    },
+    {
+      "start": 1989.83,
+      "end": 1991.76
+    },
+    {
+      "start": 1998.98,
+      "end": 2000.13
+    },
+    {
+      "start": 2024.75,
+      "end": 2026.02
+    },
+    {
+      "start": 2045.75,
+      "end": 2047.29
+    },
+    {
+      "start": 2048.03,
+      "end": 2049.48
+    },
+    {
+      "start": 2143.13,
+      "end": 2144.88
+    }
+  ]
+}

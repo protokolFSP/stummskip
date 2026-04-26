@@ -1,0 +1,261 @@
+{
+  "id": "S1|Influenza_echte Grippe Dr Ömer Mit Dr Zülal 09.01.2026.m4a",
+  "name": "Influenza_echte Grippe Dr Ömer Mit Dr Zülal 09.01.2026.m4a",
+  "title": "Influenza_echte Grippe Dr Ömer Mit Dr Zülal 09.01.2026.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Influenza_echte%20Grippe%20Dr%20O%CC%88mer%20Mit%20Dr%20Zu%CC%88lal%2009.01.2026.m4a",
+  "duration": 2113.131,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:26:34Z",
+  "segments": [
+    {
+      "start": 83.18,
+      "end": 84.42
+    },
+    {
+      "start": 95.99,
+      "end": 97.08
+    },
+    {
+      "start": 137.18,
+      "end": 138.39
+    },
+    {
+      "start": 186.98,
+      "end": 188.91
+    },
+    {
+      "start": 322.64,
+      "end": 324.51
+    },
+    {
+      "start": 326.48,
+      "end": 328.53
+    },
+    {
+      "start": 351.95,
+      "end": 353.16
+    },
+    {
+      "start": 382.16,
+      "end": 383.79
+    },
+    {
+      "start": 385.85,
+      "end": 387.93
+    },
+    {
+      "start": 396.59,
+      "end": 398.94
+    },
+    {
+      "start": 426.02,
+      "end": 427.23
+    },
+    {
+      "start": 435.62,
+      "end": 438.69
+    },
+    {
+      "start": 460.58,
+      "end": 461.76
+    },
+    {
+      "start": 493.16,
+      "end": 495.06
+    },
+    {
+      "start": 504.68,
+      "end": 506.43
+    },
+    {
+      "start": 509.45,
+      "end": 510.63
+    },
+    {
+      "start": 512.06,
+      "end": 513.96
+    },
+    {
+      "start": 621.11,
+      "end": 622.41
+    },
+    {
+      "start": 637.7,
+      "end": 638.88
+    },
+    {
+      "start": 659.21,
+      "end": 664.14
+    },
+    {
+      "start": 718.79,
+      "end": 720.87
+    },
+    {
+      "start": 727.82,
+      "end": 729.6
+    },
+    {
+      "start": 741.35,
+      "end": 743.67
+    },
+    {
+      "start": 748.31,
+      "end": 749.58
+    },
+    {
+      "start": 753.14,
+      "end": 754.29
+    },
+    {
+      "start": 775.97,
+      "end": 777.42
+    },
+    {
+      "start": 786.65,
+      "end": 787.89
+    },
+    {
+      "start": 811.19,
+      "end": 813.15
+    },
+    {
+      "start": 853.4,
+      "end": 854.7
+    },
+    {
+      "start": 859.55,
+      "end": 860.7
+    },
+    {
+      "start": 892.82,
+      "end": 894.72
+    },
+    {
+      "start": 932.12,
+      "end": 935.64
+    },
+    {
+      "start": 949.61,
+      "end": 950.76
+    },
+    {
+      "start": 1085.33,
+      "end": 1086.9
+    },
+    {
+      "start": 1172.66,
+      "end": 1177.83
+    },
+    {
+      "start": 1182.11,
+      "end": 1184.28
+    },
+    {
+      "start": 1215.95,
+      "end": 1217.73
+    },
+    {
+      "start": 1235.87,
+      "end": 1237.89
+    },
+    {
+      "start": 1249.58,
+      "end": 1251.78
+    },
+    {
+      "start": 1259.57,
+      "end": 1260.75
+    },
+    {
+      "start": 1269.29,
+      "end": 1271.4
+    },
+    {
+      "start": 1274.72,
+      "end": 1276.32
+    },
+    {
+      "start": 1449.74,
+      "end": 1451.64
+    },
+    {
+      "start": 1460.3,
+      "end": 1461.42
+    },
+    {
+      "start": 1510.22,
+      "end": 1511.4
+    },
+    {
+      "start": 1705.82,
+      "end": 1707.78
+    },
+    {
+      "start": 1708.79,
+      "end": 1711.86
+    },
+    {
+      "start": 1777.94,
+      "end": 1779.21
+    },
+    {
+      "start": 1876.49,
+      "end": 1877.85
+    },
+    {
+      "start": 1911.56,
+      "end": 1912.71
+    },
+    {
+      "start": 1932.95,
+      "end": 1934.04
+    },
+    {
+      "start": 1942.61,
+      "end": 1944.06
+    },
+    {
+      "start": 1970.33,
+      "end": 1971.72
+    },
+    {
+      "start": 2014.61,
+      "end": 2019.72
+    },
+    {
+      "start": 2021.09,
+      "end": 2024.73
+    },
+    {
+      "start": 2028.47,
+      "end": 2030.64
+    },
+    {
+      "start": 2034.77,
+      "end": 2036.28
+    },
+    {
+      "start": 2040.41,
+      "end": 2043.03
+    },
+    {
+      "start": 2054.6,
+      "end": 2056.29
+    },
+    {
+      "start": 2080.07,
+      "end": 2083.23
+    }
+  ]
+}

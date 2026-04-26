@@ -1,0 +1,197 @@
+{
+  "id": "S1|Milzruptur _Fahrrad Unfall_ Fr Gerhild mit Dr Yavuz 02.09.2025.m4a",
+  "name": "Milzruptur _Fahrrad Unfall_ Fr Gerhild mit Dr Yavuz 02.09.2025.m4a",
+  "title": "Milzruptur _Fahrrad Unfall_ Fr Gerhild mit Dr Yavuz 02.09.2025.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Milzruptur%20_Fahrrad%20Unfall_%20Fr%20Gerhild%20mit%20Dr%20Yavuz%2002.09.2025.m4a",
+  "duration": 2751.403,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:35:33Z",
+  "segments": [
+    {
+      "start": 20.27,
+      "end": 22.29
+    },
+    {
+      "start": 32.96,
+      "end": 34.23
+    },
+    {
+      "start": 59.93,
+      "end": 61.08
+    },
+    {
+      "start": 69.14,
+      "end": 70.98
+    },
+    {
+      "start": 82.01,
+      "end": 83.16
+    },
+    {
+      "start": 137.48,
+      "end": 138.69
+    },
+    {
+      "start": 233.72,
+      "end": 234.81
+    },
+    {
+      "start": 349.46,
+      "end": 350.55
+    },
+    {
+      "start": 497.36,
+      "end": 499.59
+    },
+    {
+      "start": 513.23,
+      "end": 516.99
+    },
+    {
+      "start": 584.63,
+      "end": 585.9
+    },
+    {
+      "start": 589.7,
+      "end": 591.54
+    },
+    {
+      "start": 604.34,
+      "end": 605.64
+    },
+    {
+      "start": 606.62,
+      "end": 607.95
+    },
+    {
+      "start": 824.36,
+      "end": 825.69
+    },
+    {
+      "start": 860.69,
+      "end": 861.81
+    },
+    {
+      "start": 921.56,
+      "end": 922.8
+    },
+    {
+      "start": 944.18,
+      "end": 945.51
+    },
+    {
+      "start": 985.79,
+      "end": 986.91
+    },
+    {
+      "start": 1089.53,
+      "end": 1090.95
+    },
+    {
+      "start": 1240.04,
+      "end": 1241.55
+    },
+    {
+      "start": 1324.07,
+      "end": 1325.16
+    },
+    {
+      "start": 1327.82,
+      "end": 1339.82
+    },
+    {
+      "start": 1379.9,
+      "end": 1385.61
+    },
+    {
+      "start": 1389.74,
+      "end": 1391.88
+    },
+    {
+      "start": 1394.27,
+      "end": 1404.72
+    },
+    {
+      "start": 1406.75,
+      "end": 1408.92
+    },
+    {
+      "start": 1409.81,
+      "end": 1411.14
+    },
+    {
+      "start": 1916.54,
+      "end": 1918.02
+    },
+    {
+      "start": 2026.22,
+      "end": 2027.4
+    },
+    {
+      "start": 2062.76,
+      "end": 2064.12
+    },
+    {
+      "start": 2174.96,
+      "end": 2177.01
+    },
+    {
+      "start": 2178.44,
+      "end": 2179.95
+    },
+    {
+      "start": 2204.63,
+      "end": 2206.11
+    },
+    {
+      "start": 2247.47,
+      "end": 2249.4
+    },
+    {
+      "start": 2279.54,
+      "end": 2280.78
+    },
+    {
+      "start": 2335.94,
+      "end": 2337.03
+    },
+    {
+      "start": 2342.42,
+      "end": 2344.68
+    },
+    {
+      "start": 2622.17,
+      "end": 2624.19
+    },
+    {
+      "start": 2636.96,
+      "end": 2638.41
+    },
+    {
+      "start": 2661.95,
+      "end": 2665.26
+    },
+    {
+      "start": 2668.58,
+      "end": 2670.0
+    },
+    {
+      "start": 2700.08,
+      "end": 2702.97
+    },
+    {
+      "start": 2703.89,
+      "end": 2705.55
+    }
+  ]
+}

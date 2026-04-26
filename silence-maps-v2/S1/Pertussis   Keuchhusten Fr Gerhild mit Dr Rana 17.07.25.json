@@ -1,0 +1,269 @@
+{
+  "id": "S1|Pertussis   Keuchhusten Fr Gerhild mit Dr Rana 17.07.25.m4a",
+  "name": "Pertussis   Keuchhusten Fr Gerhild mit Dr Rana 17.07.25.m4a",
+  "title": "Pertussis   Keuchhusten Fr Gerhild mit Dr Rana 17.07.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Pertussis%20%20%20Keuchhusten%20Fr%20Gerhild%20mit%20Dr%20Rana%2017.07.25.m4a",
+  "duration": 2333.973,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:43:14Z",
+  "segments": [
+    {
+      "start": 1.22,
+      "end": 2.79
+    },
+    {
+      "start": 52.55,
+      "end": 53.82
+    },
+    {
+      "start": 67.43,
+      "end": 68.7
+    },
+    {
+      "start": 136.4,
+      "end": 137.52
+    },
+    {
+      "start": 140.9,
+      "end": 143.13
+    },
+    {
+      "start": 149.48,
+      "end": 151.29
+    },
+    {
+      "start": 160.7,
+      "end": 161.82
+    },
+    {
+      "start": 173.6,
+      "end": 174.84
+    },
+    {
+      "start": 176.0,
+      "end": 177.27
+    },
+    {
+      "start": 205.79,
+      "end": 207.27
+    },
+    {
+      "start": 261.35,
+      "end": 262.44
+    },
+    {
+      "start": 379.64,
+      "end": 380.73
+    },
+    {
+      "start": 410.09,
+      "end": 412.68
+    },
+    {
+      "start": 426.32,
+      "end": 427.47
+    },
+    {
+      "start": 467.96,
+      "end": 470.19
+    },
+    {
+      "start": 483.38,
+      "end": 486.15
+    },
+    {
+      "start": 487.16,
+      "end": 488.31
+    },
+    {
+      "start": 579.65,
+      "end": 580.83
+    },
+    {
+      "start": 590.15,
+      "end": 591.66
+    },
+    {
+      "start": 603.71,
+      "end": 604.83
+    },
+    {
+      "start": 663.86,
+      "end": 665.25
+    },
+    {
+      "start": 689.15,
+      "end": 690.42
+    },
+    {
+      "start": 704.3,
+      "end": 706.17
+    },
+    {
+      "start": 726.32,
+      "end": 727.59
+    },
+    {
+      "start": 771.05,
+      "end": 772.2
+    },
+    {
+      "start": 858.68,
+      "end": 862.11
+    },
+    {
+      "start": 901.04,
+      "end": 902.73
+    },
+    {
+      "start": 912.29,
+      "end": 914.82
+    },
+    {
+      "start": 916.94,
+      "end": 918.6
+    },
+    {
+      "start": 922.88,
+      "end": 924.18
+    },
+    {
+      "start": 940.91,
+      "end": 943.77
+    },
+    {
+      "start": 950.51,
+      "end": 951.69
+    },
+    {
+      "start": 1052.15,
+      "end": 1053.3
+    },
+    {
+      "start": 1073.63,
+      "end": 1075.2
+    },
+    {
+      "start": 1086.2,
+      "end": 1087.74
+    },
+    {
+      "start": 1162.88,
+      "end": 1164.21
+    },
+    {
+      "start": 1181.0,
+      "end": 1182.63
+    },
+    {
+      "start": 1194.17,
+      "end": 1195.26
+    },
+    {
+      "start": 1196.21,
+      "end": 1197.42
+    },
+    {
+      "start": 1239.23,
+      "end": 1240.68
+    },
+    {
+      "start": 1241.84,
+      "end": 1245.66
+    },
+    {
+      "start": 1249.31,
+      "end": 1253.64
+    },
+    {
+      "start": 1255.1,
+      "end": 1257.21
+    },
+    {
+      "start": 1295.3,
+      "end": 1296.9
+    },
+    {
+      "start": 1338.65,
+      "end": 1340.13
+    },
+    {
+      "start": 1356.05,
+      "end": 1357.41
+    },
+    {
+      "start": 1402.76,
+      "end": 1404.0
+    },
+    {
+      "start": 1674.32,
+      "end": 1675.83
+    },
+    {
+      "start": 1839.2,
+      "end": 1840.44
+    },
+    {
+      "start": 1864.61,
+      "end": 1866.21
+    },
+    {
+      "start": 1878.05,
+      "end": 1879.41
+    },
+    {
+      "start": 1882.01,
+      "end": 1883.25
+    },
+    {
+      "start": 1909.28,
+      "end": 1911.03
+    },
+    {
+      "start": 1914.56,
+      "end": 1916.58
+    },
+    {
+      "start": 2057.24,
+      "end": 2058.42
+    },
+    {
+      "start": 2083.88,
+      "end": 2085.15
+    },
+    {
+      "start": 2130.89,
+      "end": 2132.91
+    },
+    {
+      "start": 2212.88,
+      "end": 2213.97
+    },
+    {
+      "start": 2228.72,
+      "end": 2233.29
+    },
+    {
+      "start": 2238.59,
+      "end": 2242.56
+    },
+    {
+      "start": 2245.19,
+      "end": 2246.91
+    },
+    {
+      "start": 2273.75,
+      "end": 2275.62
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "S1|Zöliakie Fremdanamnese Fr Gerhild mit Dr Sadi 22.05.25.m4a",
+  "name": "Zöliakie Fremdanamnese Fr Gerhild mit Dr Sadi 22.05.25.m4a",
+  "title": "Zöliakie Fremdanamnese Fr Gerhild mit Dr Sadi 22.05.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Zo%CC%88liakie%20Fremdanamnese%20Fr%20Gerhild%20mit%20Dr%20Sadi%2022.05.25.m4a",
+  "duration": 2210.581,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:55:44Z",
+  "segments": [
+    {
+      "start": 0.44,
+      "end": 3.03
+    },
+    {
+      "start": 39.02,
+      "end": 40.2
+    },
+    {
+      "start": 54.86,
+      "end": 56.25
+    },
+    {
+      "start": 90.83,
+      "end": 91.95
+    },
+    {
+      "start": 93.89,
+      "end": 95.19
+    },
+    {
+      "start": 101.6,
+      "end": 103.17
+    },
+    {
+      "start": 106.16,
+      "end": 107.85
+    },
+    {
+      "start": 170.3,
+      "end": 171.42
+    },
+    {
+      "start": 204.29,
+      "end": 205.44
+    },
+    {
+      "start": 222.32,
+      "end": 223.95
+    },
+    {
+      "start": 275.69,
+      "end": 277.29
+    },
+    {
+      "start": 297.74,
+      "end": 298.89
+    },
+    {
+      "start": 351.02,
+      "end": 357.27
+    },
+    {
+      "start": 376.91,
+      "end": 378.15
+    },
+    {
+      "start": 380.75,
+      "end": 382.62
+    },
+    {
+      "start": 427.58,
+      "end": 431.76
+    },
+    {
+      "start": 438.23,
+      "end": 439.53
+    },
+    {
+      "start": 463.16,
+      "end": 468.24
+    },
+    {
+      "start": 469.64,
+      "end": 474.87
+    },
+    {
+      "start": 480.83,
+      "end": 481.92
+    },
+    {
+      "start": 486.95,
+      "end": 488.13
+    },
+    {
+      "start": 518.06,
+      "end": 519.24
+    },
+    {
+      "start": 559.49,
+      "end": 560.97
+    },
+    {
+      "start": 598.85,
+      "end": 599.97
+    },
+    {
+      "start": 643.4,
+      "end": 645.12
+    },
+    {
+      "start": 657.26,
+      "end": 659.43
+    },
+    {
+      "start": 667.1,
+      "end": 670.53
+    },
+    {
+      "start": 683.75,
+      "end": 695.75
+    },
+    {
+      "start": 779.06,
+      "end": 783.99
+    },
+    {
+      "start": 786.14,
+      "end": 788.46
+    },
+    {
+      "start": 791.75,
+      "end": 803.75
+    },
+    {
+      "start": 812.21,
+      "end": 814.83
+    },
+    {
+      "start": 841.46,
+      "end": 847.44
+    },
+    {
+      "start": 854.75,
+      "end": 863.76
+    },
+    {
+      "start": 866.36,
+      "end": 868.53
+    },
+    {
+      "start": 878.96,
+      "end": 883.29
+    },
+    {
+      "start": 917.24,
+      "end": 918.78
+    },
+    {
+      "start": 919.91,
+      "end": 922.32
+    },
+    {
+      "start": 930.02,
+      "end": 931.41
+    },
+    {
+      "start": 938.33,
+      "end": 950.33
+    },
+    {
+      "start": 973.91,
+      "end": 975.69
+    },
+    {
+      "start": 1087.43,
+      "end": 1089.96
+    },
+    {
+      "start": 1162.82,
+      "end": 1164.18
+    },
+    {
+      "start": 1175.81,
+      "end": 1178.07
+    },
+    {
+      "start": 1249.1,
+      "end": 1252.05
+    },
+    {
+      "start": 1254.11,
+      "end": 1255.26
+    },
+    {
+      "start": 1408.4,
+      "end": 1412.04
+    },
+    {
+      "start": 1447.46,
+      "end": 1449.63
+    },
+    {
+      "start": 1458.26,
+      "end": 1459.71
+    },
+    {
+      "start": 1562.78,
+      "end": 1564.77
+    },
+    {
+      "start": 1567.28,
+      "end": 1568.85
+    },
+    {
+      "start": 1577.81,
+      "end": 1579.08
+    },
+    {
+      "start": 1613.72,
+      "end": 1614.81
+    },
+    {
+      "start": 1704.26,
+      "end": 1705.56
+    },
+    {
+      "start": 1707.14,
+      "end": 1709.76
+    },
+    {
+      "start": 1767.29,
+      "end": 1768.62
+    },
+    {
+      "start": 1802.39,
+      "end": 1803.57
+    },
+    {
+      "start": 1876.91,
+      "end": 1878.87
+    },
+    {
+      "start": 1956.89,
+      "end": 1958.04
+    },
+    {
+      "start": 1961.06,
+      "end": 1964.31
+    },
+    {
+      "start": 2008.31,
+      "end": 2009.43
+    },
+    {
+      "start": 2011.88,
+      "end": 2013.06
+    },
+    {
+      "start": 2050.25,
+      "end": 2051.79
+    },
+    {
+      "start": 2098.49,
+      "end": 2100.93
+    },
+    {
+      "start": 2127.02,
+      "end": 2128.14
+    },
+    {
+      "start": 2181.35,
+      "end": 2182.83
+    }
+  ]
+}

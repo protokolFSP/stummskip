@@ -1,0 +1,273 @@
+{
+  "id": "S1|Gichtarthritis PODagra Arthritis uriCa Fr Gerhild mit Dr Gül 11.02.25.m4a",
+  "name": "Gichtarthritis PODagra Arthritis uriCa Fr Gerhild mit Dr Gül 11.02.25.m4a",
+  "title": "Gichtarthritis PODagra Arthritis uriCa Fr Gerhild mit Dr Gül 11.02.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Gichtarthritis%20PODagra%20Arthritis%20uriCa%20Fr%20Gerhild%20mit%20Dr%20Gu%CC%88l%2011.02.25.m4a",
+  "duration": 2483.051,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:21:08Z",
+  "segments": [
+    {
+      "start": 42.41,
+      "end": 43.62
+    },
+    {
+      "start": 64.04,
+      "end": 65.43
+    },
+    {
+      "start": 82.16,
+      "end": 83.49
+    },
+    {
+      "start": 139.52,
+      "end": 141.06
+    },
+    {
+      "start": 203.24,
+      "end": 204.9
+    },
+    {
+      "start": 232.52,
+      "end": 234.09
+    },
+    {
+      "start": 236.03,
+      "end": 237.69
+    },
+    {
+      "start": 257.66,
+      "end": 258.84
+    },
+    {
+      "start": 263.66,
+      "end": 265.02
+    },
+    {
+      "start": 320.57,
+      "end": 322.41
+    },
+    {
+      "start": 372.11,
+      "end": 373.56
+    },
+    {
+      "start": 387.17,
+      "end": 388.5
+    },
+    {
+      "start": 424.55,
+      "end": 425.94
+    },
+    {
+      "start": 498.38,
+      "end": 500.1
+    },
+    {
+      "start": 501.26,
+      "end": 502.5
+    },
+    {
+      "start": 573.77,
+      "end": 575.13
+    },
+    {
+      "start": 591.62,
+      "end": 592.83
+    },
+    {
+      "start": 650.72,
+      "end": 651.81
+    },
+    {
+      "start": 659.57,
+      "end": 661.44
+    },
+    {
+      "start": 676.52,
+      "end": 677.76
+    },
+    {
+      "start": 713.39,
+      "end": 714.48
+    },
+    {
+      "start": 731.21,
+      "end": 732.42
+    },
+    {
+      "start": 742.37,
+      "end": 743.7
+    },
+    {
+      "start": 818.12,
+      "end": 819.45
+    },
+    {
+      "start": 840.59,
+      "end": 841.74
+    },
+    {
+      "start": 879.68,
+      "end": 881.07
+    },
+    {
+      "start": 954.86,
+      "end": 956.01
+    },
+    {
+      "start": 995.78,
+      "end": 997.02
+    },
+    {
+      "start": 1100.9,
+      "end": 1102.14
+    },
+    {
+      "start": 1149.68,
+      "end": 1150.89
+    },
+    {
+      "start": 1151.66,
+      "end": 1156.53
+    },
+    {
+      "start": 1160.36,
+      "end": 1170.57
+    },
+    {
+      "start": 1183.43,
+      "end": 1193.52
+    },
+    {
+      "start": 1198.4,
+      "end": 1200.03
+    },
+    {
+      "start": 1205.27,
+      "end": 1206.84
+    },
+    {
+      "start": 1209.5,
+      "end": 1221.5
+    },
+    {
+      "start": 1232.12,
+      "end": 1234.29
+    },
+    {
+      "start": 1506.41,
+      "end": 1507.83
+    },
+    {
+      "start": 1508.57,
+      "end": 1510.98
+    },
+    {
+      "start": 1517.72,
+      "end": 1518.87
+    },
+    {
+      "start": 1572.38,
+      "end": 1573.65
+    },
+    {
+      "start": 1606.88,
+      "end": 1607.97
+    },
+    {
+      "start": 1630.88,
+      "end": 1632.0
+    },
+    {
+      "start": 1668.26,
+      "end": 1669.68
+    },
+    {
+      "start": 1827.14,
+      "end": 1828.62
+    },
+    {
+      "start": 1884.02,
+      "end": 1885.11
+    },
+    {
+      "start": 1892.15,
+      "end": 1893.75
+    },
+    {
+      "start": 1936.4,
+      "end": 1937.67
+    },
+    {
+      "start": 1938.44,
+      "end": 1939.71
+    },
+    {
+      "start": 1967.21,
+      "end": 1968.63
+    },
+    {
+      "start": 2037.44,
+      "end": 2038.65
+    },
+    {
+      "start": 2112.11,
+      "end": 2113.5
+    },
+    {
+      "start": 2167.37,
+      "end": 2168.55
+    },
+    {
+      "start": 2176.46,
+      "end": 2177.82
+    },
+    {
+      "start": 2178.86,
+      "end": 2180.4
+    },
+    {
+      "start": 2254.79,
+      "end": 2256.51
+    },
+    {
+      "start": 2311.46,
+      "end": 2312.7
+    },
+    {
+      "start": 2318.03,
+      "end": 2319.39
+    },
+    {
+      "start": 2388.98,
+      "end": 2391.15
+    },
+    {
+      "start": 2393.48,
+      "end": 2396.43
+    },
+    {
+      "start": 2402.27,
+      "end": 2403.63
+    },
+    {
+      "start": 2433.41,
+      "end": 2435.13
+    },
+    {
+      "start": 2478.62,
+      "end": 2480.04
+    }
+  ]
+}

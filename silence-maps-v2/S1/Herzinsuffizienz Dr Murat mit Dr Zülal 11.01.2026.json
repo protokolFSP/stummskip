@@ -1,0 +1,265 @@
+{
+  "id": "S1|Herzinsuffizienz Dr Murat mit Dr Zülal 11.01.2026.m4a",
+  "name": "Herzinsuffizienz Dr Murat mit Dr Zülal 11.01.2026.m4a",
+  "title": "Herzinsuffizienz Dr Murat mit Dr Zülal 11.01.2026.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Herzinsuffizienz%20Dr%20Murat%20mit%20Dr%20Zu%CC%88lal%2011.01.2026.m4a",
+  "duration": 2066.814,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:22:04Z",
+  "segments": [
+    {
+      "start": 20.9,
+      "end": 22.08
+    },
+    {
+      "start": 171.86,
+      "end": 173.01
+    },
+    {
+      "start": 229.13,
+      "end": 231.51
+    },
+    {
+      "start": 288.32,
+      "end": 291.93
+    },
+    {
+      "start": 307.4,
+      "end": 308.52
+    },
+    {
+      "start": 320.48,
+      "end": 322.11
+    },
+    {
+      "start": 354.44,
+      "end": 356.37
+    },
+    {
+      "start": 374.78,
+      "end": 376.56
+    },
+    {
+      "start": 391.01,
+      "end": 392.25
+    },
+    {
+      "start": 409.82,
+      "end": 411.27
+    },
+    {
+      "start": 436.04,
+      "end": 437.25
+    },
+    {
+      "start": 462.59,
+      "end": 464.04
+    },
+    {
+      "start": 485.27,
+      "end": 486.96
+    },
+    {
+      "start": 534.95,
+      "end": 536.37
+    },
+    {
+      "start": 571.79,
+      "end": 572.91
+    },
+    {
+      "start": 619.01,
+      "end": 620.61
+    },
+    {
+      "start": 621.56,
+      "end": 624.54
+    },
+    {
+      "start": 625.79,
+      "end": 627.27
+    },
+    {
+      "start": 664.52,
+      "end": 667.47
+    },
+    {
+      "start": 674.57,
+      "end": 675.69
+    },
+    {
+      "start": 699.95,
+      "end": 704.19
+    },
+    {
+      "start": 708.77,
+      "end": 710.61
+    },
+    {
+      "start": 719.9,
+      "end": 721.29
+    },
+    {
+      "start": 725.51,
+      "end": 727.17
+    },
+    {
+      "start": 748.52,
+      "end": 750.6
+    },
+    {
+      "start": 781.07,
+      "end": 782.76
+    },
+    {
+      "start": 821.63,
+      "end": 822.99
+    },
+    {
+      "start": 863.48,
+      "end": 865.38
+    },
+    {
+      "start": 890.09,
+      "end": 891.69
+    },
+    {
+      "start": 900.44,
+      "end": 901.56
+    },
+    {
+      "start": 946.55,
+      "end": 947.82
+    },
+    {
+      "start": 953.72,
+      "end": 955.65
+    },
+    {
+      "start": 956.57,
+      "end": 959.25
+    },
+    {
+      "start": 984.32,
+      "end": 985.44
+    },
+    {
+      "start": 1016.6,
+      "end": 1022.43
+    },
+    {
+      "start": 1124.24,
+      "end": 1125.51
+    },
+    {
+      "start": 1126.79,
+      "end": 1130.25
+    },
+    {
+      "start": 1132.58,
+      "end": 1133.97
+    },
+    {
+      "start": 1139.69,
+      "end": 1141.05
+    },
+    {
+      "start": 1151.15,
+      "end": 1153.59
+    },
+    {
+      "start": 1154.84,
+      "end": 1156.11
+    },
+    {
+      "start": 1161.35,
+      "end": 1163.46
+    },
+    {
+      "start": 1164.41,
+      "end": 1165.62
+    },
+    {
+      "start": 1179.17,
+      "end": 1190.73
+    },
+    {
+      "start": 1201.1,
+      "end": 1213.1
+    },
+    {
+      "start": 1224.2,
+      "end": 1227.0
+    },
+    {
+      "start": 1239.02,
+      "end": 1240.89
+    },
+    {
+      "start": 1256.42,
+      "end": 1261.89
+    },
+    {
+      "start": 1266.5,
+      "end": 1268.04
+    },
+    {
+      "start": 1269.92,
+      "end": 1271.04
+    },
+    {
+      "start": 1367.75,
+      "end": 1368.9
+    },
+    {
+      "start": 1450.82,
+      "end": 1452.42
+    },
+    {
+      "start": 1609.85,
+      "end": 1611.54
+    },
+    {
+      "start": 1643.24,
+      "end": 1644.36
+    },
+    {
+      "start": 1675.7,
+      "end": 1677.12
+    },
+    {
+      "start": 1678.34,
+      "end": 1679.94
+    },
+    {
+      "start": 1742.75,
+      "end": 1744.62
+    },
+    {
+      "start": 1816.4,
+      "end": 1817.58
+    },
+    {
+      "start": 1965.47,
+      "end": 1968.21
+    },
+    {
+      "start": 2032.52,
+      "end": 2033.97
+    },
+    {
+      "start": 2050.58,
+      "end": 2053.38
+    }
+  ]
+}

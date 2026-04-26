@@ -1,0 +1,205 @@
+{
+  "id": "S1|Hypothyreose Fr Gerhild mit Dr Şule 24.07.25.m4a",
+  "name": "Hypothyreose Fr Gerhild mit Dr Şule 24.07.25.m4a",
+  "title": "Hypothyreose Fr Gerhild mit Dr Şule 24.07.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Hypothyreose%20Fr%20Gerhild%20mit%20Dr%20S%CC%A7ule%2024.07.25.m4a",
+  "duration": 2796.011,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:25:12Z",
+  "segments": [
+    {
+      "start": 0.41,
+      "end": 1.92
+    },
+    {
+      "start": 83.03,
+      "end": 84.18
+    },
+    {
+      "start": 86.63,
+      "end": 89.55
+    },
+    {
+      "start": 129.26,
+      "end": 130.38
+    },
+    {
+      "start": 254.75,
+      "end": 256.05
+    },
+    {
+      "start": 288.92,
+      "end": 290.19
+    },
+    {
+      "start": 335.48,
+      "end": 337.5
+    },
+    {
+      "start": 339.2,
+      "end": 341.55
+    },
+    {
+      "start": 493.04,
+      "end": 494.25
+    },
+    {
+      "start": 523.79,
+      "end": 525.84
+    },
+    {
+      "start": 593.42,
+      "end": 594.96
+    },
+    {
+      "start": 616.76,
+      "end": 618.66
+    },
+    {
+      "start": 619.55,
+      "end": 622.89
+    },
+    {
+      "start": 707.06,
+      "end": 708.81
+    },
+    {
+      "start": 727.88,
+      "end": 729.27
+    },
+    {
+      "start": 765.86,
+      "end": 767.07
+    },
+    {
+      "start": 922.34,
+      "end": 923.76
+    },
+    {
+      "start": 925.07,
+      "end": 928.47
+    },
+    {
+      "start": 952.67,
+      "end": 954.3
+    },
+    {
+      "start": 977.15,
+      "end": 978.27
+    },
+    {
+      "start": 1014.35,
+      "end": 1016.34
+    },
+    {
+      "start": 1156.97,
+      "end": 1158.63
+    },
+    {
+      "start": 1303.43,
+      "end": 1306.08
+    },
+    {
+      "start": 1316.63,
+      "end": 1318.35
+    },
+    {
+      "start": 1348.55,
+      "end": 1356.15
+    },
+    {
+      "start": 1367.24,
+      "end": 1371.03
+    },
+    {
+      "start": 1397.75,
+      "end": 1409.75
+    },
+    {
+      "start": 1422.44,
+      "end": 1423.92
+    },
+    {
+      "start": 1518.95,
+      "end": 1520.1
+    },
+    {
+      "start": 1562.78,
+      "end": 1564.44
+    },
+    {
+      "start": 1576.97,
+      "end": 1578.75
+    },
+    {
+      "start": 1609.1,
+      "end": 1611.0
+    },
+    {
+      "start": 1653.11,
+      "end": 1654.5
+    },
+    {
+      "start": 1733.33,
+      "end": 1734.51
+    },
+    {
+      "start": 2053.16,
+      "end": 2054.79
+    },
+    {
+      "start": 2075.72,
+      "end": 2077.86
+    },
+    {
+      "start": 2100.17,
+      "end": 2101.5
+    },
+    {
+      "start": 2123.12,
+      "end": 2124.84
+    },
+    {
+      "start": 2139.77,
+      "end": 2141.37
+    },
+    {
+      "start": 2165.09,
+      "end": 2166.9
+    },
+    {
+      "start": 2269.37,
+      "end": 2270.52
+    },
+    {
+      "start": 2285.24,
+      "end": 2286.63
+    },
+    {
+      "start": 2523.05,
+      "end": 2524.65
+    },
+    {
+      "start": 2543.27,
+      "end": 2545.47
+    },
+    {
+      "start": 2546.6,
+      "end": 2548.17
+    },
+    {
+      "start": 2683.88,
+      "end": 2685.0
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "S1|Infektiöse Mononukleose (EBV) Dr Heiko mit Dr Gül 11.12.2025.m4a",
+  "name": "Infektiöse Mononukleose (EBV) Dr Heiko mit Dr Gül 11.12.2025.m4a",
+  "title": "Infektiöse Mononukleose (EBV) Dr Heiko mit Dr Gül 11.12.2025.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Infektio%CC%88se%20Mononukleose%20%28EBV%29%20Dr%20Heiko%20mit%20Dr%20Gu%CC%88l%2011.12.2025.m4a",
+  "duration": 2411.499,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:25:45Z",
+  "segments": [
+    {
+      "start": 210.89,
+      "end": 212.76
+    },
+    {
+      "start": 235.31,
+      "end": 236.46
+    },
+    {
+      "start": 257.54,
+      "end": 258.84
+    },
+    {
+      "start": 288.68,
+      "end": 290.01
+    },
+    {
+      "start": 295.73,
+      "end": 297.39
+    },
+    {
+      "start": 360.56,
+      "end": 361.86
+    },
+    {
+      "start": 378.05,
+      "end": 380.1
+    },
+    {
+      "start": 382.25,
+      "end": 383.55
+    },
+    {
+      "start": 391.73,
+      "end": 393.21
+    },
+    {
+      "start": 413.12,
+      "end": 414.24
+    },
+    {
+      "start": 419.96,
+      "end": 421.05
+    },
+    {
+      "start": 440.48,
+      "end": 441.87
+    },
+    {
+      "start": 449.75,
+      "end": 450.9
+    },
+    {
+      "start": 453.77,
+      "end": 455.25
+    },
+    {
+      "start": 458.9,
+      "end": 459.99
+    },
+    {
+      "start": 491.57,
+      "end": 492.72
+    },
+    {
+      "start": 604.58,
+      "end": 606.66
+    },
+    {
+      "start": 648.08,
+      "end": 649.47
+    },
+    {
+      "start": 660.86,
+      "end": 662.13
+    },
+    {
+      "start": 706.1,
+      "end": 708.75
+    },
+    {
+      "start": 784.16,
+      "end": 786.24
+    },
+    {
+      "start": 858.32,
+      "end": 859.86
+    },
+    {
+      "start": 1054.88,
+      "end": 1056.27
+    },
+    {
+      "start": 1125.11,
+      "end": 1126.35
+    },
+    {
+      "start": 1161.02,
+      "end": 1162.44
+    },
+    {
+      "start": 1214.9,
+      "end": 1215.99
+    },
+    {
+      "start": 1277.69,
+      "end": 1279.89
+    },
+    {
+      "start": 1316.96,
+      "end": 1328.96
+    },
+    {
+      "start": 1353.32,
+      "end": 1356.42
+    },
+    {
+      "start": 1531.79,
+      "end": 1533.54
+    },
+    {
+      "start": 1558.43,
+      "end": 1559.82
+    },
+    {
+      "start": 1600.73,
+      "end": 1602.51
+    },
+    {
+      "start": 1607.51,
+      "end": 1608.72
+    },
+    {
+      "start": 1720.34,
+      "end": 1722.06
+    },
+    {
+      "start": 1758.65,
+      "end": 1760.22
+    },
+    {
+      "start": 1933.58,
+      "end": 1934.73
+    },
+    {
+      "start": 2010.02,
+      "end": 2011.32
+    },
+    {
+      "start": 2013.56,
+      "end": 2015.43
+    },
+    {
+      "start": 2067.92,
+      "end": 2069.13
+    }
+  ]
+}

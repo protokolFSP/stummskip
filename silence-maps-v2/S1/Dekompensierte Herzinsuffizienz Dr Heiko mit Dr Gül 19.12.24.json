@@ -1,0 +1,137 @@
+{
+  "id": "S1|Dekompensierte Herzinsuffizienz Dr Heiko mit Dr Gül 19.12.24.m4a",
+  "name": "Dekompensierte Herzinsuffizienz Dr Heiko mit Dr Gül 19.12.24.m4a",
+  "title": "Dekompensierte Herzinsuffizienz Dr Heiko mit Dr Gül 19.12.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Dekompensierte%20Herzinsuffizienz%20Dr%20Heiko%20mit%20Dr%20Gu%CC%88l%2019.12.24.m4a",
+  "duration": 2339.051,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:12:56Z",
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 2.13
+    },
+    {
+      "start": 90.23,
+      "end": 91.32
+    },
+    {
+      "start": 194.27,
+      "end": 195.93
+    },
+    {
+      "start": 206.6,
+      "end": 207.87
+    },
+    {
+      "start": 288.8,
+      "end": 290.13
+    },
+    {
+      "start": 490.25,
+      "end": 491.88
+    },
+    {
+      "start": 527.0,
+      "end": 528.3
+    },
+    {
+      "start": 604.76,
+      "end": 606.33
+    },
+    {
+      "start": 947.78,
+      "end": 948.93
+    },
+    {
+      "start": 955.67,
+      "end": 957.06
+    },
+    {
+      "start": 1000.34,
+      "end": 1003.29
+    },
+    {
+      "start": 1042.7,
+      "end": 1043.97
+    },
+    {
+      "start": 1085.12,
+      "end": 1086.75
+    },
+    {
+      "start": 1090.88,
+      "end": 1092.03
+    },
+    {
+      "start": 1115.93,
+      "end": 1117.05
+    },
+    {
+      "start": 1166.84,
+      "end": 1168.26
+    },
+    {
+      "start": 1265.18,
+      "end": 1266.33
+    },
+    {
+      "start": 1362.05,
+      "end": 1374.05
+    },
+    {
+      "start": 1424.75,
+      "end": 1426.35
+    },
+    {
+      "start": 1434.29,
+      "end": 1435.89
+    },
+    {
+      "start": 1443.71,
+      "end": 1445.07
+    },
+    {
+      "start": 1467.74,
+      "end": 1470.27
+    },
+    {
+      "start": 1489.7,
+      "end": 1490.82
+    },
+    {
+      "start": 1505.81,
+      "end": 1506.9
+    },
+    {
+      "start": 1553.54,
+      "end": 1565.54
+    },
+    {
+      "start": 1603.61,
+      "end": 1605.03
+    },
+    {
+      "start": 1657.67,
+      "end": 1658.76
+    },
+    {
+      "start": 1810.7,
+      "end": 1811.82
+    },
+    {
+      "start": 1927.25,
+      "end": 1928.52
+    }
+  ]
+}

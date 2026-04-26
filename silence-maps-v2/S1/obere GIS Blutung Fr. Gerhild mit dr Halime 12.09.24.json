@@ -1,0 +1,181 @@
+{
+  "id": "S1|obere GIS Blutung Fr. Gerhild mit dr Halime 12.09.24.m4a",
+  "name": "obere GIS Blutung Fr. Gerhild mit dr Halime 12.09.24.m4a",
+  "title": "obere GIS Blutung Fr. Gerhild mit dr Halime 12.09.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/obere%20GIS%20Blutung%20Fr.%20Gerhild%20mit%20dr%20Halime%2012.09.24.m4a",
+  "duration": 1835.552,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:38:07Z",
+  "segments": [
+    {
+      "start": 2.93,
+      "end": 4.74
+    },
+    {
+      "start": 36.95,
+      "end": 38.94
+    },
+    {
+      "start": 68.87,
+      "end": 71.61
+    },
+    {
+      "start": 236.69,
+      "end": 238.5
+    },
+    {
+      "start": 245.75,
+      "end": 247.08
+    },
+    {
+      "start": 273.26,
+      "end": 274.8
+    },
+    {
+      "start": 392.6,
+      "end": 395.97
+    },
+    {
+      "start": 396.86,
+      "end": 398.52
+    },
+    {
+      "start": 403.28,
+      "end": 404.73
+    },
+    {
+      "start": 408.62,
+      "end": 409.71
+    },
+    {
+      "start": 486.74,
+      "end": 488.49
+    },
+    {
+      "start": 506.45,
+      "end": 507.54
+    },
+    {
+      "start": 528.02,
+      "end": 529.14
+    },
+    {
+      "start": 564.47,
+      "end": 565.95
+    },
+    {
+      "start": 568.88,
+      "end": 570.18
+    },
+    {
+      "start": 624.14,
+      "end": 625.26
+    },
+    {
+      "start": 652.61,
+      "end": 654.99
+    },
+    {
+      "start": 657.8,
+      "end": 659.7
+    },
+    {
+      "start": 669.77,
+      "end": 671.13
+    },
+    {
+      "start": 815.81,
+      "end": 817.05
+    },
+    {
+      "start": 860.93,
+      "end": 862.32
+    },
+    {
+      "start": 866.75,
+      "end": 869.19
+    },
+    {
+      "start": 896.75,
+      "end": 897.9
+    },
+    {
+      "start": 940.1,
+      "end": 941.46
+    },
+    {
+      "start": 950.48,
+      "end": 952.23
+    },
+    {
+      "start": 955.25,
+      "end": 956.88
+    },
+    {
+      "start": 969.29,
+      "end": 971.43
+    },
+    {
+      "start": 972.68,
+      "end": 973.86
+    },
+    {
+      "start": 1036.43,
+      "end": 1038.3
+    },
+    {
+      "start": 1042.19,
+      "end": 1043.97
+    },
+    {
+      "start": 1127.03,
+      "end": 1128.15
+    },
+    {
+      "start": 1137.26,
+      "end": 1139.01
+    },
+    {
+      "start": 1164.68,
+      "end": 1165.86
+    },
+    {
+      "start": 1172.51,
+      "end": 1173.63
+    },
+    {
+      "start": 1190.78,
+      "end": 1192.17
+    },
+    {
+      "start": 1223.75,
+      "end": 1224.93
+    },
+    {
+      "start": 1320.26,
+      "end": 1321.56
+    },
+    {
+      "start": 1443.98,
+      "end": 1445.67
+    },
+    {
+      "start": 1582.13,
+      "end": 1583.31
+    },
+    {
+      "start": 1753.67,
+      "end": 1755.54
+    }
+  ]
+}

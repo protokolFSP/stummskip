@@ -1,0 +1,261 @@
+{
+  "id": "S1|Magenperforation Dr Akın mit Dr İskender 02.12.24.m4a",
+  "name": "Magenperforation Dr Akın mit Dr İskender 02.12.24.m4a",
+  "title": "Magenperforation Dr Akın mit Dr İskender 02.12.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Magenperforation%20Dr%20Ak%C4%B1n%20mit%20Dr%20I%CC%87skender%2002.12.24.m4a",
+  "duration": 2973.483,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:34:23Z",
+  "segments": [
+    {
+      "start": 223.82,
+      "end": 226.08
+    },
+    {
+      "start": 410.45,
+      "end": 412.83
+    },
+    {
+      "start": 440.18,
+      "end": 441.99
+    },
+    {
+      "start": 451.52,
+      "end": 452.88
+    },
+    {
+      "start": 476.54,
+      "end": 477.66
+    },
+    {
+      "start": 609.35,
+      "end": 610.44
+    },
+    {
+      "start": 693.2,
+      "end": 694.32
+    },
+    {
+      "start": 698.69,
+      "end": 702.06
+    },
+    {
+      "start": 750.95,
+      "end": 754.14
+    },
+    {
+      "start": 847.31,
+      "end": 848.52
+    },
+    {
+      "start": 938.12,
+      "end": 939.48
+    },
+    {
+      "start": 945.59,
+      "end": 947.37
+    },
+    {
+      "start": 961.37,
+      "end": 962.49
+    },
+    {
+      "start": 975.29,
+      "end": 976.56
+    },
+    {
+      "start": 982.4,
+      "end": 983.79
+    },
+    {
+      "start": 993.59,
+      "end": 995.88
+    },
+    {
+      "start": 999.08,
+      "end": 1000.2
+    },
+    {
+      "start": 1005.89,
+      "end": 1008.39
+    },
+    {
+      "start": 1194.89,
+      "end": 1196.67
+    },
+    {
+      "start": 1200.29,
+      "end": 1201.8
+    },
+    {
+      "start": 1207.55,
+      "end": 1210.32
+    },
+    {
+      "start": 1211.63,
+      "end": 1214.13
+    },
+    {
+      "start": 1216.82,
+      "end": 1218.12
+    },
+    {
+      "start": 1223.51,
+      "end": 1224.75
+    },
+    {
+      "start": 1231.88,
+      "end": 1233.03
+    },
+    {
+      "start": 1243.94,
+      "end": 1245.54
+    },
+    {
+      "start": 1251.5,
+      "end": 1252.92
+    },
+    {
+      "start": 1274.21,
+      "end": 1275.93
+    },
+    {
+      "start": 1297.46,
+      "end": 1299.0
+    },
+    {
+      "start": 1315.58,
+      "end": 1318.38
+    },
+    {
+      "start": 1332.35,
+      "end": 1335.21
+    },
+    {
+      "start": 1358.3,
+      "end": 1359.66
+    },
+    {
+      "start": 1374.08,
+      "end": 1375.29
+    },
+    {
+      "start": 1384.46,
+      "end": 1386.03
+    },
+    {
+      "start": 1418.69,
+      "end": 1420.89
+    },
+    {
+      "start": 1425.89,
+      "end": 1430.46
+    },
+    {
+      "start": 1618.52,
+      "end": 1619.61
+    },
+    {
+      "start": 2019.26,
+      "end": 2020.62
+    },
+    {
+      "start": 2108.6,
+      "end": 2110.38
+    },
+    {
+      "start": 2252.09,
+      "end": 2253.21
+    },
+    {
+      "start": 2324.0,
+      "end": 2325.45
+    },
+    {
+      "start": 2353.73,
+      "end": 2355.93
+    },
+    {
+      "start": 2414.69,
+      "end": 2415.9
+    },
+    {
+      "start": 2426.72,
+      "end": 2427.81
+    },
+    {
+      "start": 2459.06,
+      "end": 2460.42
+    },
+    {
+      "start": 2530.58,
+      "end": 2531.76
+    },
+    {
+      "start": 2541.62,
+      "end": 2543.82
+    },
+    {
+      "start": 2546.99,
+      "end": 2550.99
+    },
+    {
+      "start": 2717.09,
+      "end": 2718.39
+    },
+    {
+      "start": 2757.44,
+      "end": 2758.53
+    },
+    {
+      "start": 2795.57,
+      "end": 2796.72
+    },
+    {
+      "start": 2797.94,
+      "end": 2799.09
+    },
+    {
+      "start": 2806.58,
+      "end": 2807.97
+    },
+    {
+      "start": 2849.63,
+      "end": 2851.77
+    },
+    {
+      "start": 2885.66,
+      "end": 2887.08
+    },
+    {
+      "start": 2897.3,
+      "end": 2898.45
+    },
+    {
+      "start": 2907.92,
+      "end": 2909.4
+    },
+    {
+      "start": 2944.19,
+      "end": 2945.43
+    },
+    {
+      "start": 2954.18,
+      "end": 2956.65
+    },
+    {
+      "start": 2961.98,
+      "end": 2963.13
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "S1|dekompensierten HI Dr Heiko mit Dr Gül 14.05.25.m4a",
+  "name": "dekompensierten HI Dr Heiko mit Dr Gül 14.05.25.m4a",
+  "title": "dekompensierten HI Dr Heiko mit Dr Gül 14.05.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/dekompensierten%20HI%20Dr%20Heiko%20mit%20Dr%20Gu%CC%88l%2014.05.25.m4a",
+  "duration": 2086.379,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:13:31Z",
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 1.74
+    },
+    {
+      "start": 29.21,
+      "end": 30.33
+    },
+    {
+      "start": 206.48,
+      "end": 207.78
+    },
+    {
+      "start": 259.79,
+      "end": 260.97
+    },
+    {
+      "start": 368.81,
+      "end": 370.47
+    },
+    {
+      "start": 394.07,
+      "end": 395.37
+    },
+    {
+      "start": 413.15,
+      "end": 414.39
+    },
+    {
+      "start": 433.22,
+      "end": 434.52
+    },
+    {
+      "start": 525.35,
+      "end": 526.8
+    },
+    {
+      "start": 596.03,
+      "end": 597.48
+    },
+    {
+      "start": 711.65,
+      "end": 713.19
+    },
+    {
+      "start": 718.43,
+      "end": 719.55
+    },
+    {
+      "start": 839.0,
+      "end": 840.18
+    },
+    {
+      "start": 883.76,
+      "end": 884.94
+    },
+    {
+      "start": 922.73,
+      "end": 923.85
+    },
+    {
+      "start": 1014.83,
+      "end": 1015.92
+    },
+    {
+      "start": 1117.1,
+      "end": 1119.72
+    },
+    {
+      "start": 1159.25,
+      "end": 1160.37
+    },
+    {
+      "start": 1163.21,
+      "end": 1165.41
+    },
+    {
+      "start": 1168.19,
+      "end": 1169.49
+    },
+    {
+      "start": 1231.61,
+      "end": 1233.42
+    },
+    {
+      "start": 1239.56,
+      "end": 1240.98
+    },
+    {
+      "start": 1254.89,
+      "end": 1258.29
+    },
+    {
+      "start": 1263.5,
+      "end": 1264.98
+    },
+    {
+      "start": 1275.59,
+      "end": 1283.34
+    },
+    {
+      "start": 1288.28,
+      "end": 1289.43
+    },
+    {
+      "start": 1306.31,
+      "end": 1318.31
+    },
+    {
+      "start": 1321.28,
+      "end": 1322.88
+    },
+    {
+      "start": 1582.55,
+      "end": 1583.82
+    },
+    {
+      "start": 1683.14,
+      "end": 1685.7
+    },
+    {
+      "start": 1786.64,
+      "end": 1787.73
+    },
+    {
+      "start": 1826.36,
+      "end": 1827.69
+    }
+  ]
+}

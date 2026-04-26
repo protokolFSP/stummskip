@@ -1,0 +1,189 @@
+{
+  "id": "S1|Zahlen training__07.m4a",
+  "name": "Zahlen training__07.m4a",
+  "title": "Zahlen training__07.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Zahlen%20training__07.m4a",
+  "duration": 638.464,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:54:47Z",
+  "segments": [
+    {
+      "start": 7.52,
+      "end": 9.42
+    },
+    {
+      "start": 20.27,
+      "end": 25.59
+    },
+    {
+      "start": 37.64,
+      "end": 38.73
+    },
+    {
+      "start": 53.12,
+      "end": 55.08
+    },
+    {
+      "start": 77.0,
+      "end": 79.8
+    },
+    {
+      "start": 104.36,
+      "end": 105.63
+    },
+    {
+      "start": 106.64,
+      "end": 107.94
+    },
+    {
+      "start": 111.23,
+      "end": 113.91
+    },
+    {
+      "start": 124.52,
+      "end": 126.12
+    },
+    {
+      "start": 127.37,
+      "end": 129.9
+    },
+    {
+      "start": 132.89,
+      "end": 134.01
+    },
+    {
+      "start": 139.52,
+      "end": 143.64
+    },
+    {
+      "start": 146.93,
+      "end": 148.02
+    },
+    {
+      "start": 161.51,
+      "end": 165.9
+    },
+    {
+      "start": 172.28,
+      "end": 177.69
+    },
+    {
+      "start": 178.46,
+      "end": 184.23
+    },
+    {
+      "start": 195.08,
+      "end": 196.17
+    },
+    {
+      "start": 202.58,
+      "end": 204.57
+    },
+    {
+      "start": 210.83,
+      "end": 216.3
+    },
+    {
+      "start": 222.62,
+      "end": 224.43
+    },
+    {
+      "start": 228.26,
+      "end": 232.05
+    },
+    {
+      "start": 244.43,
+      "end": 245.88
+    },
+    {
+      "start": 254.93,
+      "end": 259.41
+    },
+    {
+      "start": 264.32,
+      "end": 268.17
+    },
+    {
+      "start": 350.81,
+      "end": 352.95
+    },
+    {
+      "start": 355.16,
+      "end": 356.31
+    },
+    {
+      "start": 368.9,
+      "end": 370.86
+    },
+    {
+      "start": 408.71,
+      "end": 410.07
+    },
+    {
+      "start": 410.72,
+      "end": 411.87
+    },
+    {
+      "start": 436.37,
+      "end": 437.46
+    },
+    {
+      "start": 453.05,
+      "end": 455.67
+    },
+    {
+      "start": 472.1,
+      "end": 478.23
+    },
+    {
+      "start": 489.14,
+      "end": 491.19
+    },
+    {
+      "start": 497.03,
+      "end": 499.02
+    },
+    {
+      "start": 503.21,
+      "end": 504.33
+    },
+    {
+      "start": 515.72,
+      "end": 518.04
+    },
+    {
+      "start": 530.72,
+      "end": 532.8
+    },
+    {
+      "start": 595.97,
+      "end": 597.9
+    },
+    {
+      "start": 599.18,
+      "end": 600.39
+    },
+    {
+      "start": 602.45,
+      "end": 604.71
+    },
+    {
+      "start": 625.16,
+      "end": 626.85
+    },
+    {
+      "start": 635.0,
+      "end": 636.18
+    }
+  ]
+}

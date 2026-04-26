@@ -1,0 +1,137 @@
+{
+  "id": "S1|Diskusprolaps dr Heiko mit dr Iskender 14.11.24.m4a",
+  "name": "Diskusprolaps dr Heiko mit dr Iskender 14.11.24.m4a",
+  "title": "Diskusprolaps dr Heiko mit dr Iskender 14.11.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Diskusprolaps%20dr%20Heiko%20mit%20dr%20Iskender%2014.11.24.m4a",
+  "duration": 2258.859,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:14:20Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 1.68
+    },
+    {
+      "start": 91.22,
+      "end": 92.37
+    },
+    {
+      "start": 126.41,
+      "end": 127.59
+    },
+    {
+      "start": 182.78,
+      "end": 184.17
+    },
+    {
+      "start": 275.06,
+      "end": 276.36
+    },
+    {
+      "start": 311.27,
+      "end": 313.53
+    },
+    {
+      "start": 380.06,
+      "end": 381.54
+    },
+    {
+      "start": 383.27,
+      "end": 384.96
+    },
+    {
+      "start": 388.61,
+      "end": 389.88
+    },
+    {
+      "start": 394.64,
+      "end": 395.76
+    },
+    {
+      "start": 399.62,
+      "end": 400.86
+    },
+    {
+      "start": 428.78,
+      "end": 430.62
+    },
+    {
+      "start": 737.84,
+      "end": 738.99
+    },
+    {
+      "start": 760.37,
+      "end": 761.76
+    },
+    {
+      "start": 770.66,
+      "end": 771.84
+    },
+    {
+      "start": 1063.01,
+      "end": 1067.25
+    },
+    {
+      "start": 1075.73,
+      "end": 1077.21
+    },
+    {
+      "start": 1082.96,
+      "end": 1085.7
+    },
+    {
+      "start": 1113.62,
+      "end": 1114.8
+    },
+    {
+      "start": 1115.54,
+      "end": 1122.42
+    },
+    {
+      "start": 1159.31,
+      "end": 1160.85
+    },
+    {
+      "start": 1208.27,
+      "end": 1209.6
+    },
+    {
+      "start": 1244.75,
+      "end": 1247.7
+    },
+    {
+      "start": 1284.47,
+      "end": 1286.34
+    },
+    {
+      "start": 1324.4,
+      "end": 1325.49
+    },
+    {
+      "start": 1754.21,
+      "end": 1755.54
+    },
+    {
+      "start": 1898.72,
+      "end": 1899.87
+    },
+    {
+      "start": 1903.13,
+      "end": 1904.7
+    },
+    {
+      "start": 1907.39,
+      "end": 1912.53
+    }
+  ]
+}

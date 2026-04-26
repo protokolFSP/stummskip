@@ -1,0 +1,249 @@
+{
+  "id": "S1|Cholelithiasis Fr Gerhild mit Dr Rana 10.04.25.m4a",
+  "name": "Cholelithiasis Fr Gerhild mit Dr Rana 10.04.25.m4a",
+  "title": "Cholelithiasis Fr Gerhild mit Dr Rana 10.04.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Cholelithiasis%20Fr%20Gerhild%20mit%20Dr%20Rana%2010.04.25.m4a",
+  "duration": 2252.565,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:08:57Z",
+  "segments": [
+    {
+      "start": 2.66,
+      "end": 3.9
+    },
+    {
+      "start": 28.13,
+      "end": 31.35
+    },
+    {
+      "start": 91.13,
+      "end": 93.21
+    },
+    {
+      "start": 183.62,
+      "end": 185.13
+    },
+    {
+      "start": 205.37,
+      "end": 211.68
+    },
+    {
+      "start": 240.23,
+      "end": 241.32
+    },
+    {
+      "start": 318.62,
+      "end": 319.74
+    },
+    {
+      "start": 347.63,
+      "end": 349.14
+    },
+    {
+      "start": 354.05,
+      "end": 355.17
+    },
+    {
+      "start": 383.09,
+      "end": 385.11
+    },
+    {
+      "start": 432.56,
+      "end": 436.26
+    },
+    {
+      "start": 457.37,
+      "end": 459.09
+    },
+    {
+      "start": 473.87,
+      "end": 475.23
+    },
+    {
+      "start": 487.19,
+      "end": 488.97
+    },
+    {
+      "start": 498.47,
+      "end": 500.58
+    },
+    {
+      "start": 501.47,
+      "end": 503.31
+    },
+    {
+      "start": 602.18,
+      "end": 603.54
+    },
+    {
+      "start": 640.94,
+      "end": 642.15
+    },
+    {
+      "start": 674.63,
+      "end": 675.78
+    },
+    {
+      "start": 689.81,
+      "end": 692.97
+    },
+    {
+      "start": 709.94,
+      "end": 711.18
+    },
+    {
+      "start": 726.29,
+      "end": 727.44
+    },
+    {
+      "start": 749.84,
+      "end": 751.02
+    },
+    {
+      "start": 797.57,
+      "end": 798.69
+    },
+    {
+      "start": 823.79,
+      "end": 826.05
+    },
+    {
+      "start": 829.28,
+      "end": 830.79
+    },
+    {
+      "start": 833.96,
+      "end": 835.38
+    },
+    {
+      "start": 862.7,
+      "end": 863.82
+    },
+    {
+      "start": 865.76,
+      "end": 869.7
+    },
+    {
+      "start": 870.5,
+      "end": 872.07
+    },
+    {
+      "start": 882.89,
+      "end": 888.24
+    },
+    {
+      "start": 924.32,
+      "end": 929.94
+    },
+    {
+      "start": 935.69,
+      "end": 937.77
+    },
+    {
+      "start": 949.82,
+      "end": 951.24
+    },
+    {
+      "start": 958.01,
+      "end": 959.7
+    },
+    {
+      "start": 990.29,
+      "end": 992.07
+    },
+    {
+      "start": 1008.23,
+      "end": 1009.47
+    },
+    {
+      "start": 1062.02,
+      "end": 1063.53
+    },
+    {
+      "start": 1068.68,
+      "end": 1074.87
+    },
+    {
+      "start": 1128.68,
+      "end": 1136.01
+    },
+    {
+      "start": 1142.33,
+      "end": 1143.93
+    },
+    {
+      "start": 1173.44,
+      "end": 1183.5
+    },
+    {
+      "start": 1184.21,
+      "end": 1186.26
+    },
+    {
+      "start": 1212.2,
+      "end": 1217.04
+    },
+    {
+      "start": 1228.4,
+      "end": 1230.27
+    },
+    {
+      "start": 1244.57,
+      "end": 1250.61
+    },
+    {
+      "start": 1266.83,
+      "end": 1268.07
+    },
+    {
+      "start": 1276.73,
+      "end": 1279.74
+    },
+    {
+      "start": 1543.22,
+      "end": 1544.67
+    },
+    {
+      "start": 1551.71,
+      "end": 1552.92
+    },
+    {
+      "start": 1591.49,
+      "end": 1593.24
+    },
+    {
+      "start": 1717.37,
+      "end": 1719.0
+    },
+    {
+      "start": 1862.96,
+      "end": 1864.11
+    },
+    {
+      "start": 1869.5,
+      "end": 1870.74
+    },
+    {
+      "start": 1871.66,
+      "end": 1873.14
+    },
+    {
+      "start": 1948.64,
+      "end": 1949.73
+    },
+    {
+      "start": 2067.29,
+      "end": 2068.53
+    }
+  ]
+}

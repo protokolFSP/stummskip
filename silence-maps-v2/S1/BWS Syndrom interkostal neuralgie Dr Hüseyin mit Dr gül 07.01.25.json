@@ -1,0 +1,237 @@
+{
+  "id": "S1|BWS Syndrom interkostal neuralgie Dr Hüseyin mit Dr gül 07.01.25.m4a",
+  "name": "BWS Syndrom interkostal neuralgie Dr Hüseyin mit Dr gül 07.01.25.m4a",
+  "title": "BWS Syndrom interkostal neuralgie Dr Hüseyin mit Dr gül 07.01.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/BWS%20Syndrom%20interkostal%20neuralgie%20Dr%20Hu%CC%88seyin%20mit%20Dr%20gu%CC%88l%2007.01.25.m4a",
+  "duration": 2849.216,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:07:00Z",
+  "segments": [
+    {
+      "start": 1.67,
+      "end": 3.6
+    },
+    {
+      "start": 6.86,
+      "end": 7.95
+    },
+    {
+      "start": 16.91,
+      "end": 18.0
+    },
+    {
+      "start": 87.47,
+      "end": 88.59
+    },
+    {
+      "start": 99.77,
+      "end": 100.89
+    },
+    {
+      "start": 109.88,
+      "end": 111.66
+    },
+    {
+      "start": 166.58,
+      "end": 168.06
+    },
+    {
+      "start": 224.24,
+      "end": 225.33
+    },
+    {
+      "start": 384.14,
+      "end": 385.29
+    },
+    {
+      "start": 389.66,
+      "end": 390.93
+    },
+    {
+      "start": 426.95,
+      "end": 428.13
+    },
+    {
+      "start": 651.38,
+      "end": 652.83
+    },
+    {
+      "start": 666.38,
+      "end": 667.5
+    },
+    {
+      "start": 775.22,
+      "end": 776.55
+    },
+    {
+      "start": 806.27,
+      "end": 807.63
+    },
+    {
+      "start": 964.55,
+      "end": 965.64
+    },
+    {
+      "start": 1111.43,
+      "end": 1114.56
+    },
+    {
+      "start": 1121.78,
+      "end": 1123.89
+    },
+    {
+      "start": 1137.65,
+      "end": 1139.61
+    },
+    {
+      "start": 1155.77,
+      "end": 1158.33
+    },
+    {
+      "start": 1170.95,
+      "end": 1172.34
+    },
+    {
+      "start": 1224.71,
+      "end": 1227.09
+    },
+    {
+      "start": 1230.89,
+      "end": 1232.13
+    },
+    {
+      "start": 1242.8,
+      "end": 1244.07
+    },
+    {
+      "start": 1265.27,
+      "end": 1266.48
+    },
+    {
+      "start": 1413.08,
+      "end": 1414.2
+    },
+    {
+      "start": 1499.75,
+      "end": 1501.89
+    },
+    {
+      "start": 1539.29,
+      "end": 1541.64
+    },
+    {
+      "start": 1569.2,
+      "end": 1570.65
+    },
+    {
+      "start": 1600.7,
+      "end": 1602.12
+    },
+    {
+      "start": 1666.1,
+      "end": 1667.22
+    },
+    {
+      "start": 1696.34,
+      "end": 1697.43
+    },
+    {
+      "start": 1703.87,
+      "end": 1705.29
+    },
+    {
+      "start": 1716.68,
+      "end": 1718.07
+    },
+    {
+      "start": 1727.3,
+      "end": 1728.93
+    },
+    {
+      "start": 1749.74,
+      "end": 1752.27
+    },
+    {
+      "start": 1784.84,
+      "end": 1786.53
+    },
+    {
+      "start": 1817.75,
+      "end": 1818.96
+    },
+    {
+      "start": 1905.35,
+      "end": 1906.47
+    },
+    {
+      "start": 1932.02,
+      "end": 1933.23
+    },
+    {
+      "start": 1947.11,
+      "end": 1948.59
+    },
+    {
+      "start": 1952.42,
+      "end": 1955.43
+    },
+    {
+      "start": 1957.79,
+      "end": 1959.69
+    },
+    {
+      "start": 1987.85,
+      "end": 1989.09
+    },
+    {
+      "start": 2027.03,
+      "end": 2028.39
+    },
+    {
+      "start": 2033.03,
+      "end": 2034.3
+    },
+    {
+      "start": 2257.16,
+      "end": 2260.2
+    },
+    {
+      "start": 2263.79,
+      "end": 2265.48
+    },
+    {
+      "start": 2463.26,
+      "end": 2465.4
+    },
+    {
+      "start": 2470.13,
+      "end": 2472.0
+    },
+    {
+      "start": 2499.32,
+      "end": 2500.53
+    },
+    {
+      "start": 2536.13,
+      "end": 2537.88
+    },
+    {
+      "start": 2579.21,
+      "end": 2580.63
+    },
+    {
+      "start": 2768.36,
+      "end": 2769.57
+    }
+  ]
+}

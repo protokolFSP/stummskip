@@ -1,0 +1,361 @@
+{
+  "id": "S1|hypertensive Krise_GlauKomAnfall Dr Heiko mit Dr Osman 05.02.2026.m4a",
+  "name": "hypertensive Krise_GlauKomAnfall Dr Heiko mit Dr Osman 05.02.2026.m4a",
+  "title": "hypertensive Krise_GlauKomAnfall Dr Heiko mit Dr Osman 05.02.2026.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/hypertensive%20Krise_GlauKomAnfall%20Dr%20Heiko%20mit%20Dr%20Osman%2005.02.2026.m4a",
+  "duration": 2034.367,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:23:47Z",
+  "segments": [
+    {
+      "start": 0.71,
+      "end": 3.27
+    },
+    {
+      "start": 14.66,
+      "end": 16.44
+    },
+    {
+      "start": 20.99,
+      "end": 25.26
+    },
+    {
+      "start": 60.95,
+      "end": 62.64
+    },
+    {
+      "start": 72.65,
+      "end": 74.25
+    },
+    {
+      "start": 82.61,
+      "end": 84.72
+    },
+    {
+      "start": 89.9,
+      "end": 92.91
+    },
+    {
+      "start": 97.16,
+      "end": 100.74
+    },
+    {
+      "start": 102.41,
+      "end": 103.62
+    },
+    {
+      "start": 127.4,
+      "end": 128.49
+    },
+    {
+      "start": 133.34,
+      "end": 139.68
+    },
+    {
+      "start": 177.95,
+      "end": 181.23
+    },
+    {
+      "start": 190.85,
+      "end": 196.68
+    },
+    {
+      "start": 205.76,
+      "end": 207.36
+    },
+    {
+      "start": 210.14,
+      "end": 216.54
+    },
+    {
+      "start": 218.24,
+      "end": 219.48
+    },
+    {
+      "start": 233.84,
+      "end": 235.05
+    },
+    {
+      "start": 236.45,
+      "end": 239.46
+    },
+    {
+      "start": 246.17,
+      "end": 249.66
+    },
+    {
+      "start": 252.32,
+      "end": 253.95
+    },
+    {
+      "start": 264.02,
+      "end": 265.56
+    },
+    {
+      "start": 276.86,
+      "end": 278.07
+    },
+    {
+      "start": 278.72,
+      "end": 282.6
+    },
+    {
+      "start": 299.12,
+      "end": 304.89
+    },
+    {
+      "start": 316.82,
+      "end": 317.94
+    },
+    {
+      "start": 326.33,
+      "end": 327.6
+    },
+    {
+      "start": 335.78,
+      "end": 337.83
+    },
+    {
+      "start": 343.16,
+      "end": 349.8
+    },
+    {
+      "start": 354.59,
+      "end": 358.5
+    },
+    {
+      "start": 371.81,
+      "end": 373.35
+    },
+    {
+      "start": 375.44,
+      "end": 377.01
+    },
+    {
+      "start": 389.03,
+      "end": 391.47
+    },
+    {
+      "start": 413.06,
+      "end": 415.59
+    },
+    {
+      "start": 424.13,
+      "end": 425.31
+    },
+    {
+      "start": 427.52,
+      "end": 429.84
+    },
+    {
+      "start": 439.31,
+      "end": 442.23
+    },
+    {
+      "start": 445.97,
+      "end": 450.21
+    },
+    {
+      "start": 459.56,
+      "end": 467.49
+    },
+    {
+      "start": 496.13,
+      "end": 497.85
+    },
+    {
+      "start": 503.93,
+      "end": 505.95
+    },
+    {
+      "start": 510.77,
+      "end": 512.64
+    },
+    {
+      "start": 525.56,
+      "end": 530.55
+    },
+    {
+      "start": 554.39,
+      "end": 562.8
+    },
+    {
+      "start": 572.06,
+      "end": 573.39
+    },
+    {
+      "start": 595.16,
+      "end": 602.28
+    },
+    {
+      "start": 607.31,
+      "end": 615.3
+    },
+    {
+      "start": 621.5,
+      "end": 623.49
+    },
+    {
+      "start": 634.37,
+      "end": 637.68
+    },
+    {
+      "start": 645.05,
+      "end": 649.44
+    },
+    {
+      "start": 655.31,
+      "end": 661.14
+    },
+    {
+      "start": 670.25,
+      "end": 671.91
+    },
+    {
+      "start": 719.0,
+      "end": 731.0
+    },
+    {
+      "start": 747.77,
+      "end": 749.82
+    },
+    {
+      "start": 757.34,
+      "end": 758.73
+    },
+    {
+      "start": 769.7,
+      "end": 775.56
+    },
+    {
+      "start": 786.11,
+      "end": 790.8
+    },
+    {
+      "start": 805.43,
+      "end": 807.33
+    },
+    {
+      "start": 808.49,
+      "end": 820.49
+    },
+    {
+      "start": 838.22,
+      "end": 840.3
+    },
+    {
+      "start": 861.05,
+      "end": 862.2
+    },
+    {
+      "start": 863.12,
+      "end": 866.55
+    },
+    {
+      "start": 873.29,
+      "end": 874.98
+    },
+    {
+      "start": 884.27,
+      "end": 886.23
+    },
+    {
+      "start": 887.39,
+      "end": 888.63
+    },
+    {
+      "start": 938.03,
+      "end": 947.34
+    },
+    {
+      "start": 949.58,
+      "end": 952.71
+    },
+    {
+      "start": 961.34,
+      "end": 963.09
+    },
+    {
+      "start": 992.39,
+      "end": 994.65
+    },
+    {
+      "start": 1109.39,
+      "end": 1120.11
+    },
+    {
+      "start": 1180.91,
+      "end": 1183.62
+    },
+    {
+      "start": 1188.23,
+      "end": 1189.41
+    },
+    {
+      "start": 1201.34,
+      "end": 1204.59
+    },
+    {
+      "start": 1210.52,
+      "end": 1212.9
+    },
+    {
+      "start": 1242.56,
+      "end": 1250.79
+    },
+    {
+      "start": 1259.09,
+      "end": 1262.07
+    },
+    {
+      "start": 1275.56,
+      "end": 1279.35
+    },
+    {
+      "start": 1282.13,
+      "end": 1285.17
+    },
+    {
+      "start": 1295.24,
+      "end": 1296.51
+    },
+    {
+      "start": 1365.29,
+      "end": 1367.64
+    },
+    {
+      "start": 1459.1,
+      "end": 1460.25
+    },
+    {
+      "start": 1530.74,
+      "end": 1531.86
+    },
+    {
+      "start": 1566.2,
+      "end": 1567.47
+    },
+    {
+      "start": 1690.55,
+      "end": 1691.88
+    },
+    {
+      "start": 1693.31,
+      "end": 1694.67
+    },
+    {
+      "start": 2021.87,
+      "end": 2024.13
+    }
+  ]
+}

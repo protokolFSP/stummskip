@@ -1,0 +1,293 @@
+{
+  "id": "S1|Akute Pankreatitis Dr Heiko mit Dr Zulal 22.01.2026.m4a",
+  "name": "Akute Pankreatitis Dr Heiko mit Dr Zulal 22.01.2026.m4a",
+  "title": "Akute Pankreatitis Dr Heiko mit Dr Zulal 22.01.2026.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Akute%20Pankreatitis%20Dr%20Heiko%20mit%20Dr%20Zulal%2022.01.2026.m4a",
+  "duration": 2546.283,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:00:10Z",
+  "segments": [
+    {
+      "start": 37.94,
+      "end": 40.02
+    },
+    {
+      "start": 65.39,
+      "end": 66.63
+    },
+    {
+      "start": 69.5,
+      "end": 71.49
+    },
+    {
+      "start": 94.19,
+      "end": 95.67
+    },
+    {
+      "start": 107.75,
+      "end": 109.08
+    },
+    {
+      "start": 143.78,
+      "end": 147.39
+    },
+    {
+      "start": 154.1,
+      "end": 155.28
+    },
+    {
+      "start": 169.43,
+      "end": 170.64
+    },
+    {
+      "start": 184.91,
+      "end": 186.63
+    },
+    {
+      "start": 188.0,
+      "end": 190.59
+    },
+    {
+      "start": 207.2,
+      "end": 208.35
+    },
+    {
+      "start": 219.11,
+      "end": 220.23
+    },
+    {
+      "start": 227.69,
+      "end": 229.38
+    },
+    {
+      "start": 300.77,
+      "end": 303.45
+    },
+    {
+      "start": 347.54,
+      "end": 349.05
+    },
+    {
+      "start": 354.77,
+      "end": 356.4
+    },
+    {
+      "start": 394.25,
+      "end": 397.14
+    },
+    {
+      "start": 405.26,
+      "end": 408.24
+    },
+    {
+      "start": 426.41,
+      "end": 429.87
+    },
+    {
+      "start": 438.77,
+      "end": 440.73
+    },
+    {
+      "start": 451.43,
+      "end": 453.54
+    },
+    {
+      "start": 463.88,
+      "end": 466.44
+    },
+    {
+      "start": 476.0,
+      "end": 477.42
+    },
+    {
+      "start": 480.8,
+      "end": 483.12
+    },
+    {
+      "start": 530.33,
+      "end": 531.99
+    },
+    {
+      "start": 549.26,
+      "end": 551.25
+    },
+    {
+      "start": 566.21,
+      "end": 567.72
+    },
+    {
+      "start": 579.14,
+      "end": 582.54
+    },
+    {
+      "start": 673.76,
+      "end": 678.48
+    },
+    {
+      "start": 735.71,
+      "end": 737.88
+    },
+    {
+      "start": 753.5,
+      "end": 758.46
+    },
+    {
+      "start": 799.94,
+      "end": 801.45
+    },
+    {
+      "start": 845.36,
+      "end": 848.16
+    },
+    {
+      "start": 891.53,
+      "end": 893.43
+    },
+    {
+      "start": 904.79,
+      "end": 906.3
+    },
+    {
+      "start": 924.14,
+      "end": 925.26
+    },
+    {
+      "start": 935.54,
+      "end": 938.22
+    },
+    {
+      "start": 967.76,
+      "end": 969.48
+    },
+    {
+      "start": 998.03,
+      "end": 999.21
+    },
+    {
+      "start": 1021.04,
+      "end": 1023.27
+    },
+    {
+      "start": 1050.2,
+      "end": 1051.62
+    },
+    {
+      "start": 1064.03,
+      "end": 1065.51
+    },
+    {
+      "start": 1086.98,
+      "end": 1089.66
+    },
+    {
+      "start": 1104.35,
+      "end": 1107.6
+    },
+    {
+      "start": 1109.93,
+      "end": 1112.58
+    },
+    {
+      "start": 1136.18,
+      "end": 1137.93
+    },
+    {
+      "start": 1154.6,
+      "end": 1155.75
+    },
+    {
+      "start": 1169.39,
+      "end": 1171.59
+    },
+    {
+      "start": 1264.16,
+      "end": 1265.61
+    },
+    {
+      "start": 1285.88,
+      "end": 1287.12
+    },
+    {
+      "start": 1334.3,
+      "end": 1337.31
+    },
+    {
+      "start": 1371.11,
+      "end": 1380.48
+    },
+    {
+      "start": 1394.45,
+      "end": 1402.56
+    },
+    {
+      "start": 1428.68,
+      "end": 1437.75
+    },
+    {
+      "start": 1440.05,
+      "end": 1441.68
+    },
+    {
+      "start": 1482.02,
+      "end": 1483.14
+    },
+    {
+      "start": 1713.68,
+      "end": 1715.58
+    },
+    {
+      "start": 1856.12,
+      "end": 1857.33
+    },
+    {
+      "start": 1872.68,
+      "end": 1874.7
+    },
+    {
+      "start": 1881.83,
+      "end": 1886.46
+    },
+    {
+      "start": 1910.51,
+      "end": 1911.84
+    },
+    {
+      "start": 2005.67,
+      "end": 2006.79
+    },
+    {
+      "start": 2316.59,
+      "end": 2318.16
+    },
+    {
+      "start": 2416.55,
+      "end": 2417.67
+    },
+    {
+      "start": 2461.64,
+      "end": 2462.73
+    },
+    {
+      "start": 2466.53,
+      "end": 2468.04
+    },
+    {
+      "start": 2489.03,
+      "end": 2490.36
+    },
+    {
+      "start": 2492.57,
+      "end": 2495.46
+    }
+  ]
+}

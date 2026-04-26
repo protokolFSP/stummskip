@@ -1,0 +1,245 @@
+{
+  "id": "S1|Pyelonephritis Dr.Gerhild mit Dr Gülsah 26.11.24.m4a",
+  "name": "Pyelonephritis Dr.Gerhild mit Dr Gülsah 26.11.24.m4a",
+  "title": "Pyelonephritis Dr.Gerhild mit Dr Gülsah 26.11.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Pyelonephritis%20Dr.Gerhild%20mit%20Dr%20Gu%CC%88lsah%2026.11.24.m4a",
+  "duration": 2317.632,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:46:56Z",
+  "segments": [
+    {
+      "start": 0.95,
+      "end": 7.11
+    },
+    {
+      "start": 156.98,
+      "end": 158.43
+    },
+    {
+      "start": 226.4,
+      "end": 227.82
+    },
+    {
+      "start": 240.98,
+      "end": 242.28
+    },
+    {
+      "start": 244.82,
+      "end": 246.06
+    },
+    {
+      "start": 334.13,
+      "end": 335.31
+    },
+    {
+      "start": 436.43,
+      "end": 437.79
+    },
+    {
+      "start": 444.68,
+      "end": 446.46
+    },
+    {
+      "start": 465.38,
+      "end": 467.04
+    },
+    {
+      "start": 467.99,
+      "end": 469.11
+    },
+    {
+      "start": 480.8,
+      "end": 483.18
+    },
+    {
+      "start": 524.12,
+      "end": 525.51
+    },
+    {
+      "start": 554.75,
+      "end": 556.05
+    },
+    {
+      "start": 582.05,
+      "end": 584.04
+    },
+    {
+      "start": 587.84,
+      "end": 589.2
+    },
+    {
+      "start": 638.48,
+      "end": 640.08
+    },
+    {
+      "start": 717.47,
+      "end": 719.28
+    },
+    {
+      "start": 727.34,
+      "end": 728.94
+    },
+    {
+      "start": 766.19,
+      "end": 768.0
+    },
+    {
+      "start": 811.43,
+      "end": 812.79
+    },
+    {
+      "start": 831.65,
+      "end": 835.68
+    },
+    {
+      "start": 836.57,
+      "end": 839.31
+    },
+    {
+      "start": 848.12,
+      "end": 849.39
+    },
+    {
+      "start": 946.01,
+      "end": 947.37
+    },
+    {
+      "start": 956.72,
+      "end": 958.32
+    },
+    {
+      "start": 969.11,
+      "end": 970.98
+    },
+    {
+      "start": 1022.69,
+      "end": 1024.02
+    },
+    {
+      "start": 1054.34,
+      "end": 1058.55
+    },
+    {
+      "start": 1071.56,
+      "end": 1072.77
+    },
+    {
+      "start": 1104.95,
+      "end": 1109.58
+    },
+    {
+      "start": 1116.59,
+      "end": 1118.1
+    },
+    {
+      "start": 1160.15,
+      "end": 1161.72
+    },
+    {
+      "start": 1170.44,
+      "end": 1171.71
+    },
+    {
+      "start": 1240.43,
+      "end": 1242.6
+    },
+    {
+      "start": 1253.12,
+      "end": 1255.92
+    },
+    {
+      "start": 1290.11,
+      "end": 1299.87
+    },
+    {
+      "start": 1301.39,
+      "end": 1310.22
+    },
+    {
+      "start": 1315.4,
+      "end": 1317.84
+    },
+    {
+      "start": 1322.54,
+      "end": 1323.99
+    },
+    {
+      "start": 1336.7,
+      "end": 1339.5
+    },
+    {
+      "start": 1342.37,
+      "end": 1349.79
+    },
+    {
+      "start": 1354.34,
+      "end": 1355.88
+    },
+    {
+      "start": 1371.59,
+      "end": 1375.29
+    },
+    {
+      "start": 1380.38,
+      "end": 1381.59
+    },
+    {
+      "start": 1527.32,
+      "end": 1528.68
+    },
+    {
+      "start": 1586.18,
+      "end": 1587.57
+    },
+    {
+      "start": 1728.68,
+      "end": 1730.61
+    },
+    {
+      "start": 1859.39,
+      "end": 1860.81
+    },
+    {
+      "start": 1920.02,
+      "end": 1921.23
+    },
+    {
+      "start": 1922.18,
+      "end": 1923.48
+    },
+    {
+      "start": 1928.9,
+      "end": 1930.02
+    },
+    {
+      "start": 2009.87,
+      "end": 2012.16
+    },
+    {
+      "start": 2015.84,
+      "end": 2017.02
+    },
+    {
+      "start": 2050.28,
+      "end": 2052.3
+    },
+    {
+      "start": 2059.7,
+      "end": 2060.82
+    },
+    {
+      "start": 2109.56,
+      "end": 2111.67
+    }
+  ]
+}

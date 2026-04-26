@@ -1,0 +1,20 @@
+{
+  "id": "S1|z Aufklærung07-Belastung EKG.m4a",
+  "name": "z Aufklærung07-Belastung EKG.m4a",
+  "title": "z Aufklærung07-Belastung EKG.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung07-Belastung%20EKG.m4a",
+  "duration": 19.328,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:53:07Z",
+  "segments": []
+}

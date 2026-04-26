@@ -1,0 +1,273 @@
+{
+  "id": "S1|Hyperthyreose Kontrastmittelinduzierte Iod Dr Heiko mit Dr Yakup 30.04.25.m4a",
+  "name": "Hyperthyreose Kontrastmittelinduzierte Iod Dr Heiko mit Dr Yakup 30.04.25.m4a",
+  "title": "Hyperthyreose Kontrastmittelinduzierte Iod Dr Heiko mit Dr Yakup 30.04.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Hyperthyreose%20Kontrastmittelinduzierte%20Iod%20Dr%20Heiko%20mit%20Dr%20Yakup%2030.04.25.m4a",
+  "duration": 2059.136,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:24:14Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 1.74
+    },
+    {
+      "start": 24.86,
+      "end": 26.01
+    },
+    {
+      "start": 66.86,
+      "end": 68.34
+    },
+    {
+      "start": 83.0,
+      "end": 84.15
+    },
+    {
+      "start": 93.86,
+      "end": 95.22
+    },
+    {
+      "start": 106.34,
+      "end": 107.43
+    },
+    {
+      "start": 111.17,
+      "end": 112.44
+    },
+    {
+      "start": 133.91,
+      "end": 135.09
+    },
+    {
+      "start": 172.1,
+      "end": 173.19
+    },
+    {
+      "start": 234.74,
+      "end": 237.45
+    },
+    {
+      "start": 269.24,
+      "end": 270.81
+    },
+    {
+      "start": 313.49,
+      "end": 315.15
+    },
+    {
+      "start": 320.69,
+      "end": 323.61
+    },
+    {
+      "start": 374.96,
+      "end": 380.7
+    },
+    {
+      "start": 408.68,
+      "end": 410.22
+    },
+    {
+      "start": 416.12,
+      "end": 418.95
+    },
+    {
+      "start": 439.25,
+      "end": 440.76
+    },
+    {
+      "start": 446.81,
+      "end": 450.93
+    },
+    {
+      "start": 455.87,
+      "end": 456.96
+    },
+    {
+      "start": 487.1,
+      "end": 491.46
+    },
+    {
+      "start": 497.63,
+      "end": 501.96
+    },
+    {
+      "start": 526.16,
+      "end": 527.4
+    },
+    {
+      "start": 564.89,
+      "end": 566.01
+    },
+    {
+      "start": 578.24,
+      "end": 579.36
+    },
+    {
+      "start": 602.12,
+      "end": 603.87
+    },
+    {
+      "start": 608.54,
+      "end": 610.71
+    },
+    {
+      "start": 633.02,
+      "end": 634.2
+    },
+    {
+      "start": 639.17,
+      "end": 641.85
+    },
+    {
+      "start": 689.72,
+      "end": 691.74
+    },
+    {
+      "start": 699.65,
+      "end": 701.31
+    },
+    {
+      "start": 706.67,
+      "end": 708.39
+    },
+    {
+      "start": 754.55,
+      "end": 757.62
+    },
+    {
+      "start": 764.9,
+      "end": 773.25
+    },
+    {
+      "start": 774.89,
+      "end": 778.92
+    },
+    {
+      "start": 784.79,
+      "end": 786.39
+    },
+    {
+      "start": 795.44,
+      "end": 796.89
+    },
+    {
+      "start": 818.24,
+      "end": 819.54
+    },
+    {
+      "start": 821.75,
+      "end": 824.25
+    },
+    {
+      "start": 828.14,
+      "end": 834.63
+    },
+    {
+      "start": 856.43,
+      "end": 858.9
+    },
+    {
+      "start": 978.17,
+      "end": 980.34
+    },
+    {
+      "start": 1004.84,
+      "end": 1007.49
+    },
+    {
+      "start": 1032.2,
+      "end": 1033.68
+    },
+    {
+      "start": 1048.82,
+      "end": 1052.13
+    },
+    {
+      "start": 1054.58,
+      "end": 1055.7
+    },
+    {
+      "start": 1075.31,
+      "end": 1076.82
+    },
+    {
+      "start": 1081.4,
+      "end": 1086.33
+    },
+    {
+      "start": 1141.19,
+      "end": 1146.15
+    },
+    {
+      "start": 1280.57,
+      "end": 1281.84
+    },
+    {
+      "start": 1301.45,
+      "end": 1302.66
+    },
+    {
+      "start": 1307.9,
+      "end": 1309.59
+    },
+    {
+      "start": 1356.35,
+      "end": 1358.97
+    },
+    {
+      "start": 1425.8,
+      "end": 1427.04
+    },
+    {
+      "start": 1560.74,
+      "end": 1562.58
+    },
+    {
+      "start": 1588.67,
+      "end": 1590.18
+    },
+    {
+      "start": 1717.82,
+      "end": 1719.45
+    },
+    {
+      "start": 1741.13,
+      "end": 1742.52
+    },
+    {
+      "start": 1812.11,
+      "end": 1813.41
+    },
+    {
+      "start": 1846.28,
+      "end": 1848.84
+    },
+    {
+      "start": 1871.36,
+      "end": 1873.23
+    },
+    {
+      "start": 1883.66,
+      "end": 1885.95
+    },
+    {
+      "start": 1929.38,
+      "end": 1930.5
+    },
+    {
+      "start": 2052.59,
+      "end": 2053.74
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "S1|z Aufklærung12-MRT.m4a",
+  "name": "z Aufklærung12-MRT.m4a",
+  "title": "z Aufklærung12-MRT.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/z%20Aufkl%C3%A6rung12-MRT.m4a",
+  "duration": 50.027,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:53:29Z",
+  "segments": [
+    {
+      "start": 22.55,
+      "end": 23.64
+    },
+    {
+      "start": 36.08,
+      "end": 37.23
+    },
+    {
+      "start": 48.29,
+      "end": 49.847
+    }
+  ]
+}

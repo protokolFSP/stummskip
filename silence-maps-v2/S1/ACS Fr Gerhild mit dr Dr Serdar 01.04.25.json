@@ -1,0 +1,209 @@
+{
+  "id": "S1|ACS Fr Gerhild mit dr Dr Serdar 01.04.25.m4a",
+  "name": "ACS Fr Gerhild mit dr Dr Serdar 01.04.25.m4a",
+  "title": "ACS Fr Gerhild mit dr Dr Serdar 01.04.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/ACS%20Fr%20Gerhild%20mit%20dr%20Dr%20Serdar%2001.04.25.m4a",
+  "duration": 2625.109,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T21:57:08Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 1.65
+    },
+    {
+      "start": 26.15,
+      "end": 27.33
+    },
+    {
+      "start": 52.61,
+      "end": 54.12
+    },
+    {
+      "start": 60.53,
+      "end": 61.83
+    },
+    {
+      "start": 401.39,
+      "end": 405.24
+    },
+    {
+      "start": 406.28,
+      "end": 407.37
+    },
+    {
+      "start": 461.78,
+      "end": 463.14
+    },
+    {
+      "start": 509.69,
+      "end": 515.46
+    },
+    {
+      "start": 567.86,
+      "end": 568.95
+    },
+    {
+      "start": 580.88,
+      "end": 583.41
+    },
+    {
+      "start": 592.76,
+      "end": 594.39
+    },
+    {
+      "start": 627.92,
+      "end": 629.7
+    },
+    {
+      "start": 652.19,
+      "end": 654.0
+    },
+    {
+      "start": 723.89,
+      "end": 725.55
+    },
+    {
+      "start": 768.59,
+      "end": 769.83
+    },
+    {
+      "start": 773.18,
+      "end": 774.33
+    },
+    {
+      "start": 795.86,
+      "end": 797.25
+    },
+    {
+      "start": 808.16,
+      "end": 809.25
+    },
+    {
+      "start": 837.38,
+      "end": 839.73
+    },
+    {
+      "start": 879.26,
+      "end": 880.74
+    },
+    {
+      "start": 902.99,
+      "end": 904.62
+    },
+    {
+      "start": 929.96,
+      "end": 931.26
+    },
+    {
+      "start": 973.76,
+      "end": 974.97
+    },
+    {
+      "start": 1005.41,
+      "end": 1006.5
+    },
+    {
+      "start": 1024.4,
+      "end": 1025.76
+    },
+    {
+      "start": 1051.64,
+      "end": 1053.33
+    },
+    {
+      "start": 1060.01,
+      "end": 1061.31
+    },
+    {
+      "start": 1071.44,
+      "end": 1072.53
+    },
+    {
+      "start": 1157.39,
+      "end": 1161.24
+    },
+    {
+      "start": 1214.33,
+      "end": 1226.07
+    },
+    {
+      "start": 1226.75,
+      "end": 1230.27
+    },
+    {
+      "start": 1255.49,
+      "end": 1262.43
+    },
+    {
+      "start": 1438.55,
+      "end": 1439.64
+    },
+    {
+      "start": 1936.85,
+      "end": 1938.03
+    },
+    {
+      "start": 1959.71,
+      "end": 1961.13
+    },
+    {
+      "start": 1975.49,
+      "end": 1976.97
+    },
+    {
+      "start": 2003.15,
+      "end": 2004.96
+    },
+    {
+      "start": 2010.47,
+      "end": 2011.92
+    },
+    {
+      "start": 2067.38,
+      "end": 2068.47
+    },
+    {
+      "start": 2100.23,
+      "end": 2102.4
+    },
+    {
+      "start": 2135.06,
+      "end": 2137.83
+    },
+    {
+      "start": 2218.16,
+      "end": 2219.34
+    },
+    {
+      "start": 2310.2,
+      "end": 2312.43
+    },
+    {
+      "start": 2318.12,
+      "end": 2319.72
+    },
+    {
+      "start": 2387.48,
+      "end": 2388.87
+    },
+    {
+      "start": 2541.86,
+      "end": 2543.28
+    },
+    {
+      "start": 2544.11,
+      "end": 2545.26
+    }
+  ]
+}

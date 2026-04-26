@@ -1,0 +1,193 @@
+{
+  "id": "S1|DM unkontrollierte und aHT Fr Gerhild mit dr Rabia 15.08.24.m4a",
+  "name": "DM unkontrollierte und aHT Fr Gerhild mit dr Rabia 15.08.24.m4a",
+  "title": "DM unkontrollierte und aHT Fr Gerhild mit dr Rabia 15.08.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/DM%20unkontrollierte%20und%20aHT%20Fr%20Gerhild%20mit%20dr%20Rabia%2015.08.24.m4a",
+  "duration": 1846.144,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:17:27Z",
+  "segments": [
+    {
+      "start": 1.7,
+      "end": 2.85
+    },
+    {
+      "start": 32.0,
+      "end": 33.42
+    },
+    {
+      "start": 57.5,
+      "end": 58.65
+    },
+    {
+      "start": 66.14,
+      "end": 67.5
+    },
+    {
+      "start": 77.0,
+      "end": 78.81
+    },
+    {
+      "start": 141.68,
+      "end": 142.8
+    },
+    {
+      "start": 182.78,
+      "end": 183.87
+    },
+    {
+      "start": 198.83,
+      "end": 200.49
+    },
+    {
+      "start": 249.11,
+      "end": 250.44
+    },
+    {
+      "start": 286.64,
+      "end": 288.15
+    },
+    {
+      "start": 318.92,
+      "end": 320.55
+    },
+    {
+      "start": 324.62,
+      "end": 326.67
+    },
+    {
+      "start": 338.0,
+      "end": 339.39
+    },
+    {
+      "start": 356.81,
+      "end": 358.89
+    },
+    {
+      "start": 374.48,
+      "end": 376.26
+    },
+    {
+      "start": 380.78,
+      "end": 382.08
+    },
+    {
+      "start": 384.29,
+      "end": 385.65
+    },
+    {
+      "start": 397.22,
+      "end": 400.23
+    },
+    {
+      "start": 479.54,
+      "end": 484.08
+    },
+    {
+      "start": 525.02,
+      "end": 527.04
+    },
+    {
+      "start": 561.68,
+      "end": 562.83
+    },
+    {
+      "start": 594.05,
+      "end": 595.29
+    },
+    {
+      "start": 605.09,
+      "end": 607.8
+    },
+    {
+      "start": 748.79,
+      "end": 750.78
+    },
+    {
+      "start": 807.05,
+      "end": 808.32
+    },
+    {
+      "start": 990.65,
+      "end": 992.16
+    },
+    {
+      "start": 1094.12,
+      "end": 1095.27
+    },
+    {
+      "start": 1105.37,
+      "end": 1112.79
+    },
+    {
+      "start": 1118.24,
+      "end": 1120.35
+    },
+    {
+      "start": 1198.91,
+      "end": 1200.24
+    },
+    {
+      "start": 1302.02,
+      "end": 1303.38
+    },
+    {
+      "start": 1327.82,
+      "end": 1329.54
+    },
+    {
+      "start": 1424.69,
+      "end": 1425.78
+    },
+    {
+      "start": 1457.18,
+      "end": 1458.66
+    },
+    {
+      "start": 1508.66,
+      "end": 1509.81
+    },
+    {
+      "start": 1519.79,
+      "end": 1523.13
+    },
+    {
+      "start": 1525.16,
+      "end": 1528.41
+    },
+    {
+      "start": 1612.13,
+      "end": 1613.31
+    },
+    {
+      "start": 1658.93,
+      "end": 1660.71
+    },
+    {
+      "start": 1669.49,
+      "end": 1671.18
+    },
+    {
+      "start": 1700.24,
+      "end": 1701.54
+    },
+    {
+      "start": 1741.22,
+      "end": 1742.34
+    },
+    {
+      "start": 1843.73,
+      "end": 1845.63
+    }
+  ]
+}

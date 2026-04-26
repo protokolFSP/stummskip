@@ -1,0 +1,157 @@
+{
+  "id": "S1|Cholezystitis Dr Gerhild mit Dr İskender 21.11.24.m4a",
+  "name": "Cholezystitis Dr Gerhild mit Dr İskender 21.11.24.m4a",
+  "title": "Cholezystitis Dr Gerhild mit Dr İskender 21.11.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Cholezystitis%20Dr%20Gerhild%20mit%20Dr%20I%CC%87skender%2021.11.24.m4a",
+  "duration": 1885.483,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:09:29Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 2.49
+    },
+    {
+      "start": 119.81,
+      "end": 122.82
+    },
+    {
+      "start": 142.13,
+      "end": 143.88
+    },
+    {
+      "start": 203.0,
+      "end": 204.27
+    },
+    {
+      "start": 333.47,
+      "end": 335.1
+    },
+    {
+      "start": 339.62,
+      "end": 340.8
+    },
+    {
+      "start": 379.52,
+      "end": 380.67
+    },
+    {
+      "start": 464.03,
+      "end": 465.54
+    },
+    {
+      "start": 653.36,
+      "end": 655.62
+    },
+    {
+      "start": 734.96,
+      "end": 736.29
+    },
+    {
+      "start": 882.11,
+      "end": 883.89
+    },
+    {
+      "start": 889.52,
+      "end": 890.85
+    },
+    {
+      "start": 975.77,
+      "end": 982.92
+    },
+    {
+      "start": 986.3,
+      "end": 997.02
+    },
+    {
+      "start": 1005.98,
+      "end": 1007.31
+    },
+    {
+      "start": 1013.54,
+      "end": 1015.35
+    },
+    {
+      "start": 1027.46,
+      "end": 1028.97
+    },
+    {
+      "start": 1036.43,
+      "end": 1038.33
+    },
+    {
+      "start": 1040.42,
+      "end": 1041.69
+    },
+    {
+      "start": 1058.57,
+      "end": 1059.84
+    },
+    {
+      "start": 1073.6,
+      "end": 1075.92
+    },
+    {
+      "start": 1096.4,
+      "end": 1108.4
+    },
+    {
+      "start": 1121.33,
+      "end": 1122.48
+    },
+    {
+      "start": 1218.68,
+      "end": 1220.16
+    },
+    {
+      "start": 1282.64,
+      "end": 1284.21
+    },
+    {
+      "start": 1391.72,
+      "end": 1392.96
+    },
+    {
+      "start": 1598.9,
+      "end": 1602.42
+    },
+    {
+      "start": 1698.68,
+      "end": 1699.89
+    },
+    {
+      "start": 1749.59,
+      "end": 1751.19
+    },
+    {
+      "start": 1789.79,
+      "end": 1791.51
+    },
+    {
+      "start": 1816.61,
+      "end": 1818.12
+    },
+    {
+      "start": 1824.8,
+      "end": 1825.98
+    },
+    {
+      "start": 1835.57,
+      "end": 1836.96
+    },
+    {
+      "start": 1865.12,
+      "end": 1866.48
+    }
+  ]
+}

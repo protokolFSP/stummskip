@@ -1,0 +1,61 @@
+{
+  "id": "S1|ER_Diabetes_Triage_Algorithm Dr Ömer hoca 30.01.2026.m4a",
+  "name": "ER_Diabetes_Triage_Algorithm Dr Ömer hoca 30.01.2026.m4a",
+  "title": "ER_Diabetes_Triage_Algorithm Dr Ömer hoca 30.01.2026.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/ER_Diabetes_Triage_Algorithm%20Dr%20O%CC%88mer%20hoca%2030.01.2026.m4a",
+  "duration": 398.612,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:18:35Z",
+  "segments": [
+    {
+      "start": 10.91,
+      "end": 12.99
+    },
+    {
+      "start": 14.54,
+      "end": 17.13
+    },
+    {
+      "start": 80.54,
+      "end": 81.69
+    },
+    {
+      "start": 85.22,
+      "end": 86.43
+    },
+    {
+      "start": 102.08,
+      "end": 103.35
+    },
+    {
+      "start": 180.98,
+      "end": 182.91
+    },
+    {
+      "start": 190.43,
+      "end": 193.41
+    },
+    {
+      "start": 276.65,
+      "end": 280.44
+    },
+    {
+      "start": 299.06,
+      "end": 300.3
+    },
+    {
+      "start": 331.4,
+      "end": 333.75
+    }
+  ]
+}

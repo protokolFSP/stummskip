@@ -1,0 +1,241 @@
+{
+  "id": "S1|Akutes Koronarsyndrom Fr Gerhild und Dr Gül 29.05.25.m4a",
+  "name": "Akutes Koronarsyndrom Fr Gerhild und Dr Gül 29.05.25.m4a",
+  "title": "Akutes Koronarsyndrom Fr Gerhild und Dr Gül 29.05.25.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Akutes%20Koronarsyndrom%20Fr%20Gerhild%20und%20Dr%20Gu%CC%88l%2029.05.25.m4a",
+  "duration": 2649.685,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:01:07Z",
+  "segments": [
+    {
+      "start": 25.73,
+      "end": 26.97
+    },
+    {
+      "start": 190.31,
+      "end": 191.4
+    },
+    {
+      "start": 326.81,
+      "end": 328.11
+    },
+    {
+      "start": 365.69,
+      "end": 367.08
+    },
+    {
+      "start": 430.55,
+      "end": 431.88
+    },
+    {
+      "start": 450.38,
+      "end": 452.31
+    },
+    {
+      "start": 500.3,
+      "end": 501.54
+    },
+    {
+      "start": 603.44,
+      "end": 604.71
+    },
+    {
+      "start": 622.04,
+      "end": 623.61
+    },
+    {
+      "start": 676.7,
+      "end": 678.03
+    },
+    {
+      "start": 685.22,
+      "end": 686.67
+    },
+    {
+      "start": 696.17,
+      "end": 697.29
+    },
+    {
+      "start": 730.01,
+      "end": 731.25
+    },
+    {
+      "start": 731.99,
+      "end": 733.2
+    },
+    {
+      "start": 734.75,
+      "end": 737.07
+    },
+    {
+      "start": 749.99,
+      "end": 751.08
+    },
+    {
+      "start": 783.92,
+      "end": 785.04
+    },
+    {
+      "start": 795.23,
+      "end": 796.92
+    },
+    {
+      "start": 807.86,
+      "end": 809.13
+    },
+    {
+      "start": 864.35,
+      "end": 866.55
+    },
+    {
+      "start": 883.46,
+      "end": 884.91
+    },
+    {
+      "start": 931.58,
+      "end": 932.79
+    },
+    {
+      "start": 952.76,
+      "end": 954.03
+    },
+    {
+      "start": 974.81,
+      "end": 976.86
+    },
+    {
+      "start": 1069.34,
+      "end": 1070.82
+    },
+    {
+      "start": 1161.68,
+      "end": 1162.77
+    },
+    {
+      "start": 1170.29,
+      "end": 1171.83
+    },
+    {
+      "start": 1201.16,
+      "end": 1202.67
+    },
+    {
+      "start": 1294.1,
+      "end": 1295.37
+    },
+    {
+      "start": 1299.62,
+      "end": 1300.71
+    },
+    {
+      "start": 1386.8,
+      "end": 1390.26
+    },
+    {
+      "start": 1399.37,
+      "end": 1411.37
+    },
+    {
+      "start": 1418.6,
+      "end": 1420.92
+    },
+    {
+      "start": 1512.95,
+      "end": 1514.79
+    },
+    {
+      "start": 1555.22,
+      "end": 1557.48
+    },
+    {
+      "start": 1582.07,
+      "end": 1583.4
+    },
+    {
+      "start": 1649.18,
+      "end": 1650.66
+    },
+    {
+      "start": 1655.24,
+      "end": 1656.9
+    },
+    {
+      "start": 1665.08,
+      "end": 1666.53
+    },
+    {
+      "start": 1667.69,
+      "end": 1669.56
+    },
+    {
+      "start": 1781.06,
+      "end": 1783.08
+    },
+    {
+      "start": 1783.88,
+      "end": 1785.66
+    },
+    {
+      "start": 1825.37,
+      "end": 1826.58
+    },
+    {
+      "start": 1879.64,
+      "end": 1881.78
+    },
+    {
+      "start": 1887.32,
+      "end": 1888.86
+    },
+    {
+      "start": 1924.55,
+      "end": 1925.73
+    },
+    {
+      "start": 1942.79,
+      "end": 1944.06
+    },
+    {
+      "start": 2008.7,
+      "end": 2010.27
+    },
+    {
+      "start": 2027.87,
+      "end": 2029.02
+    },
+    {
+      "start": 2033.63,
+      "end": 2037.21
+    },
+    {
+      "start": 2207.06,
+      "end": 2209.17
+    },
+    {
+      "start": 2222.57,
+      "end": 2224.98
+    },
+    {
+      "start": 2388.08,
+      "end": 2389.86
+    },
+    {
+      "start": 2437.64,
+      "end": 2438.73
+    },
+    {
+      "start": 2537.69,
+      "end": 2538.96
+    }
+  ]
+}

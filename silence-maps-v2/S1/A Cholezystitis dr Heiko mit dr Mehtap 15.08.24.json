@@ -1,0 +1,281 @@
+{
+  "id": "S1|A Cholezystitis dr Heiko mit dr Mehtap 15.08.24.m4a",
+  "name": "A Cholezystitis dr Heiko mit dr Mehtap 15.08.24.m4a",
+  "title": "A Cholezystitis dr Heiko mit dr Mehtap 15.08.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/A%20Cholezystitis%20dr%20Heiko%20mit%20dr%20Mehtap%2015.08.24.m4a",
+  "duration": 2263.872,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T21:54:49Z",
+  "segments": [
+    {
+      "start": 2.18,
+      "end": 4.02
+    },
+    {
+      "start": 78.29,
+      "end": 79.62
+    },
+    {
+      "start": 87.41,
+      "end": 88.56
+    },
+    {
+      "start": 103.43,
+      "end": 104.64
+    },
+    {
+      "start": 105.77,
+      "end": 109.2
+    },
+    {
+      "start": 110.39,
+      "end": 114.36
+    },
+    {
+      "start": 130.94,
+      "end": 141.63
+    },
+    {
+      "start": 176.45,
+      "end": 181.02
+    },
+    {
+      "start": 190.19,
+      "end": 195.21
+    },
+    {
+      "start": 211.94,
+      "end": 215.55
+    },
+    {
+      "start": 252.02,
+      "end": 253.44
+    },
+    {
+      "start": 273.05,
+      "end": 274.71
+    },
+    {
+      "start": 287.75,
+      "end": 291.9
+    },
+    {
+      "start": 301.7,
+      "end": 304.14
+    },
+    {
+      "start": 329.0,
+      "end": 330.21
+    },
+    {
+      "start": 385.7,
+      "end": 388.32
+    },
+    {
+      "start": 397.19,
+      "end": 398.28
+    },
+    {
+      "start": 419.36,
+      "end": 424.11
+    },
+    {
+      "start": 425.0,
+      "end": 427.53
+    },
+    {
+      "start": 435.83,
+      "end": 443.28
+    },
+    {
+      "start": 449.84,
+      "end": 452.91
+    },
+    {
+      "start": 487.76,
+      "end": 488.91
+    },
+    {
+      "start": 491.0,
+      "end": 492.3
+    },
+    {
+      "start": 508.64,
+      "end": 510.6
+    },
+    {
+      "start": 517.64,
+      "end": 519.69
+    },
+    {
+      "start": 527.48,
+      "end": 534.93
+    },
+    {
+      "start": 575.99,
+      "end": 577.23
+    },
+    {
+      "start": 591.05,
+      "end": 593.55
+    },
+    {
+      "start": 606.98,
+      "end": 608.58
+    },
+    {
+      "start": 609.8,
+      "end": 611.19
+    },
+    {
+      "start": 652.67,
+      "end": 656.85
+    },
+    {
+      "start": 663.98,
+      "end": 665.25
+    },
+    {
+      "start": 669.5,
+      "end": 671.01
+    },
+    {
+      "start": 676.46,
+      "end": 682.59
+    },
+    {
+      "start": 752.72,
+      "end": 764.72
+    },
+    {
+      "start": 785.87,
+      "end": 787.08
+    },
+    {
+      "start": 803.99,
+      "end": 815.58
+    },
+    {
+      "start": 825.74,
+      "end": 827.43
+    },
+    {
+      "start": 832.19,
+      "end": 841.29
+    },
+    {
+      "start": 874.91,
+      "end": 877.44
+    },
+    {
+      "start": 882.29,
+      "end": 884.7
+    },
+    {
+      "start": 885.86,
+      "end": 887.46
+    },
+    {
+      "start": 894.56,
+      "end": 897.21
+    },
+    {
+      "start": 909.29,
+      "end": 911.79
+    },
+    {
+      "start": 914.63,
+      "end": 916.05
+    },
+    {
+      "start": 922.49,
+      "end": 931.62
+    },
+    {
+      "start": 936.38,
+      "end": 937.53
+    },
+    {
+      "start": 977.0,
+      "end": 978.15
+    },
+    {
+      "start": 1012.28,
+      "end": 1013.49
+    },
+    {
+      "start": 1042.4,
+      "end": 1044.51
+    },
+    {
+      "start": 1067.48,
+      "end": 1075.89
+    },
+    {
+      "start": 1079.12,
+      "end": 1082.91
+    },
+    {
+      "start": 1085.75,
+      "end": 1086.99
+    },
+    {
+      "start": 1092.41,
+      "end": 1101.51
+    },
+    {
+      "start": 1146.02,
+      "end": 1147.26
+    },
+    {
+      "start": 1176.05,
+      "end": 1177.77
+    },
+    {
+      "start": 1181.57,
+      "end": 1186.77
+    },
+    {
+      "start": 1212.23,
+      "end": 1214.4
+    },
+    {
+      "start": 1229.3,
+      "end": 1234.74
+    },
+    {
+      "start": 1238.45,
+      "end": 1250.45
+    },
+    {
+      "start": 1326.23,
+      "end": 1327.47
+    },
+    {
+      "start": 1608.5,
+      "end": 1609.62
+    },
+    {
+      "start": 1661.15,
+      "end": 1663.26
+    },
+    {
+      "start": 1860.98,
+      "end": 1862.07
+    },
+    {
+      "start": 2056.28,
+      "end": 2057.37
+    }
+  ]
+}

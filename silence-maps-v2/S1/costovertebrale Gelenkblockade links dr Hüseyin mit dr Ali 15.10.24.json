@@ -1,0 +1,349 @@
+{
+  "id": "S1|costovertebrale Gelenkblockade links dr Hüseyin mit dr Ali 15.10.24.m4a",
+  "name": "costovertebrale Gelenkblockade links dr Hüseyin mit dr Ali 15.10.24.m4a",
+  "title": "costovertebrale Gelenkblockade links dr Hüseyin mit dr Ali 15.10.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/costovertebrale%20Gelenkblockade%20links%20dr%20Hu%CC%88seyin%20mit%20dr%20Ali%2015.10.24.m4a",
+  "duration": 2651.669,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:12:24Z",
+  "segments": [
+    {
+      "start": 1.25,
+      "end": 2.34
+    },
+    {
+      "start": 31.94,
+      "end": 33.45
+    },
+    {
+      "start": 54.53,
+      "end": 55.8
+    },
+    {
+      "start": 62.75,
+      "end": 64.83
+    },
+    {
+      "start": 73.49,
+      "end": 76.74
+    },
+    {
+      "start": 86.78,
+      "end": 88.26
+    },
+    {
+      "start": 104.33,
+      "end": 105.45
+    },
+    {
+      "start": 122.06,
+      "end": 123.27
+    },
+    {
+      "start": 136.97,
+      "end": 139.11
+    },
+    {
+      "start": 145.46,
+      "end": 146.79
+    },
+    {
+      "start": 156.83,
+      "end": 158.13
+    },
+    {
+      "start": 189.92,
+      "end": 191.67
+    },
+    {
+      "start": 220.58,
+      "end": 223.23
+    },
+    {
+      "start": 232.4,
+      "end": 234.63
+    },
+    {
+      "start": 238.07,
+      "end": 239.55
+    },
+    {
+      "start": 240.47,
+      "end": 242.19
+    },
+    {
+      "start": 301.34,
+      "end": 303.09
+    },
+    {
+      "start": 342.08,
+      "end": 343.53
+    },
+    {
+      "start": 368.69,
+      "end": 370.2
+    },
+    {
+      "start": 371.09,
+      "end": 374.52
+    },
+    {
+      "start": 377.33,
+      "end": 378.45
+    },
+    {
+      "start": 390.29,
+      "end": 393.39
+    },
+    {
+      "start": 397.79,
+      "end": 398.97
+    },
+    {
+      "start": 419.33,
+      "end": 422.79
+    },
+    {
+      "start": 435.5,
+      "end": 438.81
+    },
+    {
+      "start": 448.19,
+      "end": 450.78
+    },
+    {
+      "start": 454.13,
+      "end": 455.52
+    },
+    {
+      "start": 483.41,
+      "end": 488.61
+    },
+    {
+      "start": 552.77,
+      "end": 554.91
+    },
+    {
+      "start": 614.36,
+      "end": 615.6
+    },
+    {
+      "start": 627.05,
+      "end": 628.56
+    },
+    {
+      "start": 638.75,
+      "end": 640.95
+    },
+    {
+      "start": 655.49,
+      "end": 657.27
+    },
+    {
+      "start": 666.44,
+      "end": 667.77
+    },
+    {
+      "start": 690.92,
+      "end": 692.22
+    },
+    {
+      "start": 745.19,
+      "end": 746.58
+    },
+    {
+      "start": 747.32,
+      "end": 749.13
+    },
+    {
+      "start": 777.44,
+      "end": 779.04
+    },
+    {
+      "start": 795.05,
+      "end": 796.8
+    },
+    {
+      "start": 1097.99,
+      "end": 1099.5
+    },
+    {
+      "start": 1106.18,
+      "end": 1118.18
+    },
+    {
+      "start": 1127.27,
+      "end": 1128.42
+    },
+    {
+      "start": 1177.64,
+      "end": 1185.48
+    },
+    {
+      "start": 1189.73,
+      "end": 1191.39
+    },
+    {
+      "start": 1202.09,
+      "end": 1207.26
+    },
+    {
+      "start": 1247.75,
+      "end": 1249.2
+    },
+    {
+      "start": 1277.54,
+      "end": 1280.82
+    },
+    {
+      "start": 1312.67,
+      "end": 1314.0
+    },
+    {
+      "start": 1316.9,
+      "end": 1319.04
+    },
+    {
+      "start": 1415.51,
+      "end": 1416.63
+    },
+    {
+      "start": 1466.87,
+      "end": 1468.98
+    },
+    {
+      "start": 1482.47,
+      "end": 1483.62
+    },
+    {
+      "start": 1540.43,
+      "end": 1541.61
+    },
+    {
+      "start": 1566.44,
+      "end": 1569.21
+    },
+    {
+      "start": 1649.57,
+      "end": 1651.53
+    },
+    {
+      "start": 1691.12,
+      "end": 1693.41
+    },
+    {
+      "start": 1758.32,
+      "end": 1759.65
+    },
+    {
+      "start": 1763.9,
+      "end": 1765.41
+    },
+    {
+      "start": 1769.09,
+      "end": 1770.72
+    },
+    {
+      "start": 1851.29,
+      "end": 1853.01
+    },
+    {
+      "start": 1867.49,
+      "end": 1868.7
+    },
+    {
+      "start": 1876.73,
+      "end": 1881.6
+    },
+    {
+      "start": 1886.69,
+      "end": 1888.17
+    },
+    {
+      "start": 1910.06,
+      "end": 1911.21
+    },
+    {
+      "start": 1964.66,
+      "end": 1965.75
+    },
+    {
+      "start": 1971.53,
+      "end": 1972.98
+    },
+    {
+      "start": 1993.22,
+      "end": 1994.34
+    },
+    {
+      "start": 2030.21,
+      "end": 2031.33
+    },
+    {
+      "start": 2044.85,
+      "end": 2046.03
+    },
+    {
+      "start": 2053.91,
+      "end": 2056.32
+    },
+    {
+      "start": 2192.6,
+      "end": 2193.9
+    },
+    {
+      "start": 2226.17,
+      "end": 2227.62
+    },
+    {
+      "start": 2242.79,
+      "end": 2244.27
+    },
+    {
+      "start": 2248.43,
+      "end": 2250.51
+    },
+    {
+      "start": 2276.69,
+      "end": 2277.78
+    },
+    {
+      "start": 2363.18,
+      "end": 2364.33
+    },
+    {
+      "start": 2420.0,
+      "end": 2421.18
+    },
+    {
+      "start": 2448.29,
+      "end": 2449.62
+    },
+    {
+      "start": 2461.73,
+      "end": 2462.82
+    },
+    {
+      "start": 2494.58,
+      "end": 2495.91
+    },
+    {
+      "start": 2602.31,
+      "end": 2603.43
+    },
+    {
+      "start": 2648.27,
+      "end": 2649.36
+    }
+  ]
+}

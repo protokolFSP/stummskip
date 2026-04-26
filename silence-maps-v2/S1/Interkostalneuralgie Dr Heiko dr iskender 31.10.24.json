@@ -1,0 +1,197 @@
+{
+  "id": "S1|Interkostalneuralgie Dr Heiko dr iskender 31.10.24.m4a",
+  "name": "Interkostalneuralgie Dr Heiko dr iskender 31.10.24.m4a",
+  "title": "Interkostalneuralgie Dr Heiko dr iskender 31.10.24.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Interkostalneuralgie%20Dr%20Heiko%20dr%20iskender%2031.10.24.m4a",
+  "duration": 2129.6,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:27:06Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 2.25
+    },
+    {
+      "start": 77.87,
+      "end": 80.34
+    },
+    {
+      "start": 88.67,
+      "end": 90.36
+    },
+    {
+      "start": 127.58,
+      "end": 129.15
+    },
+    {
+      "start": 169.58,
+      "end": 171.33
+    },
+    {
+      "start": 172.43,
+      "end": 173.73
+    },
+    {
+      "start": 214.31,
+      "end": 215.43
+    },
+    {
+      "start": 216.23,
+      "end": 217.59
+    },
+    {
+      "start": 261.14,
+      "end": 262.35
+    },
+    {
+      "start": 300.32,
+      "end": 301.5
+    },
+    {
+      "start": 311.3,
+      "end": 313.29
+    },
+    {
+      "start": 327.92,
+      "end": 330.21
+    },
+    {
+      "start": 333.29,
+      "end": 334.56
+    },
+    {
+      "start": 337.07,
+      "end": 341.76
+    },
+    {
+      "start": 353.72,
+      "end": 355.8
+    },
+    {
+      "start": 372.23,
+      "end": 379.59
+    },
+    {
+      "start": 388.19,
+      "end": 390.21
+    },
+    {
+      "start": 393.38,
+      "end": 395.43
+    },
+    {
+      "start": 403.01,
+      "end": 404.1
+    },
+    {
+      "start": 414.32,
+      "end": 416.01
+    },
+    {
+      "start": 597.65,
+      "end": 598.98
+    },
+    {
+      "start": 630.89,
+      "end": 632.22
+    },
+    {
+      "start": 681.02,
+      "end": 683.43
+    },
+    {
+      "start": 713.63,
+      "end": 715.08
+    },
+    {
+      "start": 737.69,
+      "end": 738.87
+    },
+    {
+      "start": 855.17,
+      "end": 856.68
+    },
+    {
+      "start": 878.9,
+      "end": 881.43
+    },
+    {
+      "start": 968.33,
+      "end": 970.14
+    },
+    {
+      "start": 1076.39,
+      "end": 1083.15
+    },
+    {
+      "start": 1089.65,
+      "end": 1095.18
+    },
+    {
+      "start": 1096.13,
+      "end": 1097.34
+    },
+    {
+      "start": 1100.87,
+      "end": 1112.87
+    },
+    {
+      "start": 1128.38,
+      "end": 1129.74
+    },
+    {
+      "start": 1150.55,
+      "end": 1162.55
+    },
+    {
+      "start": 1229.99,
+      "end": 1233.27
+    },
+    {
+      "start": 1234.19,
+      "end": 1236.6
+    },
+    {
+      "start": 1304.42,
+      "end": 1306.17
+    },
+    {
+      "start": 1335.08,
+      "end": 1336.98
+    },
+    {
+      "start": 1759.64,
+      "end": 1761.66
+    },
+    {
+      "start": 1769.6,
+      "end": 1770.9
+    },
+    {
+      "start": 1773.5,
+      "end": 1775.43
+    },
+    {
+      "start": 1776.14,
+      "end": 1777.77
+    },
+    {
+      "start": 2062.73,
+      "end": 2067.75
+    },
+    {
+      "start": 2069.15,
+      "end": 2070.27
+    }
+  ]
+}

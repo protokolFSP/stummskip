@@ -1,0 +1,157 @@
+{
+  "id": "S1|Zahlen training__05.m4a",
+  "name": "Zahlen training__05.m4a",
+  "title": "Zahlen training__05.m4a",
+  "src": "S1",
+  "url": "https://archive.org/download/vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25/Zahlen%20training__05.m4a",
+  "duration": 624.448,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T22:54:36Z",
+  "segments": [
+    {
+      "start": 28.01,
+      "end": 29.94
+    },
+    {
+      "start": 54.41,
+      "end": 55.77
+    },
+    {
+      "start": 65.36,
+      "end": 67.62
+    },
+    {
+      "start": 78.29,
+      "end": 80.31
+    },
+    {
+      "start": 97.16,
+      "end": 98.34
+    },
+    {
+      "start": 105.95,
+      "end": 107.25
+    },
+    {
+      "start": 124.28,
+      "end": 125.4
+    },
+    {
+      "start": 132.2,
+      "end": 134.46
+    },
+    {
+      "start": 142.64,
+      "end": 144.66
+    },
+    {
+      "start": 150.41,
+      "end": 152.01
+    },
+    {
+      "start": 160.97,
+      "end": 162.99
+    },
+    {
+      "start": 169.82,
+      "end": 172.77
+    },
+    {
+      "start": 179.69,
+      "end": 181.5
+    },
+    {
+      "start": 182.75,
+      "end": 184.11
+    },
+    {
+      "start": 187.1,
+      "end": 189.48
+    },
+    {
+      "start": 215.51,
+      "end": 216.66
+    },
+    {
+      "start": 269.48,
+      "end": 270.63
+    },
+    {
+      "start": 278.69,
+      "end": 279.9
+    },
+    {
+      "start": 294.68,
+      "end": 296.19
+    },
+    {
+      "start": 325.55,
+      "end": 328.02
+    },
+    {
+      "start": 340.04,
+      "end": 341.28
+    },
+    {
+      "start": 345.47,
+      "end": 347.22
+    },
+    {
+      "start": 390.53,
+      "end": 391.95
+    },
+    {
+      "start": 462.29,
+      "end": 463.68
+    },
+    {
+      "start": 514.67,
+      "end": 516.09
+    },
+    {
+      "start": 520.31,
+      "end": 521.58
+    },
+    {
+      "start": 533.06,
+      "end": 534.15
+    },
+    {
+      "start": 554.63,
+      "end": 555.84
+    },
+    {
+      "start": 568.85,
+      "end": 570.84
+    },
+    {
+      "start": 576.86,
+      "end": 580.8
+    },
+    {
+      "start": 585.56,
+      "end": 587.25
+    },
+    {
+      "start": 598.61,
+      "end": 603.63
+    },
+    {
+      "start": 613.1,
+      "end": 614.34
+    },
+    {
+      "start": 621.26,
+      "end": 623.46
+    }
+  ]
+}
