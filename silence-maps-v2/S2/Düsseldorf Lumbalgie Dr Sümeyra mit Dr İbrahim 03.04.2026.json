@@ -1,0 +1,241 @@
+{
+  "id": "S2|Düsseldorf Lumbalgie Dr Sümeyra mit Dr İbrahim 03.04.2026.m4a",
+  "name": "Düsseldorf Lumbalgie Dr Sümeyra mit Dr İbrahim 03.04.2026.m4a",
+  "title": "Düsseldorf Lumbalgie Dr Sümeyra mit Dr İbrahim 03.04.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/D%C3%BCsseldorf%20Lumbalgie%20Dr%20S%C3%BCmeyra%20mit%20Dr%20%C4%B0brahim%2003.04.2026.m4a",
+  "duration": 2660.309,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T12:05:47Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 2.91
+    },
+    {
+      "start": 27.35,
+      "end": 28.47
+    },
+    {
+      "start": 35.66,
+      "end": 40.17
+    },
+    {
+      "start": 51.44,
+      "end": 53.97
+    },
+    {
+      "start": 67.04,
+      "end": 69.12
+    },
+    {
+      "start": 70.04,
+      "end": 74.43
+    },
+    {
+      "start": 85.61,
+      "end": 87.84
+    },
+    {
+      "start": 136.94,
+      "end": 138.69
+    },
+    {
+      "start": 168.14,
+      "end": 169.35
+    },
+    {
+      "start": 174.8,
+      "end": 176.79
+    },
+    {
+      "start": 203.3,
+      "end": 205.14
+    },
+    {
+      "start": 213.05,
+      "end": 215.07
+    },
+    {
+      "start": 223.61,
+      "end": 227.58
+    },
+    {
+      "start": 253.19,
+      "end": 256.89
+    },
+    {
+      "start": 267.65,
+      "end": 269.04
+    },
+    {
+      "start": 293.3,
+      "end": 294.6
+    },
+    {
+      "start": 345.68,
+      "end": 346.89
+    },
+    {
+      "start": 432.08,
+      "end": 433.95
+    },
+    {
+      "start": 532.37,
+      "end": 537.06
+    },
+    {
+      "start": 541.16,
+      "end": 542.34
+    },
+    {
+      "start": 548.15,
+      "end": 549.33
+    },
+    {
+      "start": 615.77,
+      "end": 616.86
+    },
+    {
+      "start": 675.23,
+      "end": 676.44
+    },
+    {
+      "start": 712.43,
+      "end": 713.52
+    },
+    {
+      "start": 741.47,
+      "end": 742.8
+    },
+    {
+      "start": 863.48,
+      "end": 864.57
+    },
+    {
+      "start": 879.29,
+      "end": 880.8
+    },
+    {
+      "start": 1035.29,
+      "end": 1038.42
+    },
+    {
+      "start": 1127.75,
+      "end": 1130.61
+    },
+    {
+      "start": 1134.41,
+      "end": 1137.84
+    },
+    {
+      "start": 1188.92,
+      "end": 1191.54
+    },
+    {
+      "start": 1291.37,
+      "end": 1294.83
+    },
+    {
+      "start": 1312.55,
+      "end": 1315.65
+    },
+    {
+      "start": 1468.19,
+      "end": 1469.34
+    },
+    {
+      "start": 1569.56,
+      "end": 1571.31
+    },
+    {
+      "start": 1664.36,
+      "end": 1665.87
+    },
+    {
+      "start": 1669.91,
+      "end": 1671.63
+    },
+    {
+      "start": 1714.22,
+      "end": 1715.34
+    },
+    {
+      "start": 2049.71,
+      "end": 2050.98
+    },
+    {
+      "start": 2088.08,
+      "end": 2089.32
+    },
+    {
+      "start": 2114.21,
+      "end": 2115.39
+    },
+    {
+      "start": 2122.1,
+      "end": 2124.03
+    },
+    {
+      "start": 2160.17,
+      "end": 2161.95
+    },
+    {
+      "start": 2221.22,
+      "end": 2222.31
+    },
+    {
+      "start": 2236.52,
+      "end": 2237.85
+    },
+    {
+      "start": 2247.47,
+      "end": 2249.67
+    },
+    {
+      "start": 2270.12,
+      "end": 2273.34
+    },
+    {
+      "start": 2274.17,
+      "end": 2275.38
+    },
+    {
+      "start": 2276.36,
+      "end": 2278.02
+    },
+    {
+      "start": 2279.69,
+      "end": 2284.95
+    },
+    {
+      "start": 2287.46,
+      "end": 2289.09
+    },
+    {
+      "start": 2291.33,
+      "end": 2292.87
+    },
+    {
+      "start": 2384.6,
+      "end": 2387.28
+    },
+    {
+      "start": 2411.42,
+      "end": 2412.54
+    },
+    {
+      "start": 2653.61,
+      "end": 2657.37
+    }
+  ]
+}

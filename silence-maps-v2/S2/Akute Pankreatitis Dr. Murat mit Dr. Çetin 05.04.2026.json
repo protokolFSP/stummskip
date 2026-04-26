@@ -1,0 +1,201 @@
+{
+  "id": "S2|Akute Pankreatitis Dr. Murat mit Dr. Çetin 05.04.2026.m4a",
+  "name": "Akute Pankreatitis Dr. Murat mit Dr. Çetin 05.04.2026.m4a",
+  "title": "Akute Pankreatitis Dr. Murat mit Dr. Çetin 05.04.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/Akute%20Pankreatitis%20Dr.%20Murat%20mit%20Dr.%20%C3%87etin%2005.04.2026.m4a",
+  "duration": 1601.109,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T11:55:09Z",
+  "segments": [
+    {
+      "start": 11.39,
+      "end": 12.48
+    },
+    {
+      "start": 48.56,
+      "end": 49.89
+    },
+    {
+      "start": 115.13,
+      "end": 116.49
+    },
+    {
+      "start": 127.1,
+      "end": 128.28
+    },
+    {
+      "start": 152.63,
+      "end": 154.23
+    },
+    {
+      "start": 203.6,
+      "end": 204.84
+    },
+    {
+      "start": 206.18,
+      "end": 207.51
+    },
+    {
+      "start": 232.01,
+      "end": 233.46
+    },
+    {
+      "start": 270.68,
+      "end": 271.83
+    },
+    {
+      "start": 301.49,
+      "end": 303.42
+    },
+    {
+      "start": 410.87,
+      "end": 412.5
+    },
+    {
+      "start": 424.01,
+      "end": 425.34
+    },
+    {
+      "start": 517.01,
+      "end": 518.55
+    },
+    {
+      "start": 521.69,
+      "end": 522.99
+    },
+    {
+      "start": 533.21,
+      "end": 534.48
+    },
+    {
+      "start": 589.37,
+      "end": 590.46
+    },
+    {
+      "start": 591.38,
+      "end": 593.31
+    },
+    {
+      "start": 614.03,
+      "end": 615.48
+    },
+    {
+      "start": 671.84,
+      "end": 672.93
+    },
+    {
+      "start": 741.83,
+      "end": 743.16
+    },
+    {
+      "start": 761.84,
+      "end": 763.02
+    },
+    {
+      "start": 766.58,
+      "end": 768.36
+    },
+    {
+      "start": 775.01,
+      "end": 776.61
+    },
+    {
+      "start": 789.14,
+      "end": 790.38
+    },
+    {
+      "start": 791.27,
+      "end": 792.51
+    },
+    {
+      "start": 805.28,
+      "end": 806.43
+    },
+    {
+      "start": 815.09,
+      "end": 816.78
+    },
+    {
+      "start": 819.8,
+      "end": 821.1
+    },
+    {
+      "start": 827.39,
+      "end": 829.86
+    },
+    {
+      "start": 830.63,
+      "end": 834.57
+    },
+    {
+      "start": 927.5,
+      "end": 928.68
+    },
+    {
+      "start": 934.52,
+      "end": 935.61
+    },
+    {
+      "start": 946.34,
+      "end": 949.05
+    },
+    {
+      "start": 950.24,
+      "end": 951.39
+    },
+    {
+      "start": 974.33,
+      "end": 977.4
+    },
+    {
+      "start": 978.59,
+      "end": 980.55
+    },
+    {
+      "start": 1096.25,
+      "end": 1097.64
+    },
+    {
+      "start": 1100.63,
+      "end": 1102.56
+    },
+    {
+      "start": 1132.43,
+      "end": 1133.91
+    },
+    {
+      "start": 1257.59,
+      "end": 1260.33
+    },
+    {
+      "start": 1540.13,
+      "end": 1541.22
+    },
+    {
+      "start": 1548.02,
+      "end": 1550.28
+    },
+    {
+      "start": 1574.93,
+      "end": 1576.95
+    },
+    {
+      "start": 1595.99,
+      "end": 1597.59
+    },
+    {
+      "start": 1599.02,
+      "end": 1600.929
+    }
+  ]
+}

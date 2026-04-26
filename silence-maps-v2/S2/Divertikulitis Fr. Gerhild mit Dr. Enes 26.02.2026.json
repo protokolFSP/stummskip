@@ -1,0 +1,213 @@
+{
+  "id": "S2|Divertikulitis Fr. Gerhild mit Dr. Enes 26.02.2026.m4a",
+  "name": "Divertikulitis Fr. Gerhild mit Dr. Enes 26.02.2026.m4a",
+  "title": "Divertikulitis Fr. Gerhild mit Dr. Enes 26.02.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/Divertikulitis%20Fr.%20Gerhild%20mit%20Dr.%20Enes%2026.02.2026.m4a",
+  "duration": 2437.312,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T11:56:24Z",
+  "segments": [
+    {
+      "start": 1.16,
+      "end": 2.4
+    },
+    {
+      "start": 48.26,
+      "end": 49.35
+    },
+    {
+      "start": 56.27,
+      "end": 57.66
+    },
+    {
+      "start": 66.56,
+      "end": 67.74
+    },
+    {
+      "start": 104.66,
+      "end": 105.78
+    },
+    {
+      "start": 290.87,
+      "end": 292.86
+    },
+    {
+      "start": 401.36,
+      "end": 402.75
+    },
+    {
+      "start": 482.42,
+      "end": 483.63
+    },
+    {
+      "start": 504.2,
+      "end": 505.98
+    },
+    {
+      "start": 525.5,
+      "end": 527.22
+    },
+    {
+      "start": 541.01,
+      "end": 545.22
+    },
+    {
+      "start": 575.3,
+      "end": 576.87
+    },
+    {
+      "start": 619.85,
+      "end": 621.27
+    },
+    {
+      "start": 655.16,
+      "end": 656.34
+    },
+    {
+      "start": 695.42,
+      "end": 696.51
+    },
+    {
+      "start": 728.12,
+      "end": 729.42
+    },
+    {
+      "start": 765.89,
+      "end": 766.98
+    },
+    {
+      "start": 793.01,
+      "end": 796.05
+    },
+    {
+      "start": 826.79,
+      "end": 828.24
+    },
+    {
+      "start": 911.9,
+      "end": 913.02
+    },
+    {
+      "start": 1051.04,
+      "end": 1053.06
+    },
+    {
+      "start": 1092.38,
+      "end": 1097.37
+    },
+    {
+      "start": 1115.33,
+      "end": 1119.78
+    },
+    {
+      "start": 1126.46,
+      "end": 1127.61
+    },
+    {
+      "start": 1139.3,
+      "end": 1140.84
+    },
+    {
+      "start": 1147.31,
+      "end": 1159.31
+    },
+    {
+      "start": 1202.81,
+      "end": 1214.81
+    },
+    {
+      "start": 1325.54,
+      "end": 1326.87
+    },
+    {
+      "start": 1365.59,
+      "end": 1366.89
+    },
+    {
+      "start": 1454.18,
+      "end": 1456.17
+    },
+    {
+      "start": 1457.87,
+      "end": 1459.17
+    },
+    {
+      "start": 1489.94,
+      "end": 1491.3
+    },
+    {
+      "start": 1501.79,
+      "end": 1506.72
+    },
+    {
+      "start": 1530.71,
+      "end": 1532.7
+    },
+    {
+      "start": 1534.58,
+      "end": 1539.75
+    },
+    {
+      "start": 1615.46,
+      "end": 1619.73
+    },
+    {
+      "start": 1621.97,
+      "end": 1624.47
+    },
+    {
+      "start": 1641.92,
+      "end": 1644.96
+    },
+    {
+      "start": 1665.11,
+      "end": 1666.71
+    },
+    {
+      "start": 1677.17,
+      "end": 1678.95
+    },
+    {
+      "start": 1691.9,
+      "end": 1693.5
+    },
+    {
+      "start": 1745.3,
+      "end": 1746.54
+    },
+    {
+      "start": 1800.29,
+      "end": 1801.47
+    },
+    {
+      "start": 1804.58,
+      "end": 1806.33
+    },
+    {
+      "start": 1816.1,
+      "end": 1817.49
+    },
+    {
+      "start": 1902.17,
+      "end": 1903.26
+    },
+    {
+      "start": 2100.17,
+      "end": 2101.29
+    },
+    {
+      "start": 2324.42,
+      "end": 2325.81
+    }
+  ]
+}

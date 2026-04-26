@@ -1,0 +1,273 @@
+{
+  "id": "S2|Düsseldorf UAW von Chemotherapie Dr Sümeyra mit Dr Çetin 25.03.2026.m4a",
+  "name": "Düsseldorf UAW von Chemotherapie Dr Sümeyra mit Dr Çetin 25.03.2026.m4a",
+  "title": "Düsseldorf UAW von Chemotherapie Dr Sümeyra mit Dr Çetin 25.03.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/D%C3%BCsseldorf%20UAW%20von%20Chemotherapie%20Dr%20S%C3%BCmeyra%20mit%20Dr%20%C3%87etin%2025.03.2026.m4a",
+  "duration": 3414.528,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T12:08:48Z",
+  "segments": [
+    {
+      "start": 41.24,
+      "end": 42.39
+    },
+    {
+      "start": 73.7,
+      "end": 74.85
+    },
+    {
+      "start": 229.82,
+      "end": 232.17
+    },
+    {
+      "start": 295.85,
+      "end": 297.12
+    },
+    {
+      "start": 454.34,
+      "end": 457.05
+    },
+    {
+      "start": 669.53,
+      "end": 670.95
+    },
+    {
+      "start": 684.26,
+      "end": 685.5
+    },
+    {
+      "start": 715.58,
+      "end": 717.48
+    },
+    {
+      "start": 723.86,
+      "end": 725.55
+    },
+    {
+      "start": 745.79,
+      "end": 747.78
+    },
+    {
+      "start": 748.88,
+      "end": 750.12
+    },
+    {
+      "start": 760.13,
+      "end": 761.7
+    },
+    {
+      "start": 861.38,
+      "end": 862.47
+    },
+    {
+      "start": 898.1,
+      "end": 899.22
+    },
+    {
+      "start": 1105.04,
+      "end": 1106.19
+    },
+    {
+      "start": 1116.89,
+      "end": 1118.34
+    },
+    {
+      "start": 1164.65,
+      "end": 1165.98
+    },
+    {
+      "start": 1180.22,
+      "end": 1181.91
+    },
+    {
+      "start": 1210.28,
+      "end": 1212.09
+    },
+    {
+      "start": 1351.73,
+      "end": 1353.27
+    },
+    {
+      "start": 1426.58,
+      "end": 1427.97
+    },
+    {
+      "start": 1465.49,
+      "end": 1470.9
+    },
+    {
+      "start": 1473.29,
+      "end": 1477.02
+    },
+    {
+      "start": 1509.38,
+      "end": 1510.83
+    },
+    {
+      "start": 1533.8,
+      "end": 1535.52
+    },
+    {
+      "start": 1655.6,
+      "end": 1656.69
+    },
+    {
+      "start": 1661.75,
+      "end": 1663.26
+    },
+    {
+      "start": 1712.6,
+      "end": 1713.72
+    },
+    {
+      "start": 1716.53,
+      "end": 1717.62
+    },
+    {
+      "start": 1817.6,
+      "end": 1819.2
+    },
+    {
+      "start": 1859.36,
+      "end": 1860.72
+    },
+    {
+      "start": 1866.8,
+      "end": 1867.98
+    },
+    {
+      "start": 1949.54,
+      "end": 1950.72
+    },
+    {
+      "start": 1962.68,
+      "end": 1964.85
+    },
+    {
+      "start": 2017.22,
+      "end": 2018.52
+    },
+    {
+      "start": 2051.75,
+      "end": 2052.93
+    },
+    {
+      "start": 2119.52,
+      "end": 2120.76
+    },
+    {
+      "start": 2150.12,
+      "end": 2151.84
+    },
+    {
+      "start": 2255.87,
+      "end": 2257.26
+    },
+    {
+      "start": 2308.49,
+      "end": 2309.67
+    },
+    {
+      "start": 2372.57,
+      "end": 2374.71
+    },
+    {
+      "start": 2389.79,
+      "end": 2390.91
+    },
+    {
+      "start": 2407.58,
+      "end": 2408.88
+    },
+    {
+      "start": 2410.22,
+      "end": 2412.15
+    },
+    {
+      "start": 2522.18,
+      "end": 2523.63
+    },
+    {
+      "start": 2636.24,
+      "end": 2638.05
+    },
+    {
+      "start": 2718.74,
+      "end": 2719.89
+    },
+    {
+      "start": 2728.28,
+      "end": 2729.46
+    },
+    {
+      "start": 2737.91,
+      "end": 2739.54
+    },
+    {
+      "start": 2760.41,
+      "end": 2762.64
+    },
+    {
+      "start": 2957.54,
+      "end": 2958.9
+    },
+    {
+      "start": 2959.64,
+      "end": 2961.6
+    },
+    {
+      "start": 2968.04,
+      "end": 2969.13
+    },
+    {
+      "start": 2973.59,
+      "end": 2976.54
+    },
+    {
+      "start": 3097.91,
+      "end": 3099.48
+    },
+    {
+      "start": 3103.19,
+      "end": 3106.38
+    },
+    {
+      "start": 3184.43,
+      "end": 3185.67
+    },
+    {
+      "start": 3253.22,
+      "end": 3254.43
+    },
+    {
+      "start": 3282.86,
+      "end": 3294.75
+    },
+    {
+      "start": 3295.82,
+      "end": 3297.18
+    },
+    {
+      "start": 3299.18,
+      "end": 3300.45
+    },
+    {
+      "start": 3334.04,
+      "end": 3335.49
+    },
+    {
+      "start": 3411.8,
+      "end": 3413.7
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "id": "S2|HWS - zervikale Radikulopathie Dr.Heiko mit Mustafa A 16.04.2026.m4a",
+  "name": "HWS - zervikale Radikulopathie Dr.Heiko mit Mustafa A 16.04.2026.m4a",
+  "title": "HWS - zervikale Radikulopathie Dr.Heiko mit Mustafa A 16.04.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/HWS%20-%20zervikale%20Radikulopathie%20Dr.Heiko%20mit%20Mustafa%20A%2016.04.2026.m4a",
+  "duration": 2703.275,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T12:10:42Z",
+  "segments": [
+    {
+      "start": 1.64,
+      "end": 3.21
+    },
+    {
+      "start": 156.65,
+      "end": 158.07
+    },
+    {
+      "start": 164.03,
+      "end": 165.63
+    },
+    {
+      "start": 180.8,
+      "end": 181.92
+    },
+    {
+      "start": 186.23,
+      "end": 188.16
+    },
+    {
+      "start": 204.02,
+      "end": 205.32
+    },
+    {
+      "start": 253.73,
+      "end": 255.45
+    },
+    {
+      "start": 265.1,
+      "end": 267.24
+    },
+    {
+      "start": 278.3,
+      "end": 279.66
+    },
+    {
+      "start": 343.07,
+      "end": 344.73
+    },
+    {
+      "start": 363.98,
+      "end": 365.1
+    },
+    {
+      "start": 375.62,
+      "end": 376.95
+    },
+    {
+      "start": 452.15,
+      "end": 453.84
+    },
+    {
+      "start": 461.99,
+      "end": 463.44
+    },
+    {
+      "start": 553.04,
+      "end": 554.49
+    },
+    {
+      "start": 583.34,
+      "end": 584.61
+    },
+    {
+      "start": 663.98,
+      "end": 665.64
+    },
+    {
+      "start": 707.87,
+      "end": 709.86
+    },
+    {
+      "start": 744.41,
+      "end": 751.11
+    },
+    {
+      "start": 764.03,
+      "end": 765.15
+    },
+    {
+      "start": 835.34,
+      "end": 836.88
+    },
+    {
+      "start": 841.91,
+      "end": 843.18
+    },
+    {
+      "start": 888.23,
+      "end": 891.09
+    },
+    {
+      "start": 915.32,
+      "end": 920.13
+    },
+    {
+      "start": 932.54,
+      "end": 933.69
+    },
+    {
+      "start": 936.86,
+      "end": 940.17
+    },
+    {
+      "start": 949.43,
+      "end": 950.52
+    },
+    {
+      "start": 1107.59,
+      "end": 1109.85
+    },
+    {
+      "start": 1143.53,
+      "end": 1145.19
+    },
+    {
+      "start": 1147.55,
+      "end": 1148.88
+    },
+    {
+      "start": 1150.94,
+      "end": 1153.5
+    },
+    {
+      "start": 1160.06,
+      "end": 1162.14
+    },
+    {
+      "start": 1167.68,
+      "end": 1169.1
+    },
+    {
+      "start": 1195.52,
+      "end": 1196.73
+    },
+    {
+      "start": 1204.13,
+      "end": 1205.22
+    },
+    {
+      "start": 1209.41,
+      "end": 1210.65
+    },
+    {
+      "start": 1243.85,
+      "end": 1245.0
+    },
+    {
+      "start": 1251.8,
+      "end": 1252.98
+    },
+    {
+      "start": 1267.16,
+      "end": 1268.91
+    },
+    {
+      "start": 1271.3,
+      "end": 1274.49
+    },
+    {
+      "start": 1297.82,
+      "end": 1299.03
+    },
+    {
+      "start": 1336.49,
+      "end": 1338.63
+    },
+    {
+      "start": 1351.67,
+      "end": 1363.67
+    },
+    {
+      "start": 1364.54,
+      "end": 1366.77
+    },
+    {
+      "start": 1369.1,
+      "end": 1370.67
+    },
+    {
+      "start": 1374.32,
+      "end": 1377.75
+    },
+    {
+      "start": 1390.88,
+      "end": 1392.45
+    },
+    {
+      "start": 1487.36,
+      "end": 1488.87
+    },
+    {
+      "start": 1496.24,
+      "end": 1497.33
+    },
+    {
+      "start": 1731.77,
+      "end": 1732.98
+    },
+    {
+      "start": 1753.67,
+      "end": 1755.09
+    },
+    {
+      "start": 1776.2,
+      "end": 1777.38
+    },
+    {
+      "start": 1874.45,
+      "end": 1875.66
+    },
+    {
+      "start": 1948.04,
+      "end": 1949.13
+    },
+    {
+      "start": 2046.86,
+      "end": 2047.95
+    },
+    {
+      "start": 2145.77,
+      "end": 2148.18
+    },
+    {
+      "start": 2160.41,
+      "end": 2162.34
+    },
+    {
+      "start": 2243.51,
+      "end": 2244.84
+    },
+    {
+      "start": 2315.33,
+      "end": 2316.75
+    },
+    {
+      "start": 2318.21,
+      "end": 2319.45
+    },
+    {
+      "start": 2325.35,
+      "end": 2329.26
+    },
+    {
+      "start": 2344.82,
+      "end": 2346.81
+    },
+    {
+      "start": 2450.63,
+      "end": 2452.2
+    },
+    {
+      "start": 2598.26,
+      "end": 2599.38
+    },
+    {
+      "start": 2693.99,
+      "end": 2695.29
+    }
+  ]
+}

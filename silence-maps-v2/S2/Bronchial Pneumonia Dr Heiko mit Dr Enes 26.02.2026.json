@@ -1,0 +1,161 @@
+{
+  "id": "S2|Bronchial Pneumonia Dr Heiko mit Dr Enes 26.02.2026.m4a",
+  "name": "Bronchial Pneumonia Dr Heiko mit Dr Enes 26.02.2026.m4a",
+  "title": "Bronchial Pneumonia Dr Heiko mit Dr Enes 26.02.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/Bronchial%20Pneumonia%20Dr%20Heiko%20mit%20Dr%20Enes%2026.02.2026.m4a",
+  "duration": 1750.677,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T11:55:45Z",
+  "segments": [
+    {
+      "start": 0.92,
+      "end": 2.22
+    },
+    {
+      "start": 10.97,
+      "end": 12.6
+    },
+    {
+      "start": 62.66,
+      "end": 63.78
+    },
+    {
+      "start": 66.08,
+      "end": 68.19
+    },
+    {
+      "start": 193.76,
+      "end": 198.18
+    },
+    {
+      "start": 216.83,
+      "end": 217.98
+    },
+    {
+      "start": 218.63,
+      "end": 223.2
+    },
+    {
+      "start": 248.93,
+      "end": 251.25
+    },
+    {
+      "start": 262.07,
+      "end": 263.91
+    },
+    {
+      "start": 267.44,
+      "end": 268.86
+    },
+    {
+      "start": 320.12,
+      "end": 321.96
+    },
+    {
+      "start": 349.76,
+      "end": 352.44
+    },
+    {
+      "start": 377.21,
+      "end": 378.42
+    },
+    {
+      "start": 396.83,
+      "end": 400.8
+    },
+    {
+      "start": 405.98,
+      "end": 408.03
+    },
+    {
+      "start": 409.79,
+      "end": 412.98
+    },
+    {
+      "start": 415.97,
+      "end": 417.12
+    },
+    {
+      "start": 496.76,
+      "end": 498.63
+    },
+    {
+      "start": 519.44,
+      "end": 521.13
+    },
+    {
+      "start": 527.3,
+      "end": 530.85
+    },
+    {
+      "start": 595.13,
+      "end": 596.46
+    },
+    {
+      "start": 623.09,
+      "end": 625.29
+    },
+    {
+      "start": 663.2,
+      "end": 664.35
+    },
+    {
+      "start": 674.87,
+      "end": 677.94
+    },
+    {
+      "start": 679.49,
+      "end": 681.54
+    },
+    {
+      "start": 686.87,
+      "end": 698.67
+    },
+    {
+      "start": 728.84,
+      "end": 740.84
+    },
+    {
+      "start": 760.43,
+      "end": 761.94
+    },
+    {
+      "start": 909.23,
+      "end": 910.38
+    },
+    {
+      "start": 1107.8,
+      "end": 1108.89
+    },
+    {
+      "start": 1109.54,
+      "end": 1110.75
+    },
+    {
+      "start": 1124.57,
+      "end": 1126.74
+    },
+    {
+      "start": 1244.96,
+      "end": 1246.5
+    },
+    {
+      "start": 1264.4,
+      "end": 1266.09
+    },
+    {
+      "start": 1383.14,
+      "end": 1384.26
+    }
+  ]
+}

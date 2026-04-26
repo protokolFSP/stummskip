@@ -1,0 +1,357 @@
+{
+  "id": "S2|Diabetes Mellitus mit diabetische Ketoaszidose Dr Ömer mit Dr lokman 17.04.2026.m4a",
+  "name": "Diabetes Mellitus mit diabetische Ketoaszidose Dr Ömer mit Dr lokman 17.04.2026.m4a",
+  "title": "Diabetes Mellitus mit diabetische Ketoaszidose Dr Ömer mit Dr lokman 17.04.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/Diabetes%20Mellitus%20mit%20diabetische%20Ketoaszidose%20Dr%20%C3%96mer%20mit%20Dr%20lokman%2017.04.2026.m4a",
+  "duration": 2065.771,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T11:56:08Z",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 4.05
+    },
+    {
+      "start": 29.33,
+      "end": 30.75
+    },
+    {
+      "start": 31.82,
+      "end": 33.27
+    },
+    {
+      "start": 71.72,
+      "end": 74.64
+    },
+    {
+      "start": 79.91,
+      "end": 81.24
+    },
+    {
+      "start": 83.45,
+      "end": 95.45
+    },
+    {
+      "start": 102.29,
+      "end": 103.56
+    },
+    {
+      "start": 104.75,
+      "end": 106.08
+    },
+    {
+      "start": 120.71,
+      "end": 121.95
+    },
+    {
+      "start": 133.79,
+      "end": 134.91
+    },
+    {
+      "start": 226.97,
+      "end": 228.48
+    },
+    {
+      "start": 278.51,
+      "end": 281.07
+    },
+    {
+      "start": 306.41,
+      "end": 307.62
+    },
+    {
+      "start": 321.32,
+      "end": 324.9
+    },
+    {
+      "start": 345.5,
+      "end": 346.62
+    },
+    {
+      "start": 419.69,
+      "end": 421.56
+    },
+    {
+      "start": 428.0,
+      "end": 430.41
+    },
+    {
+      "start": 438.26,
+      "end": 439.62
+    },
+    {
+      "start": 442.37,
+      "end": 454.37
+    },
+    {
+      "start": 463.28,
+      "end": 471.54
+    },
+    {
+      "start": 488.03,
+      "end": 492.18
+    },
+    {
+      "start": 493.46,
+      "end": 496.02
+    },
+    {
+      "start": 507.89,
+      "end": 511.02
+    },
+    {
+      "start": 526.82,
+      "end": 527.94
+    },
+    {
+      "start": 529.01,
+      "end": 530.1
+    },
+    {
+      "start": 548.36,
+      "end": 550.05
+    },
+    {
+      "start": 550.94,
+      "end": 552.39
+    },
+    {
+      "start": 558.08,
+      "end": 561.21
+    },
+    {
+      "start": 563.93,
+      "end": 566.16
+    },
+    {
+      "start": 603.5,
+      "end": 605.13
+    },
+    {
+      "start": 609.29,
+      "end": 613.05
+    },
+    {
+      "start": 618.11,
+      "end": 621.3
+    },
+    {
+      "start": 625.64,
+      "end": 632.82
+    },
+    {
+      "start": 647.51,
+      "end": 650.22
+    },
+    {
+      "start": 663.41,
+      "end": 666.9
+    },
+    {
+      "start": 670.19,
+      "end": 677.01
+    },
+    {
+      "start": 689.48,
+      "end": 694.08
+    },
+    {
+      "start": 743.87,
+      "end": 745.71
+    },
+    {
+      "start": 748.04,
+      "end": 751.08
+    },
+    {
+      "start": 753.29,
+      "end": 756.84
+    },
+    {
+      "start": 772.61,
+      "end": 775.8
+    },
+    {
+      "start": 787.31,
+      "end": 789.48
+    },
+    {
+      "start": 801.02,
+      "end": 804.12
+    },
+    {
+      "start": 833.24,
+      "end": 834.96
+    },
+    {
+      "start": 841.46,
+      "end": 842.97
+    },
+    {
+      "start": 850.91,
+      "end": 852.24
+    },
+    {
+      "start": 866.27,
+      "end": 867.63
+    },
+    {
+      "start": 992.63,
+      "end": 996.09
+    },
+    {
+      "start": 1012.01,
+      "end": 1013.91
+    },
+    {
+      "start": 1028.87,
+      "end": 1030.41
+    },
+    {
+      "start": 1031.33,
+      "end": 1032.63
+    },
+    {
+      "start": 1057.58,
+      "end": 1060.08
+    },
+    {
+      "start": 1091.54,
+      "end": 1098.21
+    },
+    {
+      "start": 1099.49,
+      "end": 1107.24
+    },
+    {
+      "start": 1112.21,
+      "end": 1113.42
+    },
+    {
+      "start": 1114.67,
+      "end": 1116.27
+    },
+    {
+      "start": 1126.82,
+      "end": 1128.21
+    },
+    {
+      "start": 1152.26,
+      "end": 1161.57
+    },
+    {
+      "start": 1163.03,
+      "end": 1164.93
+    },
+    {
+      "start": 1165.64,
+      "end": 1167.66
+    },
+    {
+      "start": 1173.77,
+      "end": 1175.4
+    },
+    {
+      "start": 1195.49,
+      "end": 1197.15
+    },
+    {
+      "start": 1204.46,
+      "end": 1206.99
+    },
+    {
+      "start": 1211.21,
+      "end": 1218.66
+    },
+    {
+      "start": 1253.0,
+      "end": 1254.3
+    },
+    {
+      "start": 1259.3,
+      "end": 1261.14
+    },
+    {
+      "start": 1289.87,
+      "end": 1296.09
+    },
+    {
+      "start": 1364.18,
+      "end": 1365.51
+    },
+    {
+      "start": 1375.73,
+      "end": 1382.13
+    },
+    {
+      "start": 1409.72,
+      "end": 1410.99
+    },
+    {
+      "start": 1430.57,
+      "end": 1431.93
+    },
+    {
+      "start": 1463.87,
+      "end": 1465.41
+    },
+    {
+      "start": 1684.1,
+      "end": 1686.06
+    },
+    {
+      "start": 1739.93,
+      "end": 1741.02
+    },
+    {
+      "start": 1813.19,
+      "end": 1815.75
+    },
+    {
+      "start": 1853.87,
+      "end": 1855.17
+    },
+    {
+      "start": 1861.94,
+      "end": 1864.32
+    },
+    {
+      "start": 1867.28,
+      "end": 1868.94
+    },
+    {
+      "start": 1880.15,
+      "end": 1882.17
+    },
+    {
+      "start": 1933.67,
+      "end": 1937.58
+    },
+    {
+      "start": 1939.04,
+      "end": 1940.16
+    },
+    {
+      "start": 2015.21,
+      "end": 2016.6
+    },
+    {
+      "start": 2057.84,
+      "end": 2059.59
+    },
+    {
+      "start": 2061.89,
+      "end": 2063.34
+    }
+  ]
+}

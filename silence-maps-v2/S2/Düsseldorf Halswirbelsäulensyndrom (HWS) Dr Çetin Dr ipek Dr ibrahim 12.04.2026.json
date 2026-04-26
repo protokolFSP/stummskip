@@ -1,0 +1,293 @@
+{
+  "id": "S2|Düsseldorf Halswirbelsäulensyndrom (HWS) Dr Çetin Dr ipek Dr ibrahim 12.04.2026.m4a",
+  "name": "Düsseldorf Halswirbelsäulensyndrom (HWS) Dr Çetin Dr ipek Dr ibrahim 12.04.2026.m4a",
+  "title": "Düsseldorf Halswirbelsäulensyndrom (HWS) Dr Çetin Dr ipek Dr ibrahim 12.04.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/Du%CC%88sseldorf%20Halswirbelsa%CC%88ulensyndrom%20%28HWS%29%20Dr%20C%CC%A7etin%20Dr%20ipek%20Dr%20ibrahim%2012.04.2026.m4a",
+  "duration": 4086.784,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-04-26T11:57:16Z",
+  "segments": [
+    {
+      "start": 11.84,
+      "end": 13.08
+    },
+    {
+      "start": 25.22,
+      "end": 26.34
+    },
+    {
+      "start": 39.56,
+      "end": 41.25
+    },
+    {
+      "start": 103.76,
+      "end": 105.3
+    },
+    {
+      "start": 208.73,
+      "end": 210.18
+    },
+    {
+      "start": 244.04,
+      "end": 245.25
+    },
+    {
+      "start": 308.87,
+      "end": 310.11
+    },
+    {
+      "start": 336.98,
+      "end": 338.28
+    },
+    {
+      "start": 357.47,
+      "end": 359.07
+    },
+    {
+      "start": 432.77,
+      "end": 434.46
+    },
+    {
+      "start": 474.56,
+      "end": 475.8
+    },
+    {
+      "start": 500.87,
+      "end": 502.02
+    },
+    {
+      "start": 544.82,
+      "end": 546.42
+    },
+    {
+      "start": 576.65,
+      "end": 577.74
+    },
+    {
+      "start": 579.68,
+      "end": 581.13
+    },
+    {
+      "start": 581.87,
+      "end": 583.11
+    },
+    {
+      "start": 622.28,
+      "end": 624.6
+    },
+    {
+      "start": 644.24,
+      "end": 645.78
+    },
+    {
+      "start": 656.96,
+      "end": 658.05
+    },
+    {
+      "start": 678.17,
+      "end": 679.83
+    },
+    {
+      "start": 705.02,
+      "end": 707.22
+    },
+    {
+      "start": 746.51,
+      "end": 749.1
+    },
+    {
+      "start": 900.14,
+      "end": 901.89
+    },
+    {
+      "start": 949.91,
+      "end": 951.42
+    },
+    {
+      "start": 1035.59,
+      "end": 1037.01
+    },
+    {
+      "start": 1134.35,
+      "end": 1137.6
+    },
+    {
+      "start": 1141.04,
+      "end": 1144.29
+    },
+    {
+      "start": 1160.96,
+      "end": 1162.26
+    },
+    {
+      "start": 1166.15,
+      "end": 1167.24
+    },
+    {
+      "start": 1206.98,
+      "end": 1208.34
+    },
+    {
+      "start": 1214.09,
+      "end": 1215.6
+    },
+    {
+      "start": 1315.67,
+      "end": 1317.09
+    },
+    {
+      "start": 1336.46,
+      "end": 1338.48
+    },
+    {
+      "start": 1352.21,
+      "end": 1353.36
+    },
+    {
+      "start": 1442.27,
+      "end": 1443.45
+    },
+    {
+      "start": 1458.11,
+      "end": 1459.41
+    },
+    {
+      "start": 1584.92,
+      "end": 1586.07
+    },
+    {
+      "start": 1605.56,
+      "end": 1607.4
+    },
+    {
+      "start": 1750.49,
+      "end": 1751.88
+    },
+    {
+      "start": 1796.42,
+      "end": 1797.72
+    },
+    {
+      "start": 1827.89,
+      "end": 1830.15
+    },
+    {
+      "start": 1869.41,
+      "end": 1871.82
+    },
+    {
+      "start": 1957.55,
+      "end": 1958.97
+    },
+    {
+      "start": 1971.71,
+      "end": 1973.49
+    },
+    {
+      "start": 2432.6,
+      "end": 2434.17
+    },
+    {
+      "start": 2508.95,
+      "end": 2510.28
+    },
+    {
+      "start": 2582.99,
+      "end": 2584.2
+    },
+    {
+      "start": 2744.42,
+      "end": 2746.77
+    },
+    {
+      "start": 2790.95,
+      "end": 2792.22
+    },
+    {
+      "start": 2960.6,
+      "end": 2962.29
+    },
+    {
+      "start": 2988.32,
+      "end": 2989.53
+    },
+    {
+      "start": 2994.02,
+      "end": 2996.28
+    },
+    {
+      "start": 3008.57,
+      "end": 3009.75
+    },
+    {
+      "start": 3109.79,
+      "end": 3111.03
+    },
+    {
+      "start": 3149.51,
+      "end": 3151.62
+    },
+    {
+      "start": 3248.33,
+      "end": 3249.66
+    },
+    {
+      "start": 3297.92,
+      "end": 3299.49
+    },
+    {
+      "start": 3573.02,
+      "end": 3574.14
+    },
+    {
+      "start": 3689.54,
+      "end": 3690.63
+    },
+    {
+      "start": 3705.14,
+      "end": 3707.55
+    },
+    {
+      "start": 3754.52,
+      "end": 3756.03
+    },
+    {
+      "start": 3801.2,
+      "end": 3802.92
+    },
+    {
+      "start": 3827.75,
+      "end": 3830.34
+    },
+    {
+      "start": 3831.29,
+      "end": 3832.56
+    },
+    {
+      "start": 3907.7,
+      "end": 3910.08
+    },
+    {
+      "start": 3918.95,
+      "end": 3920.58
+    },
+    {
+      "start": 3921.77,
+      "end": 3923.16
+    },
+    {
+      "start": 4072.73,
+      "end": 4073.88
+    }
+  ]
+}
