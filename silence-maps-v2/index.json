@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-04-26T12:15:58Z",
+  "updated_at": "2026-04-26T13:44:30Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -881,6 +881,28 @@
       "duration": 2475.541,
       "segment_count": 111,
       "analyzed_at": "2026-04-26T12:15:58Z"
+    },
+    "S2|Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.m4a": {
+      "name": "Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.m4a",
+      "title": "Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2416.661,
+      "segment_count": 180,
+      "analyzed_at": "2026-04-26T13:44:16Z"
+    },
+    "S2|Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.m4a": {
+      "name": "Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.m4a",
+      "title": "Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2204.352,
+      "segment_count": 134,
+      "analyzed_at": "2026-04-26T13:44:30Z"
     }
   }
 }
