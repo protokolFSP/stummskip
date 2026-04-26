@@ -1,231 +1,152 @@
+# .github/workflows/build-silence-maps-v2.yml
 name: Build silence maps v2
 
 on:
-
   workflow_dispatch:
-
     inputs:
-
       source:
-
         description: "Kaynak"
-
         required: true
-
         default: "fspneu"
-
         type: choice
-
         options:
-
           - fspneu
-
           - current
-
       only_new:
-
         description: "Sadece yeni dosyalar"
-
         required: true
-
         default: true
-
         type: boolean
-
       batch_size:
-
         description: "Batch boyutu"
-
         required: true
-
         default: "1"
-
         type: string
-
   schedule:
-
-    - cron: "17 */6 * * *"
+    - cron: "23 */6 * * *"
 
 permissions:
-
   contents: write
 
 concurrency:
-
   group: silence-maps-v2-${{ github.ref }}
-
   cancel-in-progress: false
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
-
     timeout-minutes: 360
 
     steps:
-
       - name: Repo checkout
-
         uses: actions/checkout@v4
-
         with:
-
           fetch-depth: 0
 
       - name: Python kur
-
         uses: actions/setup-python@v5
-
         with:
-
           python-version: "3.11"
 
       - name: FFmpeg kur
-
         run: |
-
           sudo apt-get update
-
           sudo apt-get install -y ffmpeg
 
       - name: Bağımlılıklar
-
         run: |
-
           python -m pip install --upgrade pip
-
           pip install numpy
 
       - name: Parametreleri hazırla
-
         id: params
-
         shell: bash
-
         run: |
-
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-
             echo "source=${{ inputs.source }}" >> "$GITHUB_OUTPUT"
-
             echo "batch_size=${{ inputs.batch_size }}" >> "$GITHUB_OUTPUT"
-
             if [[ "${{ inputs.only_new }}" == "true" ]]; then
-
               echo "only_new=--only-new" >> "$GITHUB_OUTPUT"
-
             else
-
               echo "only_new=" >> "$GITHUB_OUTPUT"
-
             fi
-
           else
-
             echo "source=fspneu" >> "$GITHUB_OUTPUT"
-
             echo "batch_size=1" >> "$GITHUB_OUTPUT"
-
             echo "only_new=--only-new" >> "$GITHUB_OUTPUT"
-
           fi
 
-      - name: Silence map v2 üret
-
-        id: build_maps
-
-        continue-on-error: true
-
+      - name: Repo içeriğini göster
         shell: bash
-
         run: |
+          pwd
+          ls -la
+          echo
+          find . -maxdepth 3 -type f | sort | sed 's#^\./##'
 
+      - name: Silence map v2 üret
+        id: build_maps
+        continue-on-error: true
+        shell: bash
+        run: |
           set -x
-
+          test -f tools/build_silence_maps_v2.py
           python tools/build_silence_maps_v2.py \
-
             --source "${{ steps.params.outputs.source }}" \
-
             --output silence-maps-v2 \
-
             ${{ steps.params.outputs.only_new }} \
-
             --batch-size "${{ steps.params.outputs.batch_size }}" \
-
             --per-file-sleep-sec 1.2 \
-
             --per-batch-sleep-sec 4.0
 
       - name: Çıktıları göster
-
         if: always()
-
         shell: bash
-
         run: |
-
           echo "PWD:"
-
           pwd
-
           echo
-
           echo "ROOT:"
-
           ls -la || true
-
           echo
-
           echo "SILENCE MAPS V2 TREE:"
-
           find silence-maps-v2 -maxdepth 3 -type f | sort || true
-
           echo
-
+          echo "SILENCE MAPS V2 LS:"
+          ls -la silence-maps-v2 || true
+          echo
+          echo "S1:"
+          ls -la silence-maps-v2/S1 || true
+          echo
+          echo "S2:"
+          ls -la silence-maps-v2/S2 || true
+          echo
           echo "INDEX:"
-
           cat silence-maps-v2/index.json || true
 
       - name: Değişiklik varsa commit et
-
         if: always()
-
         shell: bash
-
         run: |
-
           git config user.name "github-actions[bot]"
-
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           mkdir -p silence-maps-v2
-
           git add silence-maps-v2
 
           echo "GIT STATUS:"
-
           git status --short
 
           if git diff --cached --quiet; then
-
             echo "Commitlenecek değişiklik yok."
-
             exit 0
-
           fi
 
           git commit -m "chore: update silence maps v2"
-
           git push
 
       - name: Build sonucu
-
         if: always()
-
         shell: bash
-
         run: |
-
           echo "build_maps outcome = ${{ steps.build_maps.outcome }}"
