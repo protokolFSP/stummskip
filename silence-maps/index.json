@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-04-26T07:55:43Z",
+  "updated_at": "2026-04-26T13:42:33Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4004,6 +4004,28 @@
       "duration": 2780.629,
       "segment_count": 330,
       "analyzed_at": "2026-04-25T07:47:39Z"
+    },
+    "S2|Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.m4a": {
+      "name": "Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.m4a",
+      "title": "Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/Interkostalneuralgie Dr. Murat mit Dr. Ferhat 26.04.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2416.661,
+      "segment_count": 415,
+      "analyzed_at": "2026-04-26T13:42:19Z"
+    },
+    "S2|Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.m4a": {
+      "name": "Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.m4a",
+      "title": "Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.m4a",
+      "src": "S2",
+      "path": "S2/Schlafapnoe-Syndrom Dr. Murat mit Dr Altun 26.04.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2204.352,
+      "segment_count": 271,
+      "analyzed_at": "2026-04-26T13:42:33Z"
     }
   }
 }
