@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-01T13:57:32Z",
+  "updated_at": "2026-05-01T19:46:22Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4005,6 +4005,17 @@
       "duration": 2210.581,
       "segment_count": 66,
       "analyzed_at": "2026-04-26T22:55:44Z"
+    },
+    "S2|Hyperthyreose Dr Heiko mit Dr Nurettin 01.05.2026.m4a": {
+      "name": "Hyperthyreose Dr Heiko mit Dr Nurettin 01.05.2026.m4a",
+      "title": "Hyperthyreose Dr Heiko mit Dr Nurettin 01.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Hyperthyreose Dr Heiko mit Dr Nurettin 01.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2450.005,
+      "segment_count": 126,
+      "analyzed_at": "2026-05-01T19:46:22Z"
     }
   }
 }
