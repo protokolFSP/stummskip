@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-05-03T19:20:24Z",
+  "updated_at": "2026-05-04T04:11:47Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4037,6 +4037,17 @@
       "duration": 2450.005,
       "segment_count": 288,
       "analyzed_at": "2026-05-01T19:40:52Z"
+    },
+    "S2|Apoplex Dr Ömer mit Dr Mustafa A 03.05.2026.m4a": {
+      "name": "Apoplex Dr Ömer mit Dr Mustafa A 03.05.2026.m4a",
+      "title": "Apoplex Dr Ömer mit Dr Mustafa A 03.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Apoplex Dr Ömer mit Dr Mustafa A 03.05.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2709.483,
+      "segment_count": 226,
+      "analyzed_at": "2026-05-04T04:11:47Z"
     }
   }
 }
