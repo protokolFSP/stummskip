@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-05T14:30:14Z",
+  "updated_at": "2026-05-06T04:10:10Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4027,6 +4027,17 @@
       "duration": 2709.483,
       "segment_count": 73,
       "analyzed_at": "2026-05-04T04:14:06Z"
+    },
+    "S2|COPD Dr Gerhild mit Dr Nurettin 05.05.2026.m4a": {
+      "name": "COPD Dr Gerhild mit Dr Nurettin 05.05.2026.m4a",
+      "title": "COPD Dr Gerhild mit Dr Nurettin 05.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/COPD Dr Gerhild mit Dr Nurettin 05.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2874.176,
+      "segment_count": 102,
+      "analyzed_at": "2026-05-06T04:10:10Z"
     }
   }
 }
