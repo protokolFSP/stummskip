@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-07T15:10:17Z",
+  "updated_at": "2026-05-07T19:58:03Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4049,6 +4049,17 @@
       "duration": 1431.36,
       "segment_count": 67,
       "analyzed_at": "2026-05-07T15:10:17Z"
+    },
+    "S2|LINE- Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.m4a": {
+      "name": "LINE- Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.m4a",
+      "title": "LINE- Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/LINE- Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 3018.857,
+      "segment_count": 127,
+      "analyzed_at": "2026-05-07T19:58:03Z"
     }
   }
 }
