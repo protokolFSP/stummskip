@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-05-07T09:01:15Z",
+  "updated_at": "2026-05-07T15:06:06Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4059,6 +4059,17 @@
       "duration": 2874.176,
       "segment_count": 287,
       "analyzed_at": "2026-05-06T04:07:48Z"
+    },
+    "S2|Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.m4a": {
+      "name": "Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.m4a",
+      "title": "Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Coxarthrose Dr Hüseyin mit Dr Hülya 06.05.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 1431.36,
+      "segment_count": 196,
+      "analyzed_at": "2026-05-07T15:06:06Z"
     }
   }
 }
