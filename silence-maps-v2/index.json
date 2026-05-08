@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-07T19:58:03Z",
+  "updated_at": "2026-05-08T03:57:59Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4060,6 +4060,39 @@
       "duration": 3018.857,
       "segment_count": 127,
       "analyzed_at": "2026-05-07T19:58:03Z"
+    },
+    "S2|Hirnblutung Dr Heiko mit Dr Mustafa T 07.05.2026.m4a": {
+      "name": "Hirnblutung Dr Heiko mit Dr Mustafa T 07.05.2026.m4a",
+      "title": "Hirnblutung Dr Heiko mit Dr Mustafa T 07.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Hirnblutung Dr Heiko mit Dr Mustafa T 07.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2978.539,
+      "segment_count": 97,
+      "analyzed_at": "2026-05-08T03:57:28Z"
+    },
+    "S2|Pyelonephritis Fr Gerhild mit Dr. Ferhat 07.05.2026.m4a": {
+      "name": "Pyelonephritis Fr Gerhild mit Dr. Ferhat 07.05.2026.m4a",
+      "title": "Pyelonephritis Fr Gerhild mit Dr. Ferhat 07.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Pyelonephritis Fr Gerhild mit Dr. Ferhat 07.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2669.909,
+      "segment_count": 118,
+      "analyzed_at": "2026-05-08T03:57:43Z"
+    },
+    "S2|Stuttgart Pyelonephritis Fr. Gerhild mit Dr. Ferhat 07.05.2026.m4a": {
+      "name": "Stuttgart Pyelonephritis Fr. Gerhild mit Dr. Ferhat 07.05.2026.m4a",
+      "title": "Stuttgart Pyelonephritis Fr. Gerhild mit Dr. Ferhat 07.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Stuttgart Pyelonephritis Fr. Gerhild mit Dr. Ferhat 07.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2669.909,
+      "segment_count": 118,
+      "analyzed_at": "2026-05-08T03:57:59Z"
     }
   }
 }
