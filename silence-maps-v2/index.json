@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-13T04:18:00Z",
+  "updated_at": "2026-05-13T15:28:25Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4093,6 +4093,17 @@
       "duration": 2669.909,
       "segment_count": 118,
       "analyzed_at": "2026-05-08T03:57:59Z"
+    },
+    "S2|malignes Melanom Fr Gerhild mit Dr. Tekin 12.05.2026.m4a": {
+      "name": "malignes Melanom Fr Gerhild mit Dr. Tekin 12.05.2026.m4a",
+      "title": "malignes Melanom Fr Gerhild mit Dr. Tekin 12.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/malignes Melanom Fr Gerhild mit Dr. Tekin 12.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2942.4,
+      "segment_count": 139,
+      "analyzed_at": "2026-05-13T15:28:25Z"
     }
   }
 }
