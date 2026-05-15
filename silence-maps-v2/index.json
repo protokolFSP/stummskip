@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-15T04:32:24Z",
+  "updated_at": "2026-05-15T09:26:47Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4104,6 +4104,17 @@
       "duration": 2942.4,
       "segment_count": 139,
       "analyzed_at": "2026-05-13T15:28:25Z"
+    },
+    "S2|Ösophaguskarzinom Fr Gerhild mit Dr. Mehmet C 14.05.2026.m4a": {
+      "name": "Ösophaguskarzinom Fr Gerhild mit Dr. Mehmet C 14.05.2026.m4a",
+      "title": "Ösophaguskarzinom Fr Gerhild mit Dr. Mehmet C 14.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Ösophaguskarzinom Fr Gerhild mit Dr. Mehmet C 14.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2764.949,
+      "segment_count": 99,
+      "analyzed_at": "2026-05-15T09:26:47Z"
     }
   }
 }
