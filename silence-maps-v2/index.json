@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-17T14:01:08Z",
+  "updated_at": "2026-05-17T19:42:01Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4137,6 +4137,17 @@
       "duration": 2484.651,
       "segment_count": 142,
       "analyzed_at": "2026-05-16T14:03:05Z"
+    },
+    "S2|NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.m4a": {
+      "name": "NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.m4a",
+      "title": "NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 1924.096,
+      "segment_count": 100,
+      "analyzed_at": "2026-05-17T19:42:01Z"
     }
   }
 }
