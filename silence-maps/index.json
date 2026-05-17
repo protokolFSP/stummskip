@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-05-17T13:59:03Z",
+  "updated_at": "2026-05-17T19:37:52Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4158,6 +4158,17 @@
       "duration": 2484.651,
       "segment_count": 328,
       "analyzed_at": "2026-05-16T14:01:28Z"
+    },
+    "S2|NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.m4a": {
+      "name": "NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.m4a",
+      "title": "NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/NSAID‑assoziierte Gastritis Dr Murat mit Dr Isa 17.05.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 1924.096,
+      "segment_count": 264,
+      "analyzed_at": "2026-05-17T19:37:52Z"
     }
   }
 }
