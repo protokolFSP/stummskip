@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-23T14:06:24Z",
+  "updated_at": "2026-05-23T19:41:24Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4181,6 +4181,28 @@
       "duration": 2281.813,
       "segment_count": 79,
       "analyzed_at": "2026-05-22T04:40:47Z"
+    },
+    "S2|Anemi Dr Murat mit Dr Mustafa T 10.05.2026.m4a": {
+      "name": "Anemi Dr Murat mit Dr Mustafa T 10.05.2026.m4a",
+      "title": "Anemi Dr Murat mit Dr Mustafa T 10.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Anemi Dr Murat mit Dr Mustafa T 10.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2363.456,
+      "segment_count": 132,
+      "analyzed_at": "2026-05-23T19:41:12Z"
+    },
+    "S2|Morbus Crohn Dr Murat mit Dr Mahmud 10.05.2026.m4a": {
+      "name": "Morbus Crohn Dr Murat mit Dr Mahmud 10.05.2026.m4a",
+      "title": "Morbus Crohn Dr Murat mit Dr Mahmud 10.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/Morbus Crohn Dr Murat mit Dr Mahmud 10.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 1711.936,
+      "segment_count": 111,
+      "analyzed_at": "2026-05-23T19:41:24Z"
     }
   }
 }
