@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-05-28T20:38:26Z",
+  "updated_at": "2026-05-29T04:45:12Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4224,6 +4224,17 @@
       "duration": 1711.936,
       "segment_count": 219,
       "analyzed_at": "2026-05-23T19:39:39Z"
+    },
+    "S2|HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.m4a": {
+      "name": "HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.m4a",
+      "title": "HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2279.189,
+      "segment_count": 222,
+      "analyzed_at": "2026-05-29T04:45:12Z"
     }
   }
 }
