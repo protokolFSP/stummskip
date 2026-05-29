@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-29T04:49:24Z",
+  "updated_at": "2026-05-29T10:16:56Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4214,6 +4214,17 @@
       "duration": 2279.189,
       "segment_count": 78,
       "analyzed_at": "2026-05-29T04:49:24Z"
+    },
+    "S2|pAVK Fr Gerhild mit Dr Sumeyra M 26.05.2026.m4a": {
+      "name": "pAVK Fr Gerhild mit Dr Sumeyra M 26.05.2026.m4a",
+      "title": "pAVK Fr Gerhild mit Dr Sumeyra M 26.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/pAVK Fr Gerhild mit Dr Sumeyra M 26.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2251.797,
+      "segment_count": 49,
+      "analyzed_at": "2026-05-29T10:16:56Z"
     }
   }
 }
