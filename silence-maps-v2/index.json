@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-05-28T20:40:02Z",
+  "updated_at": "2026-05-29T04:49:24Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4203,6 +4203,17 @@
       "duration": 1711.936,
       "segment_count": 111,
       "analyzed_at": "2026-05-23T19:41:24Z"
+    },
+    "S2|HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.m4a": {
+      "name": "HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.m4a",
+      "title": "HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.m4a",
+      "src": "S2",
+      "path": "S2/HODGKIN LYMPHOM Fr Gerhild mit Dr Halil 28.05.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2279.189,
+      "segment_count": 78,
+      "analyzed_at": "2026-05-29T04:49:24Z"
     }
   }
 }
