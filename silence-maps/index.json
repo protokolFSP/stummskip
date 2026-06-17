@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-06-17T05:17:55Z",
+  "updated_at": "2026-06-17T11:19:15Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4257,6 +4257,61 @@
       "duration": 2873.109,
       "segment_count": 260,
       "analyzed_at": "2026-06-17T05:17:55Z"
+    },
+    "S2|Bandscheibenvorfall Fr Gerhild mit Dr. Öz 11.06.2026.m4a": {
+      "name": "Bandscheibenvorfall Fr Gerhild mit Dr. Öz 11.06.2026.m4a",
+      "title": "Bandscheibenvorfall Fr Gerhild mit Dr. Öz 11.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Bandscheibenvorfall Fr Gerhild mit Dr. Öz 11.06.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2962.155,
+      "segment_count": 310,
+      "analyzed_at": "2026-06-17T11:18:21Z"
+    },
+    "S2|Herzinsuffizienz Dr Murat mit Dr. Özolle 07.06.2026.m4a": {
+      "name": "Herzinsuffizienz Dr Murat mit Dr. Özolle 07.06.2026.m4a",
+      "title": "Herzinsuffizienz Dr Murat mit Dr. Özolle 07.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Herzinsuffizienz Dr Murat mit Dr. Özolle 07.06.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2163.305,
+      "segment_count": 259,
+      "analyzed_at": "2026-06-17T11:18:35Z"
+    },
+    "S2|Neuroborreliose - Multiple Skleroz Dr Heiko mit Dr. Nuri 04.06.2026.m4a": {
+      "name": "Neuroborreliose - Multiple Skleroz Dr Heiko mit Dr. Nuri 04.06.2026.m4a",
+      "title": "Neuroborreliose - Multiple Skleroz Dr Heiko mit Dr. Nuri 04.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Neuroborreliose - Multiple Skleroz Dr Heiko mit Dr. Nuri 04.06.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2516.203,
+      "segment_count": 309,
+      "analyzed_at": "2026-06-17T11:18:49Z"
+    },
+    "S2|pAVK (Stadium III-IV) Dr Heiko mit Dr Toprak 11.06.2026.m4a": {
+      "name": "pAVK (Stadium III-IV) Dr Heiko mit Dr Toprak 11.06.2026.m4a",
+      "title": "pAVK (Stadium III-IV) Dr Heiko mit Dr Toprak 11.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/pAVK (Stadium III-IV) Dr Heiko mit Dr Toprak 11.06.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2415.616,
+      "segment_count": 177,
+      "analyzed_at": "2026-06-17T11:19:04Z"
+    },
+    "S2|Ulkus Ventriculi Magenkarzinom DrMurat mit Dr. Toprak 07.06.2026.m4a": {
+      "name": "Ulkus Ventriculi Magenkarzinom DrMurat mit Dr. Toprak 07.06.2026.m4a",
+      "title": "Ulkus Ventriculi Magenkarzinom DrMurat mit Dr. Toprak 07.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Ulkus Ventriculi Magenkarzinom DrMurat mit Dr. Toprak 07.06.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 1625.433,
+      "segment_count": 195,
+      "analyzed_at": "2026-06-17T11:19:15Z"
     }
   }
 }
