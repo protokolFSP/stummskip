@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-06-16T21:20:29Z",
+  "updated_at": "2026-06-17T05:17:55Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4246,6 +4246,17 @@
       "duration": 2251.797,
       "segment_count": 180,
       "analyzed_at": "2026-05-29T10:14:49Z"
+    },
+    "S2|Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.m4a": {
+      "name": "Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.m4a",
+      "title": "Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2873.109,
+      "segment_count": 260,
+      "analyzed_at": "2026-06-17T05:17:55Z"
     }
   }
 }
