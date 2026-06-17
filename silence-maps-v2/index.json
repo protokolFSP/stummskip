@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-06-16T21:22:50Z",
+  "updated_at": "2026-06-17T05:21:00Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4225,6 +4225,17 @@
       "duration": 2251.797,
       "segment_count": 49,
       "analyzed_at": "2026-05-29T10:16:56Z"
+    },
+    "S2|Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.m4a": {
+      "name": "Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.m4a",
+      "title": "Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Bronchial Karsinom Fr Gerhild mit Dr. Derya 16.06.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2873.109,
+      "segment_count": 67,
+      "analyzed_at": "2026-06-17T05:21:00Z"
     }
   }
 }
