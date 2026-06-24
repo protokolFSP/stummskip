@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-06-23T20:23:52Z",
+  "updated_at": "2026-06-24T04:38:19Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4312,6 +4312,17 @@
       "duration": 1625.433,
       "segment_count": 195,
       "analyzed_at": "2026-06-17T11:19:15Z"
+    },
+    "S2|ACS- Düsseldorf Fr Gerhild mit Ekrem 23.06.2026.m4a": {
+      "name": "ACS- Düsseldorf Fr Gerhild mit Ekrem 23.06.2026.m4a",
+      "title": "ACS- Düsseldorf Fr Gerhild mit Ekrem 23.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/ACS- Düsseldorf Fr Gerhild mit Ekrem 23.06.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2842.283,
+      "segment_count": 256,
+      "analyzed_at": "2026-06-24T04:38:19Z"
     }
   }
 }
