@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-06-30T04:38:47Z",
+  "updated_at": "2026-06-30T10:04:24Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4302,6 +4302,17 @@
       "duration": 2842.283,
       "segment_count": 89,
       "analyzed_at": "2026-06-24T04:42:59Z"
+    },
+    "S2|Glomerülonephritis Dr. Murat mit Ekrem 28.06.2026.m4a": {
+      "name": "Glomerülonephritis Dr. Murat mit Ekrem 28.06.2026.m4a",
+      "title": "Glomerülonephritis Dr. Murat mit Ekrem 28.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Glomerülonephritis Dr. Murat mit Ekrem 28.06.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 1601.493,
+      "segment_count": 74,
+      "analyzed_at": "2026-06-30T10:04:24Z"
     }
   }
 }
