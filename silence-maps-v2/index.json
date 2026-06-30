@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-06-30T14:46:30Z",
+  "updated_at": "2026-06-30T20:24:14Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4313,6 +4313,17 @@
       "duration": 1601.493,
       "segment_count": 74,
       "analyzed_at": "2026-06-30T10:04:24Z"
+    },
+    "S2|Vorhofflimmern Dr Murat mit Dr Torpak 28.06.2026.m4a": {
+      "name": "Vorhofflimmern Dr Murat mit Dr Torpak 28.06.2026.m4a",
+      "title": "Vorhofflimmern Dr Murat mit Dr Torpak 28.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/Vorhofflimmern Dr Murat mit Dr Torpak 28.06.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2322.517,
+      "segment_count": 158,
+      "analyzed_at": "2026-06-30T20:24:14Z"
     }
   }
 }
