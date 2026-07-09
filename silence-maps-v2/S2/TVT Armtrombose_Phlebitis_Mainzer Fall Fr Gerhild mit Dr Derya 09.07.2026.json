@@ -1,0 +1,277 @@
+{
+  "id": "S2|TVT Armtrombose_Phlebitis_Mainzer Fall Fr Gerhild mit Dr Derya 09.07.2026.m4a",
+  "name": "TVT Armtrombose_Phlebitis_Mainzer Fall Fr Gerhild mit Dr Derya 09.07.2026.m4a",
+  "title": "TVT Armtrombose_Phlebitis_Mainzer Fall Fr Gerhild mit Dr Derya 09.07.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/TVT%20Armtrombose_Phlebitis_Mainzer%20Fall%20Fr%20Gerhild%20mit%20Dr%20Derya%2009.07.2026.m4a",
+  "duration": 3203.84,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-07-09T20:12:40Z",
+  "segments": [
+    {
+      "start": 24.2,
+      "end": 25.5
+    },
+    {
+      "start": 76.97,
+      "end": 78.63
+    },
+    {
+      "start": 89.81,
+      "end": 91.53
+    },
+    {
+      "start": 156.77,
+      "end": 158.28
+    },
+    {
+      "start": 255.95,
+      "end": 257.58
+    },
+    {
+      "start": 280.22,
+      "end": 281.43
+    },
+    {
+      "start": 313.82,
+      "end": 315.36
+    },
+    {
+      "start": 331.01,
+      "end": 332.52
+    },
+    {
+      "start": 337.16,
+      "end": 338.94
+    },
+    {
+      "start": 355.91,
+      "end": 357.84
+    },
+    {
+      "start": 373.25,
+      "end": 375.06
+    },
+    {
+      "start": 376.07,
+      "end": 378.12
+    },
+    {
+      "start": 378.8,
+      "end": 381.18
+    },
+    {
+      "start": 405.05,
+      "end": 406.29
+    },
+    {
+      "start": 410.87,
+      "end": 412.74
+    },
+    {
+      "start": 418.73,
+      "end": 420.96
+    },
+    {
+      "start": 424.46,
+      "end": 426.27
+    },
+    {
+      "start": 473.09,
+      "end": 474.51
+    },
+    {
+      "start": 506.51,
+      "end": 507.78
+    },
+    {
+      "start": 706.61,
+      "end": 708.75
+    },
+    {
+      "start": 751.7,
+      "end": 753.33
+    },
+    {
+      "start": 823.13,
+      "end": 824.58
+    },
+    {
+      "start": 935.66,
+      "end": 936.9
+    },
+    {
+      "start": 1011.74,
+      "end": 1012.92
+    },
+    {
+      "start": 1025.96,
+      "end": 1027.14
+    },
+    {
+      "start": 1046.48,
+      "end": 1048.17
+    },
+    {
+      "start": 1081.88,
+      "end": 1083.3
+    },
+    {
+      "start": 1086.92,
+      "end": 1088.1
+    },
+    {
+      "start": 1096.64,
+      "end": 1098.12
+    },
+    {
+      "start": 1212.14,
+      "end": 1219.83
+    },
+    {
+      "start": 1270.7,
+      "end": 1271.97
+    },
+    {
+      "start": 1274.9,
+      "end": 1281.3
+    },
+    {
+      "start": 1415.99,
+      "end": 1423.05
+    },
+    {
+      "start": 1428.62,
+      "end": 1431.75
+    },
+    {
+      "start": 1432.55,
+      "end": 1436.19
+    },
+    {
+      "start": 1532.33,
+      "end": 1537.32
+    },
+    {
+      "start": 1545.8,
+      "end": 1547.16
+    },
+    {
+      "start": 1601.54,
+      "end": 1602.81
+    },
+    {
+      "start": 1603.55,
+      "end": 1605.57
+    },
+    {
+      "start": 1607.75,
+      "end": 1609.86
+    },
+    {
+      "start": 1720.04,
+      "end": 1721.22
+    },
+    {
+      "start": 1798.31,
+      "end": 1799.82
+    },
+    {
+      "start": 1822.22,
+      "end": 1823.31
+    },
+    {
+      "start": 1851.53,
+      "end": 1853.73
+    },
+    {
+      "start": 1854.83,
+      "end": 1856.58
+    },
+    {
+      "start": 1888.94,
+      "end": 1890.48
+    },
+    {
+      "start": 2044.13,
+      "end": 2045.49
+    },
+    {
+      "start": 2135.18,
+      "end": 2136.75
+    },
+    {
+      "start": 2187.95,
+      "end": 2190.45
+    },
+    {
+      "start": 2212.79,
+      "end": 2214.69
+    },
+    {
+      "start": 2217.8,
+      "end": 2218.89
+    },
+    {
+      "start": 2361.74,
+      "end": 2363.16
+    },
+    {
+      "start": 2402.36,
+      "end": 2403.78
+    },
+    {
+      "start": 2409.89,
+      "end": 2412.27
+    },
+    {
+      "start": 2415.74,
+      "end": 2418.0
+    },
+    {
+      "start": 2421.17,
+      "end": 2424.27
+    },
+    {
+      "start": 2432.0,
+      "end": 2433.57
+    },
+    {
+      "start": 2434.34,
+      "end": 2436.63
+    },
+    {
+      "start": 2438.21,
+      "end": 2439.66
+    },
+    {
+      "start": 2564.63,
+      "end": 2567.31
+    },
+    {
+      "start": 2723.93,
+      "end": 2725.17
+    },
+    {
+      "start": 2999.9,
+      "end": 3001.38
+    },
+    {
+      "start": 3166.82,
+      "end": 3168.27
+    },
+    {
+      "start": 3198.71,
+      "end": 3199.8
+    }
+  ]
+}
