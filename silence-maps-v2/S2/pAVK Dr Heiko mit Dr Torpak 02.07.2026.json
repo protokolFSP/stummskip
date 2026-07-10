@@ -1,0 +1,197 @@
+{
+  "id": "S2|pAVK Dr Heiko mit Dr Torpak 02.07.2026.m4a",
+  "name": "pAVK Dr Heiko mit Dr Torpak 02.07.2026.m4a",
+  "title": "pAVK Dr Heiko mit Dr Torpak 02.07.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/pAVK%20Dr%20Heiko%20mit%20Dr%20Torpak%2002.07.2026.m4a",
+  "duration": 3000.896,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-07-10T15:07:01Z",
+  "segments": [
+    {
+      "start": 14.0,
+      "end": 15.57
+    },
+    {
+      "start": 56.99,
+      "end": 58.5
+    },
+    {
+      "start": 123.17,
+      "end": 125.73
+    },
+    {
+      "start": 138.41,
+      "end": 139.83
+    },
+    {
+      "start": 152.6,
+      "end": 156.69
+    },
+    {
+      "start": 185.78,
+      "end": 187.02
+    },
+    {
+      "start": 193.1,
+      "end": 205.1
+    },
+    {
+      "start": 230.39,
+      "end": 236.82
+    },
+    {
+      "start": 272.36,
+      "end": 276.0
+    },
+    {
+      "start": 307.88,
+      "end": 318.45
+    },
+    {
+      "start": 330.5,
+      "end": 342.5
+    },
+    {
+      "start": 368.57,
+      "end": 380.57
+    },
+    {
+      "start": 408.56,
+      "end": 413.76
+    },
+    {
+      "start": 428.75,
+      "end": 438.36
+    },
+    {
+      "start": 443.18,
+      "end": 445.62
+    },
+    {
+      "start": 455.87,
+      "end": 457.08
+    },
+    {
+      "start": 459.95,
+      "end": 463.62
+    },
+    {
+      "start": 539.09,
+      "end": 544.77
+    },
+    {
+      "start": 570.08,
+      "end": 572.28
+    },
+    {
+      "start": 637.1,
+      "end": 641.97
+    },
+    {
+      "start": 700.73,
+      "end": 703.5
+    },
+    {
+      "start": 724.94,
+      "end": 727.29
+    },
+    {
+      "start": 753.53,
+      "end": 760.17
+    },
+    {
+      "start": 781.04,
+      "end": 784.35
+    },
+    {
+      "start": 786.08,
+      "end": 787.71
+    },
+    {
+      "start": 794.93,
+      "end": 796.53
+    },
+    {
+      "start": 810.2,
+      "end": 814.77
+    },
+    {
+      "start": 844.46,
+      "end": 846.06
+    },
+    {
+      "start": 857.9,
+      "end": 861.78
+    },
+    {
+      "start": 869.09,
+      "end": 870.33
+    },
+    {
+      "start": 875.78,
+      "end": 877.86
+    },
+    {
+      "start": 920.99,
+      "end": 923.52
+    },
+    {
+      "start": 924.41,
+      "end": 926.55
+    },
+    {
+      "start": 930.05,
+      "end": 933.69
+    },
+    {
+      "start": 1088.36,
+      "end": 1097.1
+    },
+    {
+      "start": 1131.23,
+      "end": 1132.47
+    },
+    {
+      "start": 1248.71,
+      "end": 1260.71
+    },
+    {
+      "start": 1459.52,
+      "end": 1467.96
+    },
+    {
+      "start": 1529.57,
+      "end": 1530.84
+    },
+    {
+      "start": 1617.23,
+      "end": 1618.35
+    },
+    {
+      "start": 2128.16,
+      "end": 2129.37
+    },
+    {
+      "start": 2173.49,
+      "end": 2175.48
+    },
+    {
+      "start": 2360.51,
+      "end": 2361.84
+    },
+    {
+      "start": 2667.83,
+      "end": 2679.83
+    }
+  ]
+}

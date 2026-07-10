@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-07-10T09:56:04Z",
+  "updated_at": "2026-07-10T15:07:01Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4335,6 +4335,17 @@
       "duration": 3203.84,
       "segment_count": 64,
       "analyzed_at": "2026-07-09T20:12:40Z"
+    },
+    "S2|pAVK Dr Heiko mit Dr Torpak 02.07.2026.m4a": {
+      "name": "pAVK Dr Heiko mit Dr Torpak 02.07.2026.m4a",
+      "title": "pAVK Dr Heiko mit Dr Torpak 02.07.2026.m4a",
+      "src": "S2",
+      "path": "S2/pAVK Dr Heiko mit Dr Torpak 02.07.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 3000.896,
+      "segment_count": 44,
+      "analyzed_at": "2026-07-10T15:07:01Z"
     }
   }
 }
