@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-07-12T08:33:49Z",
+  "updated_at": "2026-07-12T14:00:00Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4346,6 +4346,17 @@
       "duration": 3000.896,
       "segment_count": 44,
       "analyzed_at": "2026-07-10T15:07:01Z"
+    },
+    "S2|Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.m4a": {
+      "name": "Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.m4a",
+      "title": "Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.m4a",
+      "src": "S2",
+      "path": "S2/Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 3534.72,
+      "segment_count": 115,
+      "analyzed_at": "2026-07-12T14:00:00Z"
     }
   }
 }
