@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-07-12T08:32:00Z",
+  "updated_at": "2026-07-12T13:57:33Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4367,6 +4367,17 @@
       "duration": 3000.896,
       "segment_count": 120,
       "analyzed_at": "2026-07-10T15:02:55Z"
+    },
+    "S2|Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.m4a": {
+      "name": "Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.m4a",
+      "title": "Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.m4a",
+      "src": "S2",
+      "path": "S2/Ulcus ventriculi Fr Gerhild mit Dr Duran 02.07.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 3534.72,
+      "segment_count": 333,
+      "analyzed_at": "2026-07-12T13:57:33Z"
     }
   }
 }
