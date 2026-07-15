@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-07-15T03:41:10Z",
+  "updated_at": "2026-07-15T08:38:47Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4357,6 +4357,17 @@
       "duration": 3534.72,
       "segment_count": 115,
       "analyzed_at": "2026-07-12T14:00:00Z"
+    },
+    "S2|Kolonkarzinom Fr. Gerhild mit Dr.Derya 14.07.2026.m4a": {
+      "name": "Kolonkarzinom Fr. Gerhild mit Dr.Derya 14.07.2026.m4a",
+      "title": "Kolonkarzinom Fr. Gerhild mit Dr.Derya 14.07.2026.m4a",
+      "src": "S2",
+      "path": "S2/Kolonkarzinom Fr. Gerhild mit Dr.Derya 14.07.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2345.003,
+      "segment_count": 69,
+      "analyzed_at": "2026-07-15T08:38:47Z"
     }
   }
 }
