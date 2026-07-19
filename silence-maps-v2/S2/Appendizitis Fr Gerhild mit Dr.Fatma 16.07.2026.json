@@ -1,0 +1,217 @@
+{
+  "id": "S2|Appendizitis Fr Gerhild mit Dr.Fatma 16.07.2026.m4a",
+  "name": "Appendizitis Fr Gerhild mit Dr.Fatma 16.07.2026.m4a",
+  "title": "Appendizitis Fr Gerhild mit Dr.Fatma 16.07.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/Appendizitis%20Fr%20Gerhild%20mit%20Dr.Fatma%2016.07.2026.m4a",
+  "duration": 2510.912,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-07-19T13:57:55Z",
+  "segments": [
+    {
+      "start": 66.32,
+      "end": 68.16
+    },
+    {
+      "start": 85.16,
+      "end": 86.73
+    },
+    {
+      "start": 328.43,
+      "end": 332.37
+    },
+    {
+      "start": 356.93,
+      "end": 358.05
+    },
+    {
+      "start": 428.75,
+      "end": 432.87
+    },
+    {
+      "start": 456.65,
+      "end": 460.56
+    },
+    {
+      "start": 734.18,
+      "end": 735.63
+    },
+    {
+      "start": 771.92,
+      "end": 773.13
+    },
+    {
+      "start": 797.99,
+      "end": 799.41
+    },
+    {
+      "start": 800.15,
+      "end": 801.72
+    },
+    {
+      "start": 815.6,
+      "end": 817.02
+    },
+    {
+      "start": 865.79,
+      "end": 867.27
+    },
+    {
+      "start": 869.18,
+      "end": 870.36
+    },
+    {
+      "start": 942.08,
+      "end": 943.32
+    },
+    {
+      "start": 964.19,
+      "end": 965.64
+    },
+    {
+      "start": 975.35,
+      "end": 976.8
+    },
+    {
+      "start": 1033.61,
+      "end": 1034.79
+    },
+    {
+      "start": 1041.32,
+      "end": 1043.34
+    },
+    {
+      "start": 1047.56,
+      "end": 1048.89
+    },
+    {
+      "start": 1169.6,
+      "end": 1171.53
+    },
+    {
+      "start": 1184.6,
+      "end": 1186.89
+    },
+    {
+      "start": 1201.88,
+      "end": 1213.88
+    },
+    {
+      "start": 1253.06,
+      "end": 1259.52
+    },
+    {
+      "start": 1273.85,
+      "end": 1281.54
+    },
+    {
+      "start": 1283.24,
+      "end": 1288.86
+    },
+    {
+      "start": 1370.33,
+      "end": 1371.42
+    },
+    {
+      "start": 1500.62,
+      "end": 1501.74
+    },
+    {
+      "start": 1542.26,
+      "end": 1543.65
+    },
+    {
+      "start": 1719.11,
+      "end": 1720.38
+    },
+    {
+      "start": 1764.23,
+      "end": 1766.22
+    },
+    {
+      "start": 1770.35,
+      "end": 1771.47
+    },
+    {
+      "start": 1826.84,
+      "end": 1828.26
+    },
+    {
+      "start": 1843.91,
+      "end": 1845.39
+    },
+    {
+      "start": 1872.47,
+      "end": 1873.56
+    },
+    {
+      "start": 2067.86,
+      "end": 2069.16
+    },
+    {
+      "start": 2074.73,
+      "end": 2076.63
+    },
+    {
+      "start": 2171.54,
+      "end": 2172.78
+    },
+    {
+      "start": 2210.12,
+      "end": 2211.78
+    },
+    {
+      "start": 2217.32,
+      "end": 2219.31
+    },
+    {
+      "start": 2261.0,
+      "end": 2262.36
+    },
+    {
+      "start": 2263.07,
+      "end": 2264.4
+    },
+    {
+      "start": 2273.3,
+      "end": 2274.69
+    },
+    {
+      "start": 2276.0,
+      "end": 2277.57
+    },
+    {
+      "start": 2307.53,
+      "end": 2309.13
+    },
+    {
+      "start": 2311.94,
+      "end": 2313.12
+    },
+    {
+      "start": 2330.33,
+      "end": 2331.93
+    },
+    {
+      "start": 2334.62,
+      "end": 2335.92
+    },
+    {
+      "start": 2455.43,
+      "end": 2456.55
+    },
+    {
+      "start": 2475.23,
+      "end": 2476.98
+    }
+  ]
+}

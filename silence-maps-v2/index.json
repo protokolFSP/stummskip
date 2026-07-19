@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-07-19T04:02:39Z",
+  "updated_at": "2026-07-19T13:57:55Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4390,6 +4390,17 @@
       "duration": 2326.379,
       "segment_count": 72,
       "analyzed_at": "2026-07-18T08:12:57Z"
+    },
+    "S2|Appendizitis Fr Gerhild mit Dr.Fatma 16.07.2026.m4a": {
+      "name": "Appendizitis Fr Gerhild mit Dr.Fatma 16.07.2026.m4a",
+      "title": "Appendizitis Fr Gerhild mit Dr.Fatma 16.07.2026.m4a",
+      "src": "S2",
+      "path": "S2/Appendizitis Fr Gerhild mit Dr.Fatma 16.07.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2510.912,
+      "segment_count": 49,
+      "analyzed_at": "2026-07-19T13:57:55Z"
     }
   }
 }
