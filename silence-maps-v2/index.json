@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-07-29T03:46:03Z",
+  "updated_at": "2026-07-29T09:17:11Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4412,6 +4412,17 @@
       "duration": 2577.771,
       "segment_count": 61,
       "analyzed_at": "2026-07-24T03:50:37Z"
+    },
+    "S2|Akute Exazerbation einer chronischen Pankreatitis Dr Heiko mit Dr. Toprak 23.07.2026.m4a": {
+      "name": "Akute Exazerbation einer chronischen Pankreatitis Dr Heiko mit Dr. Toprak 23.07.2026.m4a",
+      "title": "Akute Exazerbation einer chronischen Pankreatitis Dr Heiko mit Dr. Toprak 23.07.2026.m4a",
+      "src": "S2",
+      "path": "S2/Akute Exazerbation einer chronischen Pankreatitis Dr Heiko mit Dr. Toprak 23.07.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2947.733,
+      "segment_count": 76,
+      "analyzed_at": "2026-07-29T09:17:11Z"
     }
   }
 }
