@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-08-11T02:31:32Z",
+  "updated_at": "2026-08-11T07:43:02Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4423,6 +4423,17 @@
       "duration": 2947.733,
       "segment_count": 76,
       "analyzed_at": "2026-07-29T09:17:11Z"
+    },
+    "S2|Ureterolithiasis Fr Gerhild mit Dr Fatma 28.07.2026.m4a": {
+      "name": "Ureterolithiasis Fr Gerhild mit Dr Fatma 28.07.2026.m4a",
+      "title": "Ureterolithiasis Fr Gerhild mit Dr Fatma 28.07.2026.m4a",
+      "src": "S2",
+      "path": "S2/Ureterolithiasis Fr Gerhild mit Dr Fatma 28.07.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2427.989,
+      "segment_count": 41,
+      "analyzed_at": "2026-08-11T07:43:02Z"
     }
   }
 }
