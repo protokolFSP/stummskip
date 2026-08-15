@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-08-14T19:23:30Z",
+  "updated_at": "2026-08-15T01:53:46Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4434,6 +4434,28 @@
       "duration": 2427.989,
       "segment_count": 41,
       "analyzed_at": "2026-08-11T07:43:02Z"
+    },
+    "S2|ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.m4a": {
+      "name": "ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.m4a",
+      "title": "ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.m4a",
+      "src": "S2",
+      "path": "S2/ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2037.44,
+      "segment_count": 130,
+      "analyzed_at": "2026-08-15T01:53:30Z"
+    },
+    "S2|Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.m4a": {
+      "name": "Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.m4a",
+      "title": "Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.m4a",
+      "src": "S2",
+      "path": "S2/Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2955.605,
+      "segment_count": 161,
+      "analyzed_at": "2026-08-15T01:53:46Z"
     }
   }
 }
