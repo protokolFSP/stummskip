@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-08-14T19:15:08Z",
+  "updated_at": "2026-08-15T01:51:30Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4455,6 +4455,28 @@
       "duration": 2427.989,
       "segment_count": 141,
       "analyzed_at": "2026-08-11T07:39:05Z"
+    },
+    "S2|ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.m4a": {
+      "name": "ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.m4a",
+      "title": "ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.m4a",
+      "src": "S2",
+      "path": "S2/ACS Dr. Rüveyda mit Dr. Buğra 14.08.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2037.44,
+      "segment_count": 264,
+      "analyzed_at": "2026-08-15T01:51:15Z"
+    },
+    "S2|Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.m4a": {
+      "name": "Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.m4a",
+      "title": "Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.m4a",
+      "src": "S2",
+      "path": "S2/Kopfschmerzen Fr. Gerhild mit Dr. Buğra 13.08.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2955.605,
+      "segment_count": 392,
+      "analyzed_at": "2026-08-15T01:51:30Z"
     }
   }
 }
