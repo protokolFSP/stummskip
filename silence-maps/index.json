@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-08-30T11:57:00Z",
+  "updated_at": "2026-08-30T16:42:59Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4477,6 +4477,17 @@
       "duration": 2955.605,
       "segment_count": 392,
       "analyzed_at": "2026-08-15T01:51:30Z"
+    },
+    "S2|Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.m4a": {
+      "name": "Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.m4a",
+      "title": "Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.m4a",
+      "src": "S2",
+      "path": "S2/Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 2329.707,
+      "segment_count": 260,
+      "analyzed_at": "2026-08-30T16:42:59Z"
     }
   }
 }
