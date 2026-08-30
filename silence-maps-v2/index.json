@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-08-30T12:02:00Z",
+  "updated_at": "2026-08-30T16:48:36Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4456,6 +4456,17 @@
       "duration": 2955.605,
       "segment_count": 161,
       "analyzed_at": "2026-08-15T01:53:46Z"
+    },
+    "S2|Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.m4a": {
+      "name": "Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.m4a",
+      "title": "Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.m4a",
+      "src": "S2",
+      "path": "S2/Pertussis Fr Gerhild mit Dr Buğra 27.08.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2329.707,
+      "segment_count": 104,
+      "analyzed_at": "2026-08-30T16:48:36Z"
     }
   }
 }
