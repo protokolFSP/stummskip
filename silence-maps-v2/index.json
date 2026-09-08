@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-09-08T16:44:23Z",
+  "updated_at": "2026-09-08T21:15:54Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4467,6 +4467,17 @@
       "duration": 2329.707,
       "segment_count": 104,
       "analyzed_at": "2026-08-30T16:48:36Z"
+    },
+    "S2|Hypertensive Krise aufgrund einer Hyperthyreose Dr Ömer mit DR M TOPRAK 04.09.2026.m4a": {
+      "name": "Hypertensive Krise aufgrund einer Hyperthyreose Dr Ömer mit DR M TOPRAK 04.09.2026.m4a",
+      "title": "Hypertensive Krise aufgrund einer Hyperthyreose Dr Ömer mit DR M TOPRAK 04.09.2026.m4a",
+      "src": "S2",
+      "path": "S2/Hypertensive Krise aufgrund einer Hyperthyreose Dr Ömer mit DR M TOPRAK 04.09.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2657.215,
+      "segment_count": 80,
+      "analyzed_at": "2026-09-08T21:15:54Z"
     }
   }
 }
