@@ -1,6 +1,6 @@
 {
   "version": "sm-v1",
-  "updated_at": "2026-09-08T21:11:59Z",
+  "updated_at": "2026-09-09T04:46:29Z",
   "items": {
     "S2|akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a": {
       "name": "akute Appendizitis  Dr Murat mit Dr Nuri 01.03.2026.m4a",
@@ -4499,6 +4499,28 @@
       "duration": 2657.215,
       "segment_count": 227,
       "analyzed_at": "2026-09-08T21:11:59Z"
+    },
+    "S2|pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.m4a": {
+      "name": "pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.m4a",
+      "title": "pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.m4a",
+      "src": "S2",
+      "path": "S2/pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 3759.232,
+      "segment_count": 302,
+      "analyzed_at": "2026-09-09T04:46:07Z"
+    },
+    "S2|pAVK DR Gerhild mit Dr Toprak 08.09.2026.m4a": {
+      "name": "pAVK DR Gerhild mit Dr Toprak 08.09.2026.m4a",
+      "title": "pAVK DR Gerhild mit Dr Toprak 08.09.2026.m4a",
+      "src": "S2",
+      "path": "S2/pAVK DR Gerhild mit Dr Toprak 08.09.2026.json",
+      "algo_version": "sm-v1",
+      "status": "done",
+      "duration": 3759.232,
+      "segment_count": 302,
+      "analyzed_at": "2026-09-09T04:46:29Z"
     }
   }
 }
