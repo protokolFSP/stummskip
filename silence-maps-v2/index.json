@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-09-08T21:15:54Z",
+  "updated_at": "2026-09-09T04:54:06Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4478,6 +4478,28 @@
       "duration": 2657.215,
       "segment_count": 80,
       "analyzed_at": "2026-09-08T21:15:54Z"
+    },
+    "S2|pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.m4a": {
+      "name": "pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.m4a",
+      "title": "pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.m4a",
+      "src": "S2",
+      "path": "S2/pAVK Dr Gerhild mit Dr M TOPRAK 08.09.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 3759.232,
+      "segment_count": 105,
+      "analyzed_at": "2026-09-09T04:53:52Z"
+    },
+    "S2|pAVK DR Gerhild mit Dr Toprak 08.09.2026.m4a": {
+      "name": "pAVK DR Gerhild mit Dr Toprak 08.09.2026.m4a",
+      "title": "pAVK DR Gerhild mit Dr Toprak 08.09.2026.m4a",
+      "src": "S2",
+      "path": "S2/pAVK DR Gerhild mit Dr Toprak 08.09.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 3759.232,
+      "segment_count": 105,
+      "analyzed_at": "2026-09-09T04:54:06Z"
     }
   }
 }
