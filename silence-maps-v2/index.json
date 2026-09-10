@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-09-10T16:32:08Z",
+  "updated_at": "2026-09-10T20:58:39Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4500,6 +4500,17 @@
       "duration": 3759.232,
       "segment_count": 105,
       "analyzed_at": "2026-09-09T04:54:06Z"
+    },
+    "S2|Oophoritis und Salpengitis Dr Heiko mit Dr. Toprak 10.09.2026.m4a": {
+      "name": "Oophoritis und Salpengitis Dr Heiko mit Dr. Toprak 10.09.2026.m4a",
+      "title": "Oophoritis und Salpengitis Dr Heiko mit Dr. Toprak 10.09.2026.m4a",
+      "src": "S2",
+      "path": "S2/Oophoritis und Salpengitis Dr Heiko mit Dr. Toprak 10.09.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2153.877,
+      "segment_count": 70,
+      "analyzed_at": "2026-09-10T20:58:39Z"
     }
   }
 }
