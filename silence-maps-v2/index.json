@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-09-17T21:30:54Z",
+  "updated_at": "2026-09-18T04:54:34Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4522,6 +4522,17 @@
       "duration": 2116.864,
       "segment_count": 83,
       "analyzed_at": "2026-09-13T20:57:05Z"
+    },
+    "S2|Obere Gis Blutung Fr Gerhild mit Dr Toprak 17.09.2026.m4a": {
+      "name": "Obere Gis Blutung Fr Gerhild mit Dr Toprak 17.09.2026.m4a",
+      "title": "Obere Gis Blutung Fr Gerhild mit Dr Toprak 17.09.2026.m4a",
+      "src": "S2",
+      "path": "S2/Obere Gis Blutung Fr Gerhild mit Dr Toprak 17.09.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 3056.363,
+      "segment_count": 102,
+      "analyzed_at": "2026-09-18T04:54:34Z"
     }
   }
 }
