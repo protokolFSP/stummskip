@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-10-04T12:33:57Z",
+  "updated_at": "2026-10-04T21:39:19Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4533,6 +4533,17 @@
       "duration": 3056.363,
       "segment_count": 102,
       "analyzed_at": "2026-09-18T04:54:34Z"
+    },
+    "S2|Colitis Ulcerosa Dr Murat mit Dr Furkan 04.10.2026.m4a": {
+      "name": "Colitis Ulcerosa Dr Murat mit Dr Furkan 04.10.2026.m4a",
+      "title": "Colitis Ulcerosa Dr Murat mit Dr Furkan 04.10.2026.m4a",
+      "src": "S2",
+      "path": "S2/Colitis Ulcerosa Dr Murat mit Dr Furkan 04.10.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2122.88,
+      "segment_count": 159,
+      "analyzed_at": "2026-10-04T21:39:19Z"
     }
   }
 }
