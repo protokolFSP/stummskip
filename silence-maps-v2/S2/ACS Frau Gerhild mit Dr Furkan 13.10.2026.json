@@ -1,0 +1,217 @@
+{
+  "id": "S2|ACS Frau Gerhild mit Dr Furkan 13.10.2026.m4a",
+  "name": "ACS Frau Gerhild mit Dr Furkan 13.10.2026.m4a",
+  "title": "ACS Frau Gerhild mit Dr Furkan 13.10.2026.m4a",
+  "src": "S2",
+  "url": "https://archive.org/download/FSPneu/ACS%20Frau%20Gerhild%20mit%20Dr%20Furkan%2013.10.2026.m4a",
+  "duration": 1408.469,
+  "sample_rate": 16000,
+  "threshold": 0.01,
+  "frame_ms": 30,
+  "min_silence_ms": 1400,
+  "merge_gap_ms": 320,
+  "keep_lead_ms": 140,
+  "keep_tail_ms": 180,
+  "min_skip_ms": 900,
+  "max_skip_ms": 12000,
+  "algo_version": "sm-v2",
+  "analyzed_at": "2026-10-13T22:56:21Z",
+  "segments": [
+    {
+      "start": 73.46,
+      "end": 74.55
+    },
+    {
+      "start": 82.04,
+      "end": 84.06
+    },
+    {
+      "start": 89.78,
+      "end": 92.1
+    },
+    {
+      "start": 107.15,
+      "end": 108.36
+    },
+    {
+      "start": 124.07,
+      "end": 127.11
+    },
+    {
+      "start": 132.11,
+      "end": 134.97
+    },
+    {
+      "start": 153.95,
+      "end": 155.16
+    },
+    {
+      "start": 156.17,
+      "end": 157.41
+    },
+    {
+      "start": 209.99,
+      "end": 212.01
+    },
+    {
+      "start": 251.66,
+      "end": 253.44
+    },
+    {
+      "start": 270.71,
+      "end": 272.1
+    },
+    {
+      "start": 354.05,
+      "end": 355.32
+    },
+    {
+      "start": 403.4,
+      "end": 406.38
+    },
+    {
+      "start": 411.11,
+      "end": 412.29
+    },
+    {
+      "start": 432.53,
+      "end": 433.83
+    },
+    {
+      "start": 464.33,
+      "end": 467.79
+    },
+    {
+      "start": 471.8,
+      "end": 473.07
+    },
+    {
+      "start": 479.72,
+      "end": 486.03
+    },
+    {
+      "start": 490.31,
+      "end": 492.0
+    },
+    {
+      "start": 498.68,
+      "end": 500.19
+    },
+    {
+      "start": 503.78,
+      "end": 505.11
+    },
+    {
+      "start": 541.94,
+      "end": 544.98
+    },
+    {
+      "start": 546.83,
+      "end": 548.13
+    },
+    {
+      "start": 549.68,
+      "end": 552.15
+    },
+    {
+      "start": 564.35,
+      "end": 565.5
+    },
+    {
+      "start": 603.17,
+      "end": 606.21
+    },
+    {
+      "start": 672.95,
+      "end": 674.04
+    },
+    {
+      "start": 750.47,
+      "end": 751.74
+    },
+    {
+      "start": 758.21,
+      "end": 759.93
+    },
+    {
+      "start": 870.65,
+      "end": 872.64
+    },
+    {
+      "start": 875.0,
+      "end": 876.24
+    },
+    {
+      "start": 881.24,
+      "end": 883.05
+    },
+    {
+      "start": 911.18,
+      "end": 912.39
+    },
+    {
+      "start": 962.66,
+      "end": 964.08
+    },
+    {
+      "start": 970.4,
+      "end": 971.82
+    },
+    {
+      "start": 985.88,
+      "end": 987.39
+    },
+    {
+      "start": 1062.83,
+      "end": 1064.07
+    },
+    {
+      "start": 1072.37,
+      "end": 1073.55
+    },
+    {
+      "start": 1148.51,
+      "end": 1149.75
+    },
+    {
+      "start": 1182.05,
+      "end": 1184.34
+    },
+    {
+      "start": 1185.08,
+      "end": 1188.3
+    },
+    {
+      "start": 1199.03,
+      "end": 1200.27
+    },
+    {
+      "start": 1224.62,
+      "end": 1226.55
+    },
+    {
+      "start": 1261.34,
+      "end": 1263.09
+    },
+    {
+      "start": 1263.74,
+      "end": 1264.98
+    },
+    {
+      "start": 1265.87,
+      "end": 1269.99
+    },
+    {
+      "start": 1291.1,
+      "end": 1294.71
+    },
+    {
+      "start": 1344.14,
+      "end": 1345.23
+    },
+    {
+      "start": 1405.61,
+      "end": 1408.289
+    }
+  ]
+}
