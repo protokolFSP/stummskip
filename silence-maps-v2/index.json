@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-10-22T12:06:12Z",
+  "updated_at": "2026-10-22T17:20:23Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4577,6 +4577,17 @@
       "duration": 3938.816,
       "segment_count": 85,
       "analyzed_at": "2026-10-21T21:50:33Z"
+    },
+    "S2|ACS- Düsseldorf Frau Gerhild mit Ekrem 23.06.2026.m4a": {
+      "name": "ACS- Düsseldorf Frau Gerhild mit Ekrem 23.06.2026.m4a",
+      "title": "ACS- Düsseldorf Frau Gerhild mit Ekrem 23.06.2026.m4a",
+      "src": "S2",
+      "path": "S2/ACS- Düsseldorf Frau Gerhild mit Ekrem 23.06.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 2842.283,
+      "segment_count": 89,
+      "analyzed_at": "2026-10-22T17:20:23Z"
     }
   }
 }
