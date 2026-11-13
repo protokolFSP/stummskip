@@ -1,6 +1,6 @@
 {
   "version": "sm-v2",
-  "updated_at": "2026-11-12T20:08:04Z",
+  "updated_at": "2026-11-13T06:57:38Z",
   "items": {
     "S2|ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a": {
       "name": "ACS Fr Gerhild mit Dr MustafaT 23.04.2026.m4a",
@@ -4588,6 +4588,17 @@
       "duration": 2842.283,
       "segment_count": 89,
       "analyzed_at": "2026-10-22T17:20:23Z"
+    },
+    "S2|Hyperthyrose Fr. Gerhild mit Dr Hakan 12.11.2026.m4a": {
+      "name": "Hyperthyrose Fr. Gerhild mit Dr Hakan 12.11.2026.m4a",
+      "title": "Hyperthyrose Fr. Gerhild mit Dr Hakan 12.11.2026.m4a",
+      "src": "S2",
+      "path": "S2/Hyperthyrose Fr. Gerhild mit Dr Hakan 12.11.2026.json",
+      "algo_version": "sm-v2",
+      "status": "done",
+      "duration": 6752.043,
+      "segment_count": 293,
+      "analyzed_at": "2026-11-13T06:57:38Z"
     }
   }
 }
